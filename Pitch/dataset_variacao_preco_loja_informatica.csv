@@ -1,0 +1,2051 @@
+Data da Venda,Código Produto,Nome Produto,Categoria do Produto,Quantidade Vendido,Valor Unitário,Valor Total da Venda,Cidade da Loja,País da Loja,Vendedor
+2024-01-26,60,Cadeira,Móveis,1,300.0,300.0,Porto,Portugal,Miguel
+2023-03-19,92,HD Sata,Armazenamento,6,468.0,2808.0,São Paulo,Brasil,Carlos
+2023-04-25,11,Teclado,Periféricos,8,159.0,1272.0,Valencia,Espanha,Carlos
+2024-01-17,23,Cabo HDMI,Periféricos,4,40.0,160.0,Rio de Janeiro,Brasil,Ana
+2023-09-15,90,HD SSD,Armazenamento,4,696.0,2784.0,Valencia,Espanha,María
+2023-07-21,80,Licença Office 365,Software,7,392.0,2744.0,Coimbra,Portugal,Miguel
+2023-05-05,22,Cabo Energia,Periféricos,10,32.4,324.0,Lisboa,Portugal,Sofia
+2023-11-24,80,Licença Office 365,Software,4,420.0,1680.0,Coimbra,Portugal,Sofia
+2023-10-31,80,Licença Office 365,Software,10,413.0,4130.0,Coimbra,Portugal,Sofia
+2024-01-15,60,Cadeira,Móveis,9,300.0,2700.0,Valencia,Espanha,David
+2023-05-24,70,Licença Windows,Software,8,972.0,7776.0,Coimbra,Portugal,André
+2023-07-16,10,Mouse,Periféricos,10,112.0,1120.0,São Paulo,Brasil,Carlos
+2023-03-21,35,Computador,Computadores,10,2392.0,23920.0,Belo Horizonte,Brasil,Ana
+2023-08-14,92,HD Sata,Armazenamento,4,513.0,2052.0,Valencia,Espanha,María
+2023-04-11,95,Memória,Armazenamento,8,339.2,2713.6,Valencia,Espanha,María
+2024-01-19,40,Nobreak,Periféricos,6,500.0,3000.0,São Paulo,Brasil,Carlos
+2023-07-15,20,Monitor,Monitores,9,896.0,8064.0,Valencia,Espanha,David
+2024-02-03,70,Licença Windows,Software,7,918.0,6426.0,Chicago,Estados Unidos,John
+2023-08-01,11,Teclado,Periféricos,6,171.0,1026.0,São Paulo,Brasil,João
+2023-03-07,35,Computador,Computadores,10,2392.0,23920.0,Belo Horizonte,Brasil,Ana
+2023-07-22,95,Memória,Armazenamento,9,358.4,3225.6,Coimbra,Portugal,Sofia
+2023-11-06,95,Memória,Armazenamento,2,384.0,768.0,New York,Estados Unidos,John
+2023-03-06,70,Licença Windows,Software,1,936.0,936.0,Porto,Portugal,Miguel
+2023-08-04,95,Memória,Armazenamento,7,364.8,2553.6,Valencia,Espanha,Carlos
+2023-08-02,95,Memória,Armazenamento,8,364.8,2918.4,Valencia,Espanha,Carlos
+2023-12-14,60,Cadeira,Móveis,9,366.0,3294.0,Madrid,Espanha,Carlos
+2023-02-23,35,Computador,Computadores,6,2346.0,14076.0,Coimbra,Portugal,Miguel
+2024-01-04,24,Cabo Rede,Periféricos,10,25.0,250.0,Los Angeles,Estados Unidos,Bob
+2023-05-09,10,Mouse,Periféricos,4,108.0,432.0,Madrid,Espanha,Carlos
+2023-09-10,20,Monitor,Monitores,1,928.0,928.0,Lisboa,Portugal,Miguel
+2023-09-11,70,Licença Windows,Software,8,1044.0,8352.0,New York,Estados Unidos,John
+2023-10-18,50,Mesa,Móveis,3,531.0,1593.0,Lisboa,Portugal,André
+2023-12-10,20,Monitor,Monitores,4,976.0,3904.0,Porto,Portugal,Miguel
+2023-05-22,60,Cadeira,Móveis,2,324.0,648.0,Los Angeles,Estados Unidos,John
+2023-11-20,92,HD Sata,Armazenamento,7,540.0,3780.0,Madrid,Espanha,David
+2024-01-06,23,Cabo HDMI,Periféricos,7,40.0,280.0,Los Angeles,Estados Unidos,Alice
+2023-11-07,22,Cabo Energia,Periféricos,5,36.0,180.0,São Paulo,Brasil,Ana
+2024-01-14,30,Notebook,Computadores,5,3500.0,17500.0,Rio de Janeiro,Brasil,João
+2023-08-21,23,Cabo HDMI,Periféricos,2,45.6,91.2,Porto,Portugal,André
+2023-12-11,80,Licença Office 365,Software,2,427.0,854.0,Lisboa,Portugal,Miguel
+2023-11-18,90,HD SSD,Armazenamento,7,720.0,5040.0,Chicago,Estados Unidos,John
+2023-10-09,20,Monitor,Monitores,4,944.0,3776.0,Barcelona,Espanha,Carlos
+2023-03-29,20,Monitor,Monitores,4,832.0,3328.0,Porto,Portugal,Sofia
+2023-12-28,23,Cabo HDMI,Periféricos,2,48.8,97.6,New York,Estados Unidos,John
+2023-05-12,96,Placa de Vídeo,Periféricos,8,2376.0,19008.0,São Paulo,Brasil,Carlos
+2024-01-06,70,Licença Windows,Software,10,900.0,9000.0,São Paulo,Brasil,João
+2023-12-23,70,Licença Windows,Software,5,1098.0,5490.0,Lisboa,Portugal,Miguel
+2023-04-15,60,Cadeira,Móveis,5,318.0,1590.0,New York,Estados Unidos,John
+2023-07-06,11,Teclado,Periféricos,1,168.0,168.0,Lisboa,Portugal,Sofia
+2023-10-22,70,Licença Windows,Software,1,1062.0,1062.0,Lisboa,Portugal,Sofia
+2023-03-05,90,HD SSD,Armazenamento,6,624.0,3744.0,São Paulo,Brasil,Carlos
+2023-08-09,95,Memória,Armazenamento,10,364.8,3648.0,Lisboa,Portugal,André
+2023-12-14,11,Teclado,Periféricos,10,183.0,1830.0,Valencia,Espanha,Carlos
+2023-02-25,80,Licença Office 365,Software,6,357.0,2142.0,Rio de Janeiro,Brasil,Carlos
+2023-03-05,60,Cadeira,Móveis,1,312.0,312.0,Los Angeles,Estados Unidos,Bob
+2024-01-26,70,Licença Windows,Software,5,900.0,4500.0,Madrid,Espanha,María
+2023-04-29,23,Cabo HDMI,Periféricos,9,42.4,381.6,Belo Horizonte,Brasil,João
+2023-04-16,30,Notebook,Computadores,2,3710.0,7420.0,Rio de Janeiro,Brasil,João
+2023-08-12,23,Cabo HDMI,Periféricos,2,45.6,91.2,Valencia,Espanha,David
+2023-08-26,96,Placa de Vídeo,Periféricos,4,2508.0,10032.0,Porto,Portugal,Miguel
+2023-12-09,24,Cabo Rede,Periféricos,5,30.5,152.5,São Paulo,Brasil,João
+2023-04-15,80,Licença Office 365,Software,2,371.0,742.0,Los Angeles,Estados Unidos,Alice
+2023-07-19,23,Cabo HDMI,Periféricos,4,44.8,179.2,Los Angeles,Estados Unidos,John
+2023-05-25,10,Mouse,Periféricos,8,108.0,864.0,Lisboa,Portugal,Sofia
+2023-04-23,60,Cadeira,Móveis,4,318.0,1272.0,New York,Estados Unidos,Alice
+2024-02-14,80,Licença Office 365,Software,4,357.0,1428.0,Coimbra,Portugal,Miguel
+2023-07-05,35,Computador,Computadores,3,2576.0,7728.0,Porto,Portugal,Sofia
+2023-06-09,95,Memória,Armazenamento,4,352.0,1408.0,Belo Horizonte,Brasil,Carlos
+2023-12-07,20,Monitor,Monitores,8,976.0,7808.0,Chicago,Estados Unidos,John
+2023-04-04,22,Cabo Energia,Periféricos,6,31.8,190.8,Rio de Janeiro,Brasil,Ana
+2023-12-25,80,Licença Office 365,Software,1,427.0,427.0,Valencia,Espanha,María
+2023-06-18,23,Cabo HDMI,Periféricos,4,44.0,176.0,Coimbra,Portugal,Sofia
+2023-07-09,60,Cadeira,Móveis,9,336.0,3024.0,Barcelona,Espanha,Carlos
+2023-06-22,22,Cabo Energia,Periféricos,9,33.0,297.0,Barcelona,Espanha,David
+2023-11-24,22,Cabo Energia,Periféricos,10,36.0,360.0,Los Angeles,Estados Unidos,John
+2023-04-30,40,Nobreak,Periféricos,10,530.0,5300.0,Chicago,Estados Unidos,John
+2023-07-11,35,Computador,Computadores,9,2576.0,23184.0,Rio de Janeiro,Brasil,Ana
+2023-03-03,92,HD Sata,Armazenamento,7,468.0,3276.0,Coimbra,Portugal,Miguel
+2023-02-22,90,HD SSD,Armazenamento,2,612.0,1224.0,Coimbra,Portugal,Sofia
+2023-04-13,92,HD Sata,Armazenamento,6,477.0,2862.0,Lisboa,Portugal,Sofia
+2023-09-20,10,Mouse,Periféricos,9,116.0,1044.0,Madrid,Espanha,María
+2023-10-05,35,Computador,Computadores,5,2714.0,13570.0,Rio de Janeiro,Brasil,João
+2023-09-26,60,Cadeira,Móveis,8,348.0,2784.0,New York,Estados Unidos,John
+2023-09-23,11,Teclado,Periféricos,4,174.0,696.0,Rio de Janeiro,Brasil,João
+2023-04-14,24,Cabo Rede,Periféricos,2,26.5,53.0,Madrid,Espanha,Carlos
+2023-07-20,95,Memória,Armazenamento,10,358.4,3584.0,Lisboa,Portugal,Miguel
+2024-02-11,50,Mesa,Móveis,6,459.0,2754.0,New York,Estados Unidos,John
+2023-06-17,90,HD SSD,Armazenamento,9,660.0,5940.0,Rio de Janeiro,Brasil,Carlos
+2023-07-27,24,Cabo Rede,Periféricos,7,28.0,196.0,Chicago,Estados Unidos,John
+2023-06-01,11,Teclado,Periféricos,10,165.0,1650.0,Lisboa,Portugal,Sofia
+2024-01-23,50,Mesa,Móveis,10,450.0,4500.0,Madrid,Espanha,María
+2023-05-23,11,Teclado,Periféricos,7,162.0,1134.0,Coimbra,Portugal,Miguel
+2023-09-09,23,Cabo HDMI,Periféricos,6,46.4,278.4,São Paulo,Brasil,Carlos
+2023-08-16,60,Cadeira,Móveis,6,342.0,2052.0,Belo Horizonte,Brasil,Carlos
+2023-05-13,23,Cabo HDMI,Periféricos,1,43.2,43.2,São Paulo,Brasil,Carlos
+2023-11-17,24,Cabo Rede,Periféricos,5,30.0,150.0,Barcelona,Espanha,David
+2023-09-24,95,Memória,Armazenamento,8,371.2,2969.6,Lisboa,Portugal,Miguel
+2023-05-26,60,Cadeira,Móveis,1,324.0,324.0,Los Angeles,Estados Unidos,John
+2023-04-26,10,Mouse,Periféricos,3,106.0,318.0,Chicago,Estados Unidos,John
+2023-08-22,22,Cabo Energia,Periféricos,7,34.2,239.4,Los Angeles,Estados Unidos,John
+2023-10-07,24,Cabo Rede,Periféricos,9,29.5,265.5,Barcelona,Espanha,David
+2023-10-01,40,Nobreak,Periféricos,8,590.0,4720.0,Lisboa,Portugal,Sofia
+2023-04-30,96,Placa de Vídeo,Periféricos,2,2332.0,4664.0,Lisboa,Portugal,André
+2023-11-08,24,Cabo Rede,Periféricos,2,30.0,60.0,Chicago,Estados Unidos,Alice
+2023-12-09,22,Cabo Energia,Periféricos,2,36.6,73.2,Lisboa,Portugal,André
+2023-05-26,23,Cabo HDMI,Periféricos,3,43.2,129.6,Madrid,Espanha,David
+2023-06-18,22,Cabo Energia,Periféricos,8,33.0,264.0,São Paulo,Brasil,Carlos
+2024-02-09,70,Licença Windows,Software,8,918.0,7344.0,Madrid,Espanha,Carlos
+2023-10-15,70,Licença Windows,Software,8,1062.0,8496.0,Rio de Janeiro,Brasil,Carlos
+2023-02-26,22,Cabo Energia,Periféricos,10,30.6,306.0,Belo Horizonte,Brasil,João
+2023-10-11,70,Licença Windows,Software,4,1062.0,4248.0,Porto,Portugal,Miguel
+2023-11-07,60,Cadeira,Móveis,1,360.0,360.0,Los Angeles,Estados Unidos,Alice
+2023-03-10,95,Memória,Armazenamento,7,332.8,2329.6,Chicago,Estados Unidos,John
+2023-09-23,92,HD Sata,Armazenamento,7,522.0,3654.0,Los Angeles,Estados Unidos,Alice
+2023-11-12,23,Cabo HDMI,Periféricos,10,48.0,480.0,Coimbra,Portugal,Sofia
+2023-07-02,70,Licença Windows,Software,10,1008.0,10080.0,Valencia,Espanha,David
+2023-03-29,30,Notebook,Computadores,4,3640.0,14560.0,Madrid,Espanha,María
+2023-06-23,70,Licença Windows,Software,4,990.0,3960.0,São Paulo,Brasil,Ana
+2023-07-09,70,Licença Windows,Software,3,1008.0,3024.0,Valencia,Espanha,David
+2023-07-12,60,Cadeira,Móveis,5,336.0,1680.0,Barcelona,Espanha,David
+2024-01-30,30,Notebook,Computadores,4,3500.0,14000.0,Lisboa,Portugal,Miguel
+2023-08-24,20,Monitor,Monitores,7,912.0,6384.0,Chicago,Estados Unidos,John
+2023-09-02,22,Cabo Energia,Periféricos,9,34.8,313.2,Rio de Janeiro,Brasil,João
+2023-08-27,90,HD SSD,Armazenamento,2,684.0,1368.0,Madrid,Espanha,María
+2023-11-25,23,Cabo HDMI,Periféricos,3,48.0,144.0,Lisboa,Portugal,Miguel
+2023-03-24,90,HD SSD,Armazenamento,8,624.0,4992.0,Madrid,Espanha,David
+2024-01-28,95,Memória,Armazenamento,5,320.0,1600.0,Porto,Portugal,Sofia
+2024-02-04,50,Mesa,Móveis,8,459.0,3672.0,Barcelona,Espanha,David
+2023-06-26,70,Licença Windows,Software,8,990.0,7920.0,Valencia,Espanha,María
+2024-01-19,96,Placa de Vídeo,Periféricos,9,2200.0,19800.0,São Paulo,Brasil,João
+2023-03-29,35,Computador,Computadores,7,2392.0,16744.0,New York,Estados Unidos,John
+2024-01-29,30,Notebook,Computadores,7,3500.0,24500.0,Coimbra,Portugal,André
+2023-07-12,23,Cabo HDMI,Periféricos,7,44.8,313.6,Barcelona,Espanha,Carlos
+2023-05-02,92,HD Sata,Armazenamento,3,486.0,1458.0,Barcelona,Espanha,María
+2023-08-25,96,Placa de Vídeo,Periféricos,4,2508.0,10032.0,Barcelona,Espanha,María
+2023-06-11,95,Memória,Armazenamento,7,352.0,2464.0,Los Angeles,Estados Unidos,Alice
+2023-08-17,22,Cabo Energia,Periféricos,4,34.2,136.8,Porto,Portugal,Sofia
+2024-02-06,95,Memória,Armazenamento,6,326.4,1958.4,Chicago,Estados Unidos,John
+2023-08-14,92,HD Sata,Armazenamento,3,513.0,1539.0,Valencia,Espanha,Carlos
+2023-07-18,10,Mouse,Periféricos,2,112.0,224.0,Coimbra,Portugal,André
+2023-12-03,90,HD SSD,Armazenamento,2,732.0,1464.0,Rio de Janeiro,Brasil,João
+2023-09-11,30,Notebook,Computadores,8,4060.0,32480.0,Madrid,Espanha,María
+2023-08-16,95,Memória,Armazenamento,8,364.8,2918.4,Los Angeles,Estados Unidos,John
+2023-09-06,22,Cabo Energia,Periféricos,3,34.8,104.4,Madrid,Espanha,David
+2023-03-19,70,Licença Windows,Software,10,936.0,9360.0,Los Angeles,Estados Unidos,Bob
+2023-03-25,50,Mesa,Móveis,3,468.0,1404.0,Lisboa,Portugal,André
+2023-11-29,30,Notebook,Computadores,4,4200.0,16800.0,Barcelona,Espanha,David
+2023-04-12,30,Notebook,Computadores,8,3710.0,29680.0,Madrid,Espanha,María
+2023-02-22,22,Cabo Energia,Periféricos,2,30.6,61.2,São Paulo,Brasil,Carlos
+2023-11-24,80,Licença Office 365,Software,2,420.0,840.0,Belo Horizonte,Brasil,Ana
+2023-04-08,30,Notebook,Computadores,8,3710.0,29680.0,Belo Horizonte,Brasil,João
+2023-09-26,70,Licença Windows,Software,8,1044.0,8352.0,Los Angeles,Estados Unidos,John
+2023-08-15,96,Placa de Vídeo,Periféricos,8,2508.0,20064.0,Lisboa,Portugal,Miguel
+2023-10-09,96,Placa de Vídeo,Periféricos,8,2596.0,20768.0,Los Angeles,Estados Unidos,John
+2023-05-25,60,Cadeira,Móveis,3,324.0,972.0,Rio de Janeiro,Brasil,Ana
+2024-01-25,50,Mesa,Móveis,1,450.0,450.0,Coimbra,Portugal,André
+2024-02-15,20,Monitor,Monitores,2,816.0,1632.0,Los Angeles,Estados Unidos,John
+2023-05-01,23,Cabo HDMI,Periféricos,1,43.2,43.2,Los Angeles,Estados Unidos,Alice
+2023-11-30,95,Memória,Armazenamento,9,384.0,3456.0,Belo Horizonte,Brasil,Ana
+2023-06-04,30,Notebook,Computadores,3,3850.0,11550.0,Valencia,Espanha,David
+2023-02-22,24,Cabo Rede,Periféricos,10,25.5,255.0,Rio de Janeiro,Brasil,João
+2023-08-06,11,Teclado,Periféricos,4,171.0,684.0,São Paulo,Brasil,Ana
+2023-07-03,10,Mouse,Periféricos,10,112.0,1120.0,Madrid,Espanha,David
+2023-03-30,90,HD SSD,Armazenamento,8,624.0,4992.0,Porto,Portugal,Sofia
+2023-03-30,35,Computador,Computadores,10,2392.0,23920.0,Chicago,Estados Unidos,Alice
+2023-04-03,11,Teclado,Periféricos,8,159.0,1272.0,Los Angeles,Estados Unidos,Alice
+2023-05-26,22,Cabo Energia,Periféricos,6,32.4,194.4,Madrid,Espanha,María
+2024-01-20,95,Memória,Armazenamento,10,320.0,3200.0,Barcelona,Espanha,María
+2023-07-22,80,Licença Office 365,Software,10,392.0,3920.0,Barcelona,Espanha,David
+2023-08-16,40,Nobreak,Periféricos,6,570.0,3420.0,Porto,Portugal,Miguel
+2023-10-01,35,Computador,Computadores,4,2714.0,10856.0,Porto,Portugal,Sofia
+2023-02-17,11,Teclado,Periféricos,5,153.0,765.0,New York,Estados Unidos,John
+2023-02-20,90,HD SSD,Armazenamento,10,612.0,6120.0,Madrid,Espanha,María
+2024-01-27,30,Notebook,Computadores,1,3500.0,3500.0,Valencia,Espanha,Carlos
+2023-12-28,80,Licença Office 365,Software,6,427.0,2562.0,Los Angeles,Estados Unidos,Bob
+2023-10-16,23,Cabo HDMI,Periféricos,4,47.2,188.8,Chicago,Estados Unidos,Bob
+2024-01-29,60,Cadeira,Móveis,3,300.0,900.0,Rio de Janeiro,Brasil,Ana
+2024-01-20,35,Computador,Computadores,3,2300.0,6900.0,Barcelona,Espanha,María
+2023-11-09,95,Memória,Armazenamento,1,384.0,384.0,Barcelona,Espanha,David
+2023-04-08,24,Cabo Rede,Periféricos,4,26.5,106.0,New York,Estados Unidos,Bob
+2023-03-11,30,Notebook,Computadores,10,3640.0,36400.0,Coimbra,Portugal,Sofia
+2023-03-02,95,Memória,Armazenamento,5,332.8,1664.0,New York,Estados Unidos,John
+2023-11-21,20,Monitor,Monitores,8,960.0,7680.0,Rio de Janeiro,Brasil,Ana
+2023-04-01,50,Mesa,Móveis,4,477.0,1908.0,Porto,Portugal,André
+2023-11-26,35,Computador,Computadores,10,2760.0,27600.0,Lisboa,Portugal,André
+2024-02-05,80,Licença Office 365,Software,7,357.0,2499.0,Belo Horizonte,Brasil,João
+2023-05-04,92,HD Sata,Armazenamento,2,486.0,972.0,Rio de Janeiro,Brasil,Ana
+2023-06-28,92,HD Sata,Armazenamento,9,495.0,4455.0,Belo Horizonte,Brasil,João
+2023-10-26,35,Computador,Computadores,9,2714.0,24426.0,Chicago,Estados Unidos,Bob
+2024-01-12,10,Mouse,Periféricos,3,100.0,300.0,Lisboa,Portugal,André
+2023-10-20,23,Cabo HDMI,Periféricos,1,47.2,47.2,Barcelona,Espanha,Carlos
+2024-01-01,70,Licença Windows,Software,3,900.0,2700.0,Belo Horizonte,Brasil,Carlos
+2023-12-12,95,Memória,Armazenamento,10,390.4,3904.0,New York,Estados Unidos,John
+2023-04-04,35,Computador,Computadores,9,2438.0,21942.0,Los Angeles,Estados Unidos,Alice
+2023-12-25,92,HD Sata,Armazenamento,1,549.0,549.0,Barcelona,Espanha,David
+2023-03-25,70,Licença Windows,Software,2,936.0,1872.0,New York,Estados Unidos,John
+2023-02-22,95,Memória,Armazenamento,2,326.4,652.8,Lisboa,Portugal,Miguel
+2023-07-25,70,Licença Windows,Software,8,1008.0,8064.0,New York,Estados Unidos,John
+2023-03-24,80,Licença Office 365,Software,1,364.0,364.0,Barcelona,Espanha,María
+2024-01-10,96,Placa de Vídeo,Periféricos,3,2200.0,6600.0,Belo Horizonte,Brasil,Carlos
+2023-03-29,10,Mouse,Periféricos,5,104.0,520.0,Rio de Janeiro,Brasil,Ana
+2024-02-01,35,Computador,Computadores,1,2346.0,2346.0,Madrid,Espanha,María
+2023-04-09,96,Placa de Vídeo,Periféricos,8,2332.0,18656.0,Los Angeles,Estados Unidos,Alice
+2023-06-11,24,Cabo Rede,Periféricos,6,27.5,165.0,Barcelona,Espanha,María
+2023-04-14,30,Notebook,Computadores,8,3710.0,29680.0,Chicago,Estados Unidos,Bob
+2023-06-03,80,Licença Office 365,Software,4,385.0,1540.0,Madrid,Espanha,María
+2023-04-06,20,Monitor,Monitores,5,848.0,4240.0,New York,Estados Unidos,Alice
+2023-02-19,30,Notebook,Computadores,1,3570.0,3570.0,Porto,Portugal,André
+2023-10-18,24,Cabo Rede,Periféricos,6,29.5,177.0,Rio de Janeiro,Brasil,Carlos
+2023-05-18,11,Teclado,Periféricos,4,162.0,648.0,Lisboa,Portugal,Sofia
+2023-04-13,20,Monitor,Monitores,1,848.0,848.0,Coimbra,Portugal,Sofia
+2023-06-02,11,Teclado,Periféricos,1,165.0,165.0,Porto,Portugal,Sofia
+2023-03-06,96,Placa de Vídeo,Periféricos,10,2288.0,22880.0,Coimbra,Portugal,André
+2023-11-30,96,Placa de Vídeo,Periféricos,7,2640.0,18480.0,Los Angeles,Estados Unidos,John
+2024-01-25,30,Notebook,Computadores,7,3500.0,24500.0,Chicago,Estados Unidos,Alice
+2023-08-16,70,Licença Windows,Software,2,1026.0,2052.0,New York,Estados Unidos,John
+2023-03-26,22,Cabo Energia,Periféricos,3,31.2,93.6,Rio de Janeiro,Brasil,João
+2023-07-03,95,Memória,Armazenamento,6,358.4,2150.4,Lisboa,Portugal,Sofia
+2023-06-20,10,Mouse,Periféricos,4,110.0,440.0,Rio de Janeiro,Brasil,João
+2023-04-09,80,Licença Office 365,Software,9,371.0,3339.0,Chicago,Estados Unidos,Bob
+2023-07-07,90,HD SSD,Armazenamento,5,672.0,3360.0,Porto,Portugal,André
+2023-10-08,60,Cadeira,Móveis,1,354.0,354.0,Coimbra,Portugal,Miguel
+2023-11-26,23,Cabo HDMI,Periféricos,6,48.0,288.0,Los Angeles,Estados Unidos,Bob
+2023-08-07,92,HD Sata,Armazenamento,4,513.0,2052.0,Rio de Janeiro,Brasil,Carlos
+2023-08-01,80,Licença Office 365,Software,8,399.0,3192.0,Valencia,Espanha,María
+2023-11-20,80,Licença Office 365,Software,9,420.0,3780.0,Madrid,Espanha,Carlos
+2023-02-15,10,Mouse,Periféricos,4,102.0,408.0,Chicago,Estados Unidos,Bob
+2023-08-24,22,Cabo Energia,Periféricos,7,34.2,239.4,Belo Horizonte,Brasil,João
+2023-10-28,11,Teclado,Periféricos,10,177.0,1770.0,Lisboa,Portugal,André
+2023-07-05,70,Licença Windows,Software,1,1008.0,1008.0,Los Angeles,Estados Unidos,Alice
+2023-09-24,22,Cabo Energia,Periféricos,3,34.8,104.4,Porto,Portugal,Miguel
+2024-02-14,60,Cadeira,Móveis,5,306.0,1530.0,São Paulo,Brasil,Ana
+2023-10-07,95,Memória,Armazenamento,10,377.6,3776.0,Belo Horizonte,Brasil,Carlos
+2023-07-16,90,HD SSD,Armazenamento,9,672.0,6048.0,Rio de Janeiro,Brasil,Ana
+2023-04-12,70,Licença Windows,Software,3,954.0,2862.0,Barcelona,Espanha,David
+2023-06-29,30,Notebook,Computadores,9,3850.0,34650.0,New York,Estados Unidos,John
+2023-06-12,50,Mesa,Móveis,2,495.0,990.0,Los Angeles,Estados Unidos,Bob
+2023-08-29,35,Computador,Computadores,1,2622.0,2622.0,Chicago,Estados Unidos,Bob
+2023-03-15,30,Notebook,Computadores,5,3640.0,18200.0,Rio de Janeiro,Brasil,Ana
+2023-06-23,92,HD Sata,Armazenamento,5,495.0,2475.0,New York,Estados Unidos,Alice
+2023-10-21,10,Mouse,Periféricos,7,118.0,826.0,Chicago,Estados Unidos,John
+2023-04-07,22,Cabo Energia,Periféricos,2,31.8,63.6,New York,Estados Unidos,Alice
+2023-05-16,20,Monitor,Monitores,6,864.0,5184.0,New York,Estados Unidos,Bob
+2023-10-08,11,Teclado,Periféricos,7,177.0,1239.0,Porto,Portugal,André
+2023-05-03,90,HD SSD,Armazenamento,2,648.0,1296.0,Rio de Janeiro,Brasil,Ana
+2023-10-04,35,Computador,Computadores,7,2714.0,18998.0,Rio de Janeiro,Brasil,Ana
+2023-03-03,92,HD Sata,Armazenamento,2,468.0,936.0,Barcelona,Espanha,Carlos
+2024-01-05,24,Cabo Rede,Periféricos,1,25.0,25.0,Barcelona,Espanha,David
+2024-02-07,20,Monitor,Monitores,1,816.0,816.0,Barcelona,Espanha,David
+2024-02-14,22,Cabo Energia,Periféricos,2,30.6,61.2,Coimbra,Portugal,André
+2023-12-23,50,Mesa,Móveis,1,549.0,549.0,Coimbra,Portugal,André
+2024-02-05,40,Nobreak,Periféricos,6,510.0,3060.0,Belo Horizonte,Brasil,Carlos
+2023-10-09,11,Teclado,Periféricos,9,177.0,1593.0,Los Angeles,Estados Unidos,John
+2023-06-15,30,Notebook,Computadores,10,3850.0,38500.0,São Paulo,Brasil,Carlos
+2023-04-12,10,Mouse,Periféricos,6,106.0,636.0,Barcelona,Espanha,David
+2023-08-29,24,Cabo Rede,Periféricos,2,28.5,57.0,Porto,Portugal,Miguel
+2023-09-08,23,Cabo HDMI,Periféricos,5,46.4,232.0,Barcelona,Espanha,María
+2023-08-02,60,Cadeira,Móveis,9,342.0,3078.0,Rio de Janeiro,Brasil,Ana
+2024-02-13,60,Cadeira,Móveis,9,306.0,2754.0,Porto,Portugal,Sofia
+2023-08-12,40,Nobreak,Periféricos,1,570.0,570.0,Coimbra,Portugal,Miguel
+2023-03-24,50,Mesa,Móveis,6,468.0,2808.0,Coimbra,Portugal,Miguel
+2024-01-23,95,Memória,Armazenamento,1,320.0,320.0,Porto,Portugal,André
+2023-05-10,24,Cabo Rede,Periféricos,1,27.0,27.0,São Paulo,Brasil,Carlos
+2023-06-16,30,Notebook,Computadores,7,3850.0,26950.0,São Paulo,Brasil,João
+2023-12-29,10,Mouse,Periféricos,2,122.0,244.0,Chicago,Estados Unidos,Alice
+2023-10-25,40,Nobreak,Periféricos,10,590.0,5900.0,Belo Horizonte,Brasil,Ana
+2023-04-20,92,HD Sata,Armazenamento,10,477.0,4770.0,Valencia,Espanha,Carlos
+2023-10-17,92,HD Sata,Armazenamento,6,531.0,3186.0,New York,Estados Unidos,Bob
+2023-07-04,80,Licença Office 365,Software,9,392.0,3528.0,Lisboa,Portugal,Miguel
+2023-10-24,11,Teclado,Periféricos,10,177.0,1770.0,Coimbra,Portugal,Sofia
+2023-03-01,35,Computador,Computadores,8,2392.0,19136.0,New York,Estados Unidos,Alice
+2023-03-11,20,Monitor,Monitores,3,832.0,2496.0,Madrid,Espanha,Carlos
+2023-03-04,11,Teclado,Periféricos,4,156.0,624.0,Coimbra,Portugal,Sofia
+2024-02-14,50,Mesa,Móveis,7,459.0,3213.0,Lisboa,Portugal,Sofia
+2023-04-04,24,Cabo Rede,Periféricos,4,26.5,106.0,Rio de Janeiro,Brasil,Ana
+2023-06-15,35,Computador,Computadores,1,2530.0,2530.0,Porto,Portugal,André
+2023-11-03,80,Licença Office 365,Software,3,420.0,1260.0,New York,Estados Unidos,Bob
+2023-08-02,96,Placa de Vídeo,Periféricos,6,2508.0,15048.0,New York,Estados Unidos,Bob
+2023-09-02,24,Cabo Rede,Periféricos,3,29.0,87.0,São Paulo,Brasil,Ana
+2023-12-08,10,Mouse,Periféricos,10,122.0,1220.0,Lisboa,Portugal,Miguel
+2023-04-28,30,Notebook,Computadores,5,3710.0,18550.0,Los Angeles,Estados Unidos,John
+2023-05-16,35,Computador,Computadores,9,2484.0,22356.0,Coimbra,Portugal,Sofia
+2024-02-03,23,Cabo HDMI,Periféricos,2,40.8,81.6,Los Angeles,Estados Unidos,Bob
+2023-05-02,22,Cabo Energia,Periféricos,8,32.4,259.2,Madrid,Espanha,Carlos
+2023-09-30,50,Mesa,Móveis,5,522.0,2610.0,New York,Estados Unidos,Alice
+2023-10-15,35,Computador,Computadores,9,2714.0,24426.0,Lisboa,Portugal,Miguel
+2023-02-19,23,Cabo HDMI,Periféricos,4,40.8,163.2,Madrid,Espanha,María
+2023-07-29,70,Licença Windows,Software,8,1008.0,8064.0,Barcelona,Espanha,David
+2023-05-07,60,Cadeira,Móveis,3,324.0,972.0,Barcelona,Espanha,David
+2023-12-20,35,Computador,Computadores,8,2806.0,22448.0,Los Angeles,Estados Unidos,John
+2023-03-16,50,Mesa,Móveis,5,468.0,2340.0,Barcelona,Espanha,María
+2023-04-04,24,Cabo Rede,Periféricos,2,26.5,53.0,Valencia,Espanha,María
+2023-03-03,30,Notebook,Computadores,8,3640.0,29120.0,São Paulo,Brasil,Carlos
+2023-06-23,22,Cabo Energia,Periféricos,2,33.0,66.0,Belo Horizonte,Brasil,Ana
+2023-06-15,11,Teclado,Periféricos,8,165.0,1320.0,Valencia,Espanha,Carlos
+2023-07-17,96,Placa de Vídeo,Periféricos,10,2464.0,24640.0,Madrid,Espanha,Carlos
+2023-08-04,60,Cadeira,Móveis,6,342.0,2052.0,New York,Estados Unidos,Bob
+2023-10-12,11,Teclado,Periféricos,7,177.0,1239.0,New York,Estados Unidos,Bob
+2023-04-20,24,Cabo Rede,Periféricos,4,26.5,106.0,Belo Horizonte,Brasil,Ana
+2023-11-20,50,Mesa,Móveis,10,540.0,5400.0,Porto,Portugal,André
+2023-03-30,60,Cadeira,Móveis,2,312.0,624.0,Chicago,Estados Unidos,Alice
+2023-02-20,22,Cabo Energia,Periféricos,9,30.6,275.4,New York,Estados Unidos,Alice
+2023-08-27,24,Cabo Rede,Periféricos,2,28.5,57.0,Lisboa,Portugal,Miguel
+2023-12-28,96,Placa de Vídeo,Periféricos,3,2684.0,8052.0,Belo Horizonte,Brasil,João
+2023-06-12,30,Notebook,Computadores,1,3850.0,3850.0,Barcelona,Espanha,Carlos
+2023-11-01,35,Computador,Computadores,4,2760.0,11040.0,Porto,Portugal,Miguel
+2023-12-05,20,Monitor,Monitores,10,976.0,9760.0,Rio de Janeiro,Brasil,Carlos
+2023-12-25,95,Memória,Armazenamento,1,390.4,390.4,Coimbra,Portugal,Miguel
+2023-12-18,96,Placa de Vídeo,Periféricos,2,2684.0,5368.0,Barcelona,Espanha,David
+2023-05-29,40,Nobreak,Periféricos,7,540.0,3780.0,Porto,Portugal,Miguel
+2023-11-12,50,Mesa,Móveis,4,540.0,2160.0,Los Angeles,Estados Unidos,Bob
+2024-01-31,95,Memória,Armazenamento,2,320.0,640.0,Madrid,Espanha,David
+2024-01-25,80,Licença Office 365,Software,2,350.0,700.0,Chicago,Estados Unidos,John
+2023-10-02,50,Mesa,Móveis,3,531.0,1593.0,Rio de Janeiro,Brasil,Ana
+2023-11-14,60,Cadeira,Móveis,10,360.0,3600.0,São Paulo,Brasil,João
+2023-10-04,30,Notebook,Computadores,8,4130.0,33040.0,Belo Horizonte,Brasil,Carlos
+2023-07-14,22,Cabo Energia,Periféricos,7,33.6,235.2,Los Angeles,Estados Unidos,Bob
+2023-11-10,50,Mesa,Móveis,8,540.0,4320.0,Rio de Janeiro,Brasil,João
+2023-09-06,96,Placa de Vídeo,Periféricos,2,2552.0,5104.0,Porto,Portugal,André
+2024-01-27,90,HD SSD,Armazenamento,2,600.0,1200.0,Los Angeles,Estados Unidos,Bob
+2023-07-23,60,Cadeira,Móveis,6,336.0,2016.0,Porto,Portugal,Miguel
+2023-06-16,92,HD Sata,Armazenamento,6,495.0,2970.0,Barcelona,Espanha,David
+2023-12-03,30,Notebook,Computadores,5,4270.0,21350.0,Madrid,Espanha,María
+2023-06-05,20,Monitor,Monitores,4,880.0,3520.0,Chicago,Estados Unidos,Alice
+2023-06-11,23,Cabo HDMI,Periféricos,7,44.0,308.0,Rio de Janeiro,Brasil,João
+2023-04-01,96,Placa de Vídeo,Periféricos,8,2332.0,18656.0,Coimbra,Portugal,Sofia
+2023-10-25,50,Mesa,Móveis,5,531.0,2655.0,Coimbra,Portugal,Sofia
+2023-05-25,50,Mesa,Móveis,9,486.0,4374.0,Barcelona,Espanha,María
+2023-11-28,23,Cabo HDMI,Periféricos,4,48.0,192.0,New York,Estados Unidos,John
+2023-11-27,92,HD Sata,Armazenamento,1,540.0,540.0,Chicago,Estados Unidos,John
+2023-05-20,96,Placa de Vídeo,Periféricos,1,2376.0,2376.0,Los Angeles,Estados Unidos,Bob
+2023-08-30,90,HD SSD,Armazenamento,6,684.0,4104.0,Lisboa,Portugal,Sofia
+2023-03-19,92,HD Sata,Armazenamento,9,468.0,4212.0,São Paulo,Brasil,Ana
+2023-06-15,90,HD SSD,Armazenamento,9,660.0,5940.0,Los Angeles,Estados Unidos,John
+2023-08-27,50,Mesa,Móveis,1,513.0,513.0,New York,Estados Unidos,John
+2023-05-19,35,Computador,Computadores,3,2484.0,7452.0,Chicago,Estados Unidos,Alice
+2023-12-08,11,Teclado,Periféricos,3,183.0,549.0,Madrid,Espanha,María
+2024-01-19,96,Placa de Vídeo,Periféricos,10,2200.0,22000.0,Chicago,Estados Unidos,Bob
+2024-01-21,40,Nobreak,Periféricos,10,500.0,5000.0,Porto,Portugal,Miguel
+2023-10-25,50,Mesa,Móveis,1,531.0,531.0,São Paulo,Brasil,Carlos
+2023-12-26,80,Licença Office 365,Software,8,427.0,3416.0,Rio de Janeiro,Brasil,Carlos
+2023-05-08,95,Memória,Armazenamento,2,345.6,691.2,Porto,Portugal,Sofia
+2023-03-21,30,Notebook,Computadores,6,3640.0,21840.0,Los Angeles,Estados Unidos,Alice
+2023-02-15,70,Licença Windows,Software,4,918.0,3672.0,Valencia,Espanha,Carlos
+2023-11-16,90,HD SSD,Armazenamento,1,720.0,720.0,Lisboa,Portugal,Sofia
+2023-08-18,95,Memória,Armazenamento,9,364.8,3283.2,Madrid,Espanha,María
+2024-02-02,90,HD SSD,Armazenamento,8,612.0,4896.0,New York,Estados Unidos,John
+2023-03-12,95,Memória,Armazenamento,4,332.8,1331.2,Chicago,Estados Unidos,Bob
+2023-11-19,40,Nobreak,Periféricos,1,600.0,600.0,Madrid,Espanha,María
+2023-04-19,96,Placa de Vídeo,Periféricos,10,2332.0,23320.0,Madrid,Espanha,María
+2023-11-16,70,Licença Windows,Software,1,1080.0,1080.0,Belo Horizonte,Brasil,João
+2023-08-20,92,HD Sata,Armazenamento,5,513.0,2565.0,Lisboa,Portugal,Sofia
+2023-12-06,22,Cabo Energia,Periféricos,3,36.6,109.8,Coimbra,Portugal,André
+2023-03-14,23,Cabo HDMI,Periféricos,7,41.6,291.2,Valencia,Espanha,María
+2023-09-04,24,Cabo Rede,Periféricos,1,29.0,29.0,Lisboa,Portugal,André
+2023-09-02,35,Computador,Computadores,5,2668.0,13340.0,Coimbra,Portugal,Sofia
+2023-05-07,92,HD Sata,Armazenamento,2,486.0,972.0,Los Angeles,Estados Unidos,Bob
+2023-05-20,40,Nobreak,Periféricos,10,540.0,5400.0,Coimbra,Portugal,Miguel
+2024-01-26,50,Mesa,Móveis,3,450.0,1350.0,Chicago,Estados Unidos,Bob
+2023-09-06,90,HD SSD,Armazenamento,9,696.0,6264.0,Coimbra,Portugal,Sofia
+2023-06-28,40,Nobreak,Periféricos,2,550.0,1100.0,Barcelona,Espanha,Carlos
+2023-08-20,95,Memória,Armazenamento,8,364.8,2918.4,Barcelona,Espanha,María
+2023-05-04,70,Licença Windows,Software,5,972.0,4860.0,Los Angeles,Estados Unidos,Bob
+2024-02-13,60,Cadeira,Móveis,10,306.0,3060.0,Chicago,Estados Unidos,Bob
+2023-02-22,95,Memória,Armazenamento,7,326.4,2284.8,Los Angeles,Estados Unidos,Alice
+2023-11-27,70,Licença Windows,Software,5,1080.0,5400.0,Madrid,Espanha,David
+2023-04-30,95,Memória,Armazenamento,5,339.2,1696.0,Porto,Portugal,André
+2023-07-11,23,Cabo HDMI,Periféricos,9,44.8,403.2,Coimbra,Portugal,Sofia
+2023-09-17,11,Teclado,Periféricos,7,174.0,1218.0,New York,Estados Unidos,Bob
+2023-08-16,60,Cadeira,Móveis,6,342.0,2052.0,Valencia,Espanha,María
+2023-04-20,11,Teclado,Periféricos,6,159.0,954.0,Los Angeles,Estados Unidos,John
+2023-06-07,60,Cadeira,Móveis,3,330.0,990.0,Lisboa,Portugal,Sofia
+2023-05-12,30,Notebook,Computadores,6,3780.0,22680.0,Coimbra,Portugal,Miguel
+2023-06-15,50,Mesa,Móveis,4,495.0,1980.0,Belo Horizonte,Brasil,Carlos
+2023-03-02,40,Nobreak,Periféricos,10,520.0,5200.0,Belo Horizonte,Brasil,Ana
+2023-11-15,20,Monitor,Monitores,4,960.0,3840.0,Porto,Portugal,Miguel
+2023-10-13,60,Cadeira,Móveis,8,354.0,2832.0,Chicago,Estados Unidos,John
+2023-10-11,35,Computador,Computadores,8,2714.0,21712.0,Valencia,Espanha,Carlos
+2023-09-21,90,HD SSD,Armazenamento,1,696.0,696.0,Barcelona,Espanha,David
+2024-01-01,80,Licença Office 365,Software,10,350.0,3500.0,Porto,Portugal,Sofia
+2023-03-31,80,Licença Office 365,Software,2,364.0,728.0,Madrid,Espanha,María
+2023-11-15,11,Teclado,Periféricos,3,180.0,540.0,Rio de Janeiro,Brasil,João
+2023-12-16,20,Monitor,Monitores,7,976.0,6832.0,Madrid,Espanha,Carlos
+2023-10-11,90,HD SSD,Armazenamento,5,708.0,3540.0,Valencia,Espanha,Carlos
+2023-12-13,30,Notebook,Computadores,1,4270.0,4270.0,São Paulo,Brasil,Carlos
+2023-07-24,10,Mouse,Periféricos,7,112.0,784.0,Barcelona,Espanha,David
+2023-07-19,50,Mesa,Móveis,8,504.0,4032.0,Barcelona,Espanha,Carlos
+2023-11-08,35,Computador,Computadores,2,2760.0,5520.0,São Paulo,Brasil,João
+2023-05-28,80,Licença Office 365,Software,8,378.0,3024.0,Lisboa,Portugal,Sofia
+2023-03-29,60,Cadeira,Móveis,5,312.0,1560.0,Porto,Portugal,Sofia
+2023-09-16,23,Cabo HDMI,Periféricos,2,46.4,92.8,Valencia,Espanha,Carlos
+2023-09-06,23,Cabo HDMI,Periféricos,7,46.4,324.8,Barcelona,Espanha,María
+2023-08-28,40,Nobreak,Periféricos,5,570.0,2850.0,New York,Estados Unidos,John
+2023-08-27,30,Notebook,Computadores,2,3990.0,7980.0,Lisboa,Portugal,Sofia
+2023-03-27,70,Licença Windows,Software,4,936.0,3744.0,Chicago,Estados Unidos,Alice
+2023-10-12,11,Teclado,Periféricos,8,177.0,1416.0,Lisboa,Portugal,Sofia
+2024-01-20,96,Placa de Vídeo,Periféricos,1,2200.0,2200.0,Valencia,Espanha,María
+2023-10-02,35,Computador,Computadores,9,2714.0,24426.0,New York,Estados Unidos,Alice
+2023-02-22,22,Cabo Energia,Periféricos,7,30.6,214.2,Madrid,Espanha,David
+2024-01-17,90,HD SSD,Armazenamento,9,600.0,5400.0,Chicago,Estados Unidos,John
+2023-03-02,70,Licença Windows,Software,7,936.0,6552.0,Chicago,Estados Unidos,Bob
+2023-05-13,30,Notebook,Computadores,8,3780.0,30240.0,Chicago,Estados Unidos,Bob
+2023-04-11,95,Memória,Armazenamento,7,339.2,2374.4,Coimbra,Portugal,André
+2023-06-04,10,Mouse,Periféricos,10,110.0,1100.0,Porto,Portugal,Sofia
+2023-05-02,30,Notebook,Computadores,3,3780.0,11340.0,Porto,Portugal,André
+2023-06-20,70,Licença Windows,Software,8,990.0,7920.0,Lisboa,Portugal,Miguel
+2023-08-28,40,Nobreak,Periféricos,1,570.0,570.0,Belo Horizonte,Brasil,Ana
+2023-07-25,40,Nobreak,Periféricos,6,560.0,3360.0,São Paulo,Brasil,João
+2023-10-27,92,HD Sata,Armazenamento,1,531.0,531.0,Coimbra,Portugal,André
+2023-06-19,92,HD Sata,Armazenamento,5,495.0,2475.0,Madrid,Espanha,Carlos
+2023-05-21,35,Computador,Computadores,4,2484.0,9936.0,São Paulo,Brasil,Ana
+2023-04-19,30,Notebook,Computadores,2,3710.0,7420.0,New York,Estados Unidos,Alice
+2024-01-25,20,Monitor,Monitores,8,800.0,6400.0,Rio de Janeiro,Brasil,Carlos
+2023-05-30,11,Teclado,Periféricos,3,162.0,486.0,Madrid,Espanha,María
+2023-11-26,90,HD SSD,Armazenamento,9,720.0,6480.0,Valencia,Espanha,María
+2023-05-24,60,Cadeira,Móveis,9,324.0,2916.0,Rio de Janeiro,Brasil,João
+2023-11-10,20,Monitor,Monitores,9,960.0,8640.0,São Paulo,Brasil,Ana
+2023-12-27,22,Cabo Energia,Periféricos,4,36.6,146.4,Coimbra,Portugal,Miguel
+2023-05-10,23,Cabo HDMI,Periféricos,7,43.2,302.4,Coimbra,Portugal,Miguel
+2023-12-12,24,Cabo Rede,Periféricos,6,30.5,183.0,Madrid,Espanha,María
+2023-07-16,92,HD Sata,Armazenamento,4,504.0,2016.0,São Paulo,Brasil,Carlos
+2023-03-14,22,Cabo Energia,Periféricos,4,31.2,124.8,Madrid,Espanha,María
+2023-02-16,80,Licença Office 365,Software,4,357.0,1428.0,Rio de Janeiro,Brasil,Ana
+2023-06-03,80,Licença Office 365,Software,10,385.0,3850.0,Chicago,Estados Unidos,Bob
+2023-04-29,92,HD Sata,Armazenamento,3,477.0,1431.0,New York,Estados Unidos,Alice
+2023-05-01,70,Licença Windows,Software,2,972.0,1944.0,Barcelona,Espanha,David
+2023-10-24,11,Teclado,Periféricos,8,177.0,1416.0,Barcelona,Espanha,David
+2024-02-08,60,Cadeira,Móveis,2,306.0,612.0,New York,Estados Unidos,John
+2023-11-04,30,Notebook,Computadores,1,4200.0,4200.0,Belo Horizonte,Brasil,Carlos
+2023-05-14,23,Cabo HDMI,Periféricos,5,43.2,216.0,Belo Horizonte,Brasil,Carlos
+2023-10-01,22,Cabo Energia,Periféricos,4,35.4,141.6,Valencia,Espanha,María
+2024-01-20,95,Memória,Armazenamento,8,320.0,2560.0,Valencia,Espanha,David
+2023-07-09,70,Licença Windows,Software,3,1008.0,3024.0,Valencia,Espanha,David
+2023-05-14,70,Licença Windows,Software,6,972.0,5832.0,Coimbra,Portugal,Sofia
+2023-12-20,40,Nobreak,Periféricos,10,610.0,6100.0,Belo Horizonte,Brasil,João
+2023-07-08,90,HD SSD,Armazenamento,7,672.0,4704.0,Lisboa,Portugal,André
+2024-02-08,24,Cabo Rede,Periféricos,5,25.5,127.5,Madrid,Espanha,David
+2023-12-23,20,Monitor,Monitores,10,976.0,9760.0,Lisboa,Portugal,André
+2023-03-22,23,Cabo HDMI,Periféricos,1,41.6,41.6,Coimbra,Portugal,André
+2023-02-16,40,Nobreak,Periféricos,4,510.0,2040.0,Madrid,Espanha,David
+2023-11-06,90,HD SSD,Armazenamento,5,720.0,3600.0,São Paulo,Brasil,Carlos
+2023-03-25,22,Cabo Energia,Periféricos,4,31.2,124.8,Madrid,Espanha,Carlos
+2023-07-01,90,HD SSD,Armazenamento,7,672.0,4704.0,Madrid,Espanha,Carlos
+2024-01-15,22,Cabo Energia,Periféricos,10,30.0,300.0,São Paulo,Brasil,João
+2023-11-14,30,Notebook,Computadores,10,4200.0,42000.0,Madrid,Espanha,Carlos
+2023-09-18,92,HD Sata,Armazenamento,9,522.0,4698.0,New York,Estados Unidos,John
+2023-09-03,22,Cabo Energia,Periféricos,3,34.8,104.4,Porto,Portugal,Miguel
+2024-01-10,23,Cabo HDMI,Periféricos,10,40.0,400.0,Lisboa,Portugal,André
+2023-12-21,22,Cabo Energia,Periféricos,7,36.6,256.2,Chicago,Estados Unidos,Alice
+2023-08-12,70,Licença Windows,Software,7,1026.0,7182.0,Barcelona,Espanha,María
+2023-09-18,60,Cadeira,Móveis,2,348.0,696.0,Belo Horizonte,Brasil,Ana
+2023-06-22,50,Mesa,Móveis,2,495.0,990.0,Barcelona,Espanha,Carlos
+2023-04-13,35,Computador,Computadores,2,2438.0,4876.0,Rio de Janeiro,Brasil,João
+2023-05-16,24,Cabo Rede,Periféricos,10,27.0,270.0,Chicago,Estados Unidos,John
+2023-06-01,30,Notebook,Computadores,1,3850.0,3850.0,Porto,Portugal,Miguel
+2023-07-18,50,Mesa,Móveis,9,504.0,4536.0,Belo Horizonte,Brasil,João
+2023-09-02,35,Computador,Computadores,8,2668.0,21344.0,Coimbra,Portugal,Sofia
+2023-06-15,24,Cabo Rede,Periféricos,1,27.5,27.5,Belo Horizonte,Brasil,João
+2023-12-23,90,HD SSD,Armazenamento,7,732.0,5124.0,Madrid,Espanha,Carlos
+2023-07-02,70,Licença Windows,Software,4,1008.0,4032.0,Barcelona,Espanha,David
+2023-05-09,11,Teclado,Periféricos,3,162.0,486.0,Rio de Janeiro,Brasil,Ana
+2023-02-25,80,Licença Office 365,Software,2,357.0,714.0,New York,Estados Unidos,Alice
+2023-09-27,70,Licença Windows,Software,10,1044.0,10440.0,Los Angeles,Estados Unidos,John
+2023-12-20,95,Memória,Armazenamento,5,390.4,1952.0,Lisboa,Portugal,Sofia
+2023-11-16,90,HD SSD,Armazenamento,8,720.0,5760.0,Madrid,Espanha,David
+2023-07-27,95,Memória,Armazenamento,9,358.4,3225.6,São Paulo,Brasil,João
+2023-07-19,96,Placa de Vídeo,Periféricos,4,2464.0,9856.0,Madrid,Espanha,María
+2023-07-16,11,Teclado,Periféricos,8,168.0,1344.0,São Paulo,Brasil,João
+2024-01-11,95,Memória,Armazenamento,4,320.0,1280.0,Valencia,Espanha,David
+2023-07-24,96,Placa de Vídeo,Periféricos,8,2464.0,19712.0,Barcelona,Espanha,David
+2023-09-28,92,HD Sata,Armazenamento,6,522.0,3132.0,Rio de Janeiro,Brasil,Ana
+2023-12-06,22,Cabo Energia,Periféricos,7,36.6,256.2,Rio de Janeiro,Brasil,João
+2023-07-30,96,Placa de Vídeo,Periféricos,9,2464.0,22176.0,São Paulo,Brasil,Ana
+2023-12-31,20,Monitor,Monitores,5,976.0,4880.0,Madrid,Espanha,David
+2023-10-18,11,Teclado,Periféricos,3,177.0,531.0,Lisboa,Portugal,Miguel
+2024-02-12,11,Teclado,Periféricos,7,153.0,1071.0,Los Angeles,Estados Unidos,John
+2023-11-22,96,Placa de Vídeo,Periféricos,9,2640.0,23760.0,Chicago,Estados Unidos,Bob
+2023-08-17,35,Computador,Computadores,2,2622.0,5244.0,Lisboa,Portugal,Sofia
+2023-07-12,11,Teclado,Periféricos,5,168.0,840.0,Barcelona,Espanha,María
+2023-05-09,22,Cabo Energia,Periféricos,8,32.4,259.2,Coimbra,Portugal,Sofia
+2023-05-08,95,Memória,Armazenamento,4,345.6,1382.4,Belo Horizonte,Brasil,Carlos
+2023-02-23,90,HD SSD,Armazenamento,8,612.0,4896.0,São Paulo,Brasil,João
+2023-12-26,24,Cabo Rede,Periféricos,10,30.5,305.0,Barcelona,Espanha,Carlos
+2023-11-30,70,Licença Windows,Software,4,1080.0,4320.0,São Paulo,Brasil,Ana
+2024-01-03,24,Cabo Rede,Periféricos,7,25.0,175.0,Belo Horizonte,Brasil,Carlos
+2023-07-05,24,Cabo Rede,Periféricos,5,28.0,140.0,Belo Horizonte,Brasil,João
+2023-11-15,92,HD Sata,Armazenamento,3,540.0,1620.0,Rio de Janeiro,Brasil,João
+2023-11-07,20,Monitor,Monitores,7,960.0,6720.0,New York,Estados Unidos,Bob
+2023-08-04,10,Mouse,Periféricos,7,114.0,798.0,São Paulo,Brasil,João
+2023-12-28,11,Teclado,Periféricos,3,183.0,549.0,Lisboa,Portugal,Sofia
+2023-12-04,92,HD Sata,Armazenamento,1,549.0,549.0,Los Angeles,Estados Unidos,Alice
+2023-10-31,20,Monitor,Monitores,7,944.0,6608.0,Madrid,Espanha,Carlos
+2024-01-12,30,Notebook,Computadores,6,3500.0,21000.0,New York,Estados Unidos,John
+2023-12-29,11,Teclado,Periféricos,3,183.0,549.0,Coimbra,Portugal,André
+2023-06-07,70,Licença Windows,Software,10,990.0,9900.0,São Paulo,Brasil,Ana
+2023-09-22,11,Teclado,Periféricos,8,174.0,1392.0,Valencia,Espanha,David
+2024-02-08,96,Placa de Vídeo,Periféricos,7,2244.0,15708.0,Rio de Janeiro,Brasil,João
+2023-05-01,22,Cabo Energia,Periféricos,6,32.4,194.4,Porto,Portugal,Miguel
+2023-09-03,70,Licença Windows,Software,1,1044.0,1044.0,Los Angeles,Estados Unidos,Bob
+2023-08-25,11,Teclado,Periféricos,7,171.0,1197.0,Los Angeles,Estados Unidos,John
+2023-09-01,50,Mesa,Móveis,5,522.0,2610.0,Barcelona,Espanha,David
+2023-05-29,96,Placa de Vídeo,Periféricos,5,2376.0,11880.0,Chicago,Estados Unidos,John
+2024-01-09,80,Licença Office 365,Software,2,350.0,700.0,Lisboa,Portugal,André
+2023-12-29,80,Licença Office 365,Software,3,427.0,1281.0,Belo Horizonte,Brasil,Carlos
+2023-03-27,40,Nobreak,Periféricos,3,520.0,1560.0,Valencia,Espanha,María
+2023-03-24,70,Licença Windows,Software,7,936.0,6552.0,Belo Horizonte,Brasil,Ana
+2023-10-31,50,Mesa,Móveis,8,531.0,4248.0,Lisboa,Portugal,Miguel
+2023-03-20,22,Cabo Energia,Periféricos,4,31.2,124.8,Barcelona,Espanha,David
+2023-04-27,90,HD SSD,Armazenamento,4,636.0,2544.0,Madrid,Espanha,Carlos
+2023-06-15,40,Nobreak,Periféricos,6,550.0,3300.0,New York,Estados Unidos,John
+2023-07-09,50,Mesa,Móveis,1,504.0,504.0,Coimbra,Portugal,Miguel
+2024-02-07,96,Placa de Vídeo,Periféricos,4,2244.0,8976.0,Barcelona,Espanha,María
+2023-07-27,70,Licença Windows,Software,1,1008.0,1008.0,Chicago,Estados Unidos,Alice
+2023-07-17,11,Teclado,Periféricos,9,168.0,1512.0,Porto,Portugal,André
+2023-11-03,80,Licença Office 365,Software,7,420.0,2940.0,Valencia,Espanha,Carlos
+2024-01-01,60,Cadeira,Móveis,5,300.0,1500.0,Lisboa,Portugal,André
+2023-11-22,35,Computador,Computadores,6,2760.0,16560.0,New York,Estados Unidos,John
+2023-12-22,95,Memória,Armazenamento,6,390.4,2342.4,New York,Estados Unidos,Alice
+2023-09-20,95,Memória,Armazenamento,9,371.2,3340.8,Madrid,Espanha,David
+2024-01-01,10,Mouse,Periféricos,4,100.0,400.0,Lisboa,Portugal,Sofia
+2023-09-04,24,Cabo Rede,Periféricos,3,29.0,87.0,Barcelona,Espanha,David
+2023-05-20,60,Cadeira,Móveis,5,324.0,1620.0,Porto,Portugal,Sofia
+2023-12-15,10,Mouse,Periféricos,3,122.0,366.0,New York,Estados Unidos,John
+2023-06-05,90,HD SSD,Armazenamento,10,660.0,6600.0,New York,Estados Unidos,John
+2023-11-23,35,Computador,Computadores,8,2760.0,22080.0,Barcelona,Espanha,David
+2023-08-18,30,Notebook,Computadores,5,3990.0,19950.0,Belo Horizonte,Brasil,Carlos
+2023-03-12,23,Cabo HDMI,Periféricos,1,41.6,41.6,Porto,Portugal,André
+2023-07-22,80,Licença Office 365,Software,6,392.0,2352.0,Porto,Portugal,Sofia
+2023-04-09,96,Placa de Vídeo,Periféricos,8,2332.0,18656.0,Belo Horizonte,Brasil,Carlos
+2023-11-27,10,Mouse,Periféricos,5,120.0,600.0,Barcelona,Espanha,Carlos
+2023-12-03,95,Memória,Armazenamento,6,390.4,2342.4,Los Angeles,Estados Unidos,Alice
+2023-11-10,96,Placa de Vídeo,Periféricos,6,2640.0,15840.0,Madrid,Espanha,David
+2023-08-24,90,HD SSD,Armazenamento,6,684.0,4104.0,New York,Estados Unidos,Bob
+2023-12-23,40,Nobreak,Periféricos,10,610.0,6100.0,Coimbra,Portugal,Sofia
+2023-11-09,10,Mouse,Periféricos,2,120.0,240.0,Rio de Janeiro,Brasil,Ana
+2023-11-11,60,Cadeira,Móveis,10,360.0,3600.0,São Paulo,Brasil,João
+2023-08-17,40,Nobreak,Periféricos,4,570.0,2280.0,Lisboa,Portugal,Miguel
+2023-05-11,22,Cabo Energia,Periféricos,7,32.4,226.8,São Paulo,Brasil,João
+2023-05-03,50,Mesa,Móveis,6,486.0,2916.0,Coimbra,Portugal,André
+2023-08-06,22,Cabo Energia,Periféricos,4,34.2,136.8,Lisboa,Portugal,Sofia
+2023-12-23,96,Placa de Vídeo,Periféricos,5,2684.0,13420.0,Rio de Janeiro,Brasil,João
+2023-12-10,11,Teclado,Periféricos,1,183.0,183.0,Coimbra,Portugal,André
+2023-05-27,92,HD Sata,Armazenamento,5,486.0,2430.0,Barcelona,Espanha,María
+2023-09-10,10,Mouse,Periféricos,1,116.0,116.0,Barcelona,Espanha,Carlos
+2023-06-19,23,Cabo HDMI,Periféricos,5,44.0,220.0,Coimbra,Portugal,Sofia
+2023-10-22,70,Licença Windows,Software,5,1062.0,5310.0,New York,Estados Unidos,Alice
+2023-07-12,10,Mouse,Periféricos,9,112.0,1008.0,Rio de Janeiro,Brasil,Carlos
+2023-09-23,35,Computador,Computadores,9,2668.0,24012.0,Chicago,Estados Unidos,Alice
+2023-09-07,92,HD Sata,Armazenamento,7,522.0,3654.0,Los Angeles,Estados Unidos,Alice
+2023-05-07,35,Computador,Computadores,3,2484.0,7452.0,São Paulo,Brasil,Carlos
+2023-10-18,20,Monitor,Monitores,9,944.0,8496.0,Rio de Janeiro,Brasil,Carlos
+2023-11-03,50,Mesa,Móveis,10,540.0,5400.0,Los Angeles,Estados Unidos,Alice
+2023-10-21,20,Monitor,Monitores,7,944.0,6608.0,New York,Estados Unidos,Bob
+2023-09-09,11,Teclado,Periféricos,7,174.0,1218.0,Coimbra,Portugal,Sofia
+2023-07-05,60,Cadeira,Móveis,3,336.0,1008.0,New York,Estados Unidos,Bob
+2023-12-07,35,Computador,Computadores,5,2806.0,14030.0,Porto,Portugal,André
+2023-04-16,50,Mesa,Móveis,2,477.0,954.0,Valencia,Espanha,Carlos
+2023-03-23,90,HD SSD,Armazenamento,4,624.0,2496.0,Barcelona,Espanha,Carlos
+2023-07-06,70,Licença Windows,Software,3,1008.0,3024.0,São Paulo,Brasil,Carlos
+2023-07-06,10,Mouse,Periféricos,6,112.0,672.0,Los Angeles,Estados Unidos,John
+2023-08-08,60,Cadeira,Móveis,2,342.0,684.0,Los Angeles,Estados Unidos,Alice
+2023-04-28,24,Cabo Rede,Periféricos,1,26.5,26.5,Barcelona,Espanha,María
+2023-06-03,95,Memória,Armazenamento,2,352.0,704.0,Barcelona,Espanha,María
+2023-10-08,24,Cabo Rede,Periféricos,5,29.5,147.5,Los Angeles,Estados Unidos,Bob
+2023-07-24,22,Cabo Energia,Periféricos,10,33.6,336.0,Belo Horizonte,Brasil,Carlos
+2023-07-06,22,Cabo Energia,Periféricos,10,33.6,336.0,Barcelona,Espanha,Carlos
+2023-06-14,30,Notebook,Computadores,7,3850.0,26950.0,Rio de Janeiro,Brasil,João
+2023-12-02,22,Cabo Energia,Periféricos,2,36.6,73.2,São Paulo,Brasil,João
+2023-02-28,24,Cabo Rede,Periféricos,8,25.5,204.0,Valencia,Espanha,Carlos
+2023-05-08,50,Mesa,Móveis,10,486.0,4860.0,Belo Horizonte,Brasil,Ana
+2023-11-22,96,Placa de Vídeo,Periféricos,5,2640.0,13200.0,Coimbra,Portugal,Sofia
+2023-08-15,23,Cabo HDMI,Periféricos,1,45.6,45.6,Porto,Portugal,André
+2023-07-11,70,Licença Windows,Software,5,1008.0,5040.0,Porto,Portugal,André
+2023-11-20,20,Monitor,Monitores,3,960.0,2880.0,Chicago,Estados Unidos,John
+2023-02-15,92,HD Sata,Armazenamento,5,459.0,2295.0,Chicago,Estados Unidos,John
+2024-01-15,95,Memória,Armazenamento,10,320.0,3200.0,Madrid,Espanha,Carlos
+2023-05-30,24,Cabo Rede,Periféricos,1,27.0,27.0,Porto,Portugal,André
+2023-04-05,80,Licença Office 365,Software,8,371.0,2968.0,New York,Estados Unidos,Alice
+2023-10-22,10,Mouse,Periféricos,6,118.0,708.0,Belo Horizonte,Brasil,João
+2023-12-05,50,Mesa,Móveis,10,549.0,5490.0,Rio de Janeiro,Brasil,Ana
+2023-11-02,22,Cabo Energia,Periféricos,3,36.0,108.0,Coimbra,Portugal,André
+2023-10-29,92,HD Sata,Armazenamento,7,531.0,3717.0,São Paulo,Brasil,João
+2023-09-14,11,Teclado,Periféricos,5,174.0,870.0,Coimbra,Portugal,Miguel
+2023-09-24,11,Teclado,Periféricos,2,174.0,348.0,Madrid,Espanha,María
+2023-03-15,30,Notebook,Computadores,2,3640.0,7280.0,Lisboa,Portugal,André
+2023-11-02,90,HD SSD,Armazenamento,5,720.0,3600.0,Valencia,Espanha,Carlos
+2023-11-20,20,Monitor,Monitores,4,960.0,3840.0,Coimbra,Portugal,Miguel
+2023-12-23,92,HD Sata,Armazenamento,9,549.0,4941.0,Coimbra,Portugal,André
+2023-12-31,96,Placa de Vídeo,Periféricos,2,2684.0,5368.0,New York,Estados Unidos,Bob
+2023-06-24,60,Cadeira,Móveis,8,330.0,2640.0,Rio de Janeiro,Brasil,Carlos
+2023-12-07,50,Mesa,Móveis,1,549.0,549.0,Lisboa,Portugal,Miguel
+2024-02-01,92,HD Sata,Armazenamento,9,459.0,4131.0,Los Angeles,Estados Unidos,John
+2023-10-09,22,Cabo Energia,Periféricos,4,35.4,141.6,Rio de Janeiro,Brasil,Ana
+2023-05-22,35,Computador,Computadores,2,2484.0,4968.0,Valencia,Espanha,David
+2023-03-13,24,Cabo Rede,Periféricos,4,26.0,104.0,Belo Horizonte,Brasil,João
+2023-12-21,10,Mouse,Periféricos,2,122.0,244.0,New York,Estados Unidos,John
+2023-05-13,35,Computador,Computadores,3,2484.0,7452.0,Coimbra,Portugal,André
+2023-04-06,96,Placa de Vídeo,Periféricos,10,2332.0,23320.0,Rio de Janeiro,Brasil,Carlos
+2023-08-13,20,Monitor,Monitores,1,912.0,912.0,Madrid,Espanha,Carlos
+2023-03-27,23,Cabo HDMI,Periféricos,6,41.6,249.6,Chicago,Estados Unidos,Bob
+2023-10-23,20,Monitor,Monitores,5,944.0,4720.0,Porto,Portugal,Miguel
+2023-09-03,96,Placa de Vídeo,Periféricos,4,2552.0,10208.0,New York,Estados Unidos,Bob
+2023-11-27,40,Nobreak,Periféricos,10,600.0,6000.0,Rio de Janeiro,Brasil,Ana
+2023-04-16,92,HD Sata,Armazenamento,1,477.0,477.0,São Paulo,Brasil,Carlos
+2023-12-11,92,HD Sata,Armazenamento,6,549.0,3294.0,Los Angeles,Estados Unidos,Bob
+2023-04-21,23,Cabo HDMI,Periféricos,7,42.4,296.8,Porto,Portugal,André
+2023-08-13,30,Notebook,Computadores,7,3990.0,27930.0,Madrid,Espanha,Carlos
+2023-04-02,10,Mouse,Periféricos,6,106.0,636.0,Rio de Janeiro,Brasil,Carlos
+2023-11-08,80,Licença Office 365,Software,7,420.0,2940.0,Rio de Janeiro,Brasil,Carlos
+2023-10-16,24,Cabo Rede,Periféricos,2,29.5,59.0,Los Angeles,Estados Unidos,Bob
+2023-05-10,40,Nobreak,Periféricos,2,540.0,1080.0,Barcelona,Espanha,María
+2023-09-13,95,Memória,Armazenamento,9,371.2,3340.8,Valencia,Espanha,Carlos
+2023-04-25,30,Notebook,Computadores,8,3710.0,29680.0,Madrid,Espanha,Carlos
+2023-09-17,70,Licença Windows,Software,6,1044.0,6264.0,Madrid,Espanha,David
+2024-01-20,22,Cabo Energia,Periféricos,2,30.0,60.0,São Paulo,Brasil,João
+2023-05-16,40,Nobreak,Periféricos,1,540.0,540.0,Chicago,Estados Unidos,Alice
+2023-10-13,80,Licença Office 365,Software,8,413.0,3304.0,Belo Horizonte,Brasil,Ana
+2024-01-25,60,Cadeira,Móveis,3,300.0,900.0,Valencia,Espanha,Carlos
+2024-01-30,11,Teclado,Periféricos,5,150.0,750.0,Madrid,Espanha,David
+2023-08-04,96,Placa de Vídeo,Periféricos,10,2508.0,25080.0,Lisboa,Portugal,Sofia
+2023-10-13,96,Placa de Vídeo,Periféricos,10,2596.0,25960.0,Coimbra,Portugal,André
+2024-01-23,80,Licença Office 365,Software,6,350.0,2100.0,Chicago,Estados Unidos,John
+2023-07-22,90,HD SSD,Armazenamento,1,672.0,672.0,Belo Horizonte,Brasil,João
+2023-06-24,23,Cabo HDMI,Periféricos,2,44.0,88.0,Valencia,Espanha,David
+2023-09-27,30,Notebook,Computadores,10,4060.0,40600.0,Valencia,Espanha,David
+2023-12-22,60,Cadeira,Móveis,4,366.0,1464.0,Madrid,Espanha,Carlos
+2023-04-18,22,Cabo Energia,Periféricos,2,31.8,63.6,Belo Horizonte,Brasil,Carlos
+2023-11-30,20,Monitor,Monitores,4,960.0,3840.0,Rio de Janeiro,Brasil,João
+2023-03-02,20,Monitor,Monitores,3,832.0,2496.0,Los Angeles,Estados Unidos,Alice
+2023-12-21,30,Notebook,Computadores,3,4270.0,12810.0,Chicago,Estados Unidos,John
+2023-06-02,24,Cabo Rede,Periféricos,5,27.5,137.5,Coimbra,Portugal,André
+2023-12-11,60,Cadeira,Móveis,9,366.0,3294.0,Porto,Portugal,Sofia
+2023-02-19,11,Teclado,Periféricos,1,153.0,153.0,Lisboa,Portugal,Miguel
+2023-12-07,40,Nobreak,Periféricos,9,610.0,5490.0,Barcelona,Espanha,María
+2023-09-04,70,Licença Windows,Software,7,1044.0,7308.0,Valencia,Espanha,Carlos
+2023-08-05,70,Licença Windows,Software,5,1026.0,5130.0,Barcelona,Espanha,María
+2023-05-19,70,Licença Windows,Software,1,972.0,972.0,Porto,Portugal,André
+2023-04-30,10,Mouse,Periféricos,4,106.0,424.0,Lisboa,Portugal,André
+2023-06-17,11,Teclado,Periféricos,9,165.0,1485.0,Madrid,Espanha,David
+2024-01-19,50,Mesa,Móveis,4,450.0,1800.0,Valencia,Espanha,David
+2023-04-12,40,Nobreak,Periféricos,9,530.0,4770.0,São Paulo,Brasil,Ana
+2024-01-20,80,Licença Office 365,Software,3,350.0,1050.0,Valencia,Espanha,Carlos
+2023-04-15,70,Licença Windows,Software,10,954.0,9540.0,New York,Estados Unidos,John
+2023-02-17,22,Cabo Energia,Periféricos,3,30.6,91.8,Madrid,Espanha,María
+2023-06-12,80,Licença Office 365,Software,1,385.0,385.0,São Paulo,Brasil,Ana
+2023-10-31,24,Cabo Rede,Periféricos,4,29.5,118.0,São Paulo,Brasil,João
+2023-05-03,11,Teclado,Periféricos,3,162.0,486.0,Rio de Janeiro,Brasil,Ana
+2023-11-23,30,Notebook,Computadores,7,4200.0,29400.0,Los Angeles,Estados Unidos,John
+2023-11-22,80,Licença Office 365,Software,2,420.0,840.0,São Paulo,Brasil,João
+2023-09-04,40,Nobreak,Periféricos,5,580.0,2900.0,New York,Estados Unidos,John
+2023-02-18,90,HD SSD,Armazenamento,9,612.0,5508.0,São Paulo,Brasil,Ana
+2024-01-13,96,Placa de Vídeo,Periféricos,10,2200.0,22000.0,Los Angeles,Estados Unidos,Alice
+2023-05-24,24,Cabo Rede,Periféricos,8,27.0,216.0,New York,Estados Unidos,Bob
+2023-07-12,95,Memória,Armazenamento,2,358.4,716.8,Madrid,Espanha,David
+2024-02-13,22,Cabo Energia,Periféricos,4,30.6,122.4,Rio de Janeiro,Brasil,João
+2023-03-20,90,HD SSD,Armazenamento,1,624.0,624.0,Barcelona,Espanha,María
+2023-04-29,20,Monitor,Monitores,1,848.0,848.0,Porto,Portugal,André
+2023-05-12,90,HD SSD,Armazenamento,1,648.0,648.0,Chicago,Estados Unidos,Alice
+2023-03-28,96,Placa de Vídeo,Periféricos,1,2288.0,2288.0,Madrid,Espanha,Carlos
+2023-12-06,95,Memória,Armazenamento,4,390.4,1561.6,Coimbra,Portugal,Sofia
+2023-05-03,11,Teclado,Periféricos,5,162.0,810.0,Lisboa,Portugal,André
+2023-12-03,22,Cabo Energia,Periféricos,8,36.6,292.8,Belo Horizonte,Brasil,Carlos
+2023-03-01,60,Cadeira,Móveis,7,312.0,2184.0,São Paulo,Brasil,João
+2023-09-08,96,Placa de Vídeo,Periféricos,8,2552.0,20416.0,Los Angeles,Estados Unidos,John
+2023-08-08,90,HD SSD,Armazenamento,9,684.0,6156.0,Los Angeles,Estados Unidos,Bob
+2023-07-27,22,Cabo Energia,Periféricos,5,33.6,168.0,Chicago,Estados Unidos,Alice
+2023-03-23,95,Memória,Armazenamento,10,332.8,3328.0,Lisboa,Portugal,Sofia
+2023-07-16,23,Cabo HDMI,Periféricos,9,44.8,403.2,Madrid,Espanha,María
+2023-06-01,60,Cadeira,Móveis,8,330.0,2640.0,Rio de Janeiro,Brasil,João
+2023-03-30,96,Placa de Vídeo,Periféricos,6,2288.0,13728.0,Porto,Portugal,Miguel
+2023-07-16,90,HD SSD,Armazenamento,2,672.0,1344.0,São Paulo,Brasil,João
+2023-08-10,24,Cabo Rede,Periféricos,3,28.5,85.5,Valencia,Espanha,David
+2023-07-16,22,Cabo Energia,Periféricos,2,33.6,67.2,Porto,Portugal,Sofia
+2023-06-16,70,Licença Windows,Software,8,990.0,7920.0,Chicago,Estados Unidos,Bob
+2023-03-11,24,Cabo Rede,Periféricos,4,26.0,104.0,Coimbra,Portugal,Sofia
+2023-06-16,70,Licença Windows,Software,8,990.0,7920.0,Coimbra,Portugal,Sofia
+2023-09-29,35,Computador,Computadores,3,2668.0,8004.0,Porto,Portugal,Miguel
+2023-05-13,50,Mesa,Móveis,7,486.0,3402.0,New York,Estados Unidos,Bob
+2023-08-06,11,Teclado,Periféricos,8,171.0,1368.0,Belo Horizonte,Brasil,Ana
+2023-06-16,90,HD SSD,Armazenamento,5,660.0,3300.0,Valencia,Espanha,Carlos
+2023-04-10,24,Cabo Rede,Periféricos,10,26.5,265.0,Rio de Janeiro,Brasil,Ana
+2023-06-07,60,Cadeira,Móveis,1,330.0,330.0,Lisboa,Portugal,Sofia
+2023-12-27,30,Notebook,Computadores,1,4270.0,4270.0,Barcelona,Espanha,Carlos
+2023-11-11,92,HD Sata,Armazenamento,4,540.0,2160.0,Coimbra,Portugal,Miguel
+2023-04-18,30,Notebook,Computadores,9,3710.0,33390.0,Chicago,Estados Unidos,John
+2024-01-05,90,HD SSD,Armazenamento,8,600.0,4800.0,Belo Horizonte,Brasil,João
+2023-03-12,60,Cadeira,Móveis,4,312.0,1248.0,Madrid,Espanha,María
+2023-09-28,96,Placa de Vídeo,Periféricos,3,2552.0,7656.0,São Paulo,Brasil,Ana
+2023-04-01,60,Cadeira,Móveis,3,318.0,954.0,Belo Horizonte,Brasil,João
+2023-07-28,80,Licença Office 365,Software,6,392.0,2352.0,Los Angeles,Estados Unidos,Bob
+2023-09-11,20,Monitor,Monitores,2,928.0,1856.0,Valencia,Espanha,Carlos
+2023-08-13,24,Cabo Rede,Periféricos,3,28.5,85.5,New York,Estados Unidos,Alice
+2023-09-07,30,Notebook,Computadores,7,4060.0,28420.0,Lisboa,Portugal,Miguel
+2024-01-14,24,Cabo Rede,Periféricos,10,25.0,250.0,Valencia,Espanha,Carlos
+2024-01-15,80,Licença Office 365,Software,10,350.0,3500.0,New York,Estados Unidos,John
+2023-11-14,50,Mesa,Móveis,6,540.0,3240.0,Coimbra,Portugal,Miguel
+2024-01-01,90,HD SSD,Armazenamento,7,600.0,4200.0,New York,Estados Unidos,John
+2023-03-23,10,Mouse,Periféricos,6,104.0,624.0,Chicago,Estados Unidos,Alice
+2024-01-12,50,Mesa,Móveis,4,450.0,1800.0,Chicago,Estados Unidos,Alice
+2023-05-01,80,Licença Office 365,Software,4,378.0,1512.0,Barcelona,Espanha,David
+2023-05-21,92,HD Sata,Armazenamento,9,486.0,4374.0,Belo Horizonte,Brasil,João
+2023-11-30,95,Memória,Armazenamento,7,384.0,2688.0,Chicago,Estados Unidos,Bob
+2023-11-29,30,Notebook,Computadores,8,4200.0,33600.0,Chicago,Estados Unidos,Alice
+2023-08-10,24,Cabo Rede,Periféricos,6,28.5,171.0,São Paulo,Brasil,Carlos
+2023-04-23,11,Teclado,Periféricos,1,159.0,159.0,São Paulo,Brasil,Carlos
+2023-12-25,50,Mesa,Móveis,10,549.0,5490.0,Los Angeles,Estados Unidos,John
+2024-01-09,10,Mouse,Periféricos,9,100.0,900.0,Porto,Portugal,André
+2023-11-04,22,Cabo Energia,Periféricos,5,36.0,180.0,Los Angeles,Estados Unidos,Alice
+2023-10-01,35,Computador,Computadores,1,2714.0,2714.0,Belo Horizonte,Brasil,Carlos
+2023-04-20,35,Computador,Computadores,8,2438.0,19504.0,Madrid,Espanha,Carlos
+2023-09-23,95,Memória,Armazenamento,10,371.2,3712.0,Valencia,Espanha,Carlos
+2024-01-14,50,Mesa,Móveis,7,450.0,3150.0,Madrid,Espanha,María
+2023-12-10,30,Notebook,Computadores,5,4270.0,21350.0,São Paulo,Brasil,João
+2023-08-17,92,HD Sata,Armazenamento,9,513.0,4617.0,Rio de Janeiro,Brasil,Carlos
+2023-11-10,90,HD SSD,Armazenamento,10,720.0,7200.0,Porto,Portugal,Sofia
+2023-09-02,22,Cabo Energia,Periféricos,3,34.8,104.4,Porto,Portugal,Miguel
+2023-08-02,10,Mouse,Periféricos,1,114.0,114.0,New York,Estados Unidos,Bob
+2023-03-23,80,Licença Office 365,Software,2,364.0,728.0,Valencia,Espanha,Carlos
+2023-06-19,30,Notebook,Computadores,1,3850.0,3850.0,São Paulo,Brasil,João
+2023-06-14,92,HD Sata,Armazenamento,8,495.0,3960.0,Coimbra,Portugal,Miguel
+2023-06-04,11,Teclado,Periféricos,1,165.0,165.0,Belo Horizonte,Brasil,João
+2024-01-03,20,Monitor,Monitores,10,800.0,8000.0,Chicago,Estados Unidos,John
+2023-11-24,50,Mesa,Móveis,10,540.0,5400.0,Madrid,Espanha,María
+2023-03-08,96,Placa de Vídeo,Periféricos,1,2288.0,2288.0,Coimbra,Portugal,André
+2023-09-06,92,HD Sata,Armazenamento,7,522.0,3654.0,Valencia,Espanha,David
+2023-03-08,11,Teclado,Periféricos,1,156.0,156.0,Barcelona,Espanha,María
+2023-10-17,40,Nobreak,Periféricos,5,590.0,2950.0,Lisboa,Portugal,Sofia
+2023-03-18,22,Cabo Energia,Periféricos,4,31.2,124.8,Barcelona,Espanha,Carlos
+2024-02-14,40,Nobreak,Periféricos,1,510.0,510.0,Chicago,Estados Unidos,Alice
+2023-11-01,40,Nobreak,Periféricos,4,600.0,2400.0,Porto,Portugal,André
+2023-12-20,96,Placa de Vídeo,Periféricos,4,2684.0,10736.0,Valencia,Espanha,David
+2023-10-24,22,Cabo Energia,Periféricos,2,35.4,70.8,New York,Estados Unidos,Bob
+2023-02-23,24,Cabo Rede,Periféricos,6,25.5,153.0,Porto,Portugal,Miguel
+2023-04-06,60,Cadeira,Móveis,1,318.0,318.0,Chicago,Estados Unidos,John
+2023-11-26,22,Cabo Energia,Periféricos,3,36.0,108.0,Coimbra,Portugal,Sofia
+2024-01-18,80,Licença Office 365,Software,6,350.0,2100.0,Rio de Janeiro,Brasil,João
+2023-08-14,11,Teclado,Periféricos,9,171.0,1539.0,Rio de Janeiro,Brasil,Ana
+2023-11-19,96,Placa de Vídeo,Periféricos,2,2640.0,5280.0,Barcelona,Espanha,David
+2023-05-22,40,Nobreak,Periféricos,8,540.0,4320.0,Los Angeles,Estados Unidos,Bob
+2023-04-01,11,Teclado,Periféricos,10,159.0,1590.0,Los Angeles,Estados Unidos,Bob
+2023-04-17,90,HD SSD,Armazenamento,3,636.0,1908.0,Rio de Janeiro,Brasil,Carlos
+2024-01-13,24,Cabo Rede,Periféricos,8,25.0,200.0,Coimbra,Portugal,Miguel
+2023-09-16,40,Nobreak,Periféricos,9,580.0,5220.0,New York,Estados Unidos,Alice
+2023-05-11,50,Mesa,Móveis,7,486.0,3402.0,Rio de Janeiro,Brasil,João
+2023-09-26,24,Cabo Rede,Periféricos,9,29.0,261.0,New York,Estados Unidos,Alice
+2023-12-23,10,Mouse,Periféricos,3,122.0,366.0,Los Angeles,Estados Unidos,John
+2023-05-16,60,Cadeira,Móveis,4,324.0,1296.0,Barcelona,Espanha,María
+2024-01-29,95,Memória,Armazenamento,9,320.0,2880.0,Porto,Portugal,André
+2023-12-13,90,HD SSD,Armazenamento,6,732.0,4392.0,Valencia,Espanha,Carlos
+2023-04-11,96,Placa de Vídeo,Periféricos,8,2332.0,18656.0,São Paulo,Brasil,Carlos
+2023-08-27,30,Notebook,Computadores,5,3990.0,19950.0,Los Angeles,Estados Unidos,Bob
+2023-07-10,80,Licença Office 365,Software,2,392.0,784.0,Valencia,Espanha,David
+2023-03-22,80,Licença Office 365,Software,9,364.0,3276.0,New York,Estados Unidos,Bob
+2023-06-10,10,Mouse,Periféricos,2,110.0,220.0,New York,Estados Unidos,John
+2023-06-05,30,Notebook,Computadores,1,3850.0,3850.0,Los Angeles,Estados Unidos,Alice
+2023-12-15,40,Nobreak,Periféricos,9,610.0,5490.0,Belo Horizonte,Brasil,Carlos
+2023-03-20,30,Notebook,Computadores,3,3640.0,10920.0,New York,Estados Unidos,Bob
+2024-01-19,20,Monitor,Monitores,4,800.0,3200.0,Belo Horizonte,Brasil,João
+2023-04-25,90,HD SSD,Armazenamento,9,636.0,5724.0,Los Angeles,Estados Unidos,Bob
+2024-01-29,96,Placa de Vídeo,Periféricos,3,2200.0,6600.0,New York,Estados Unidos,Bob
+2023-06-12,90,HD SSD,Armazenamento,8,660.0,5280.0,Valencia,Espanha,María
+2023-04-04,80,Licença Office 365,Software,10,371.0,3710.0,Barcelona,Espanha,María
+2023-04-14,80,Licença Office 365,Software,5,371.0,1855.0,Madrid,Espanha,David
+2023-09-15,95,Memória,Armazenamento,3,371.2,1113.6,Los Angeles,Estados Unidos,Bob
+2023-03-04,10,Mouse,Periféricos,1,104.0,104.0,Barcelona,Espanha,María
+2023-10-28,24,Cabo Rede,Periféricos,6,29.5,177.0,Coimbra,Portugal,Sofia
+2023-06-27,80,Licença Office 365,Software,4,385.0,1540.0,Rio de Janeiro,Brasil,Carlos
+2023-09-15,80,Licença Office 365,Software,10,406.0,4060.0,Belo Horizonte,Brasil,João
+2023-09-20,60,Cadeira,Móveis,3,348.0,1044.0,Lisboa,Portugal,Miguel
+2024-02-04,92,HD Sata,Armazenamento,9,459.0,4131.0,Porto,Portugal,André
+2023-05-14,96,Placa de Vídeo,Periféricos,6,2376.0,14256.0,Chicago,Estados Unidos,Bob
+2023-10-25,23,Cabo HDMI,Periféricos,8,47.2,377.6,Porto,Portugal,Sofia
+2024-01-18,22,Cabo Energia,Periféricos,3,30.0,90.0,Valencia,Espanha,Carlos
+2023-02-23,11,Teclado,Periféricos,8,153.0,1224.0,Porto,Portugal,André
+2023-05-14,10,Mouse,Periféricos,2,108.0,216.0,New York,Estados Unidos,Alice
+2023-05-13,24,Cabo Rede,Periféricos,2,27.0,54.0,New York,Estados Unidos,Bob
+2023-07-11,10,Mouse,Periféricos,5,112.0,560.0,Rio de Janeiro,Brasil,João
+2023-09-02,92,HD Sata,Armazenamento,1,522.0,522.0,Lisboa,Portugal,Sofia
+2023-12-29,60,Cadeira,Móveis,7,366.0,2562.0,Porto,Portugal,Miguel
+2023-10-02,80,Licença Office 365,Software,5,413.0,2065.0,Barcelona,Espanha,David
+2023-04-27,35,Computador,Computadores,1,2438.0,2438.0,Belo Horizonte,Brasil,Carlos
+2023-12-05,92,HD Sata,Armazenamento,2,549.0,1098.0,São Paulo,Brasil,Ana
+2023-09-17,23,Cabo HDMI,Periféricos,1,46.4,46.4,Porto,Portugal,André
+2023-12-14,22,Cabo Energia,Periféricos,9,36.6,329.4,Belo Horizonte,Brasil,João
+2023-02-26,23,Cabo HDMI,Periféricos,5,40.8,204.0,Rio de Janeiro,Brasil,Ana
+2023-11-03,40,Nobreak,Periféricos,9,600.0,5400.0,Lisboa,Portugal,Sofia
+2023-04-23,60,Cadeira,Móveis,9,318.0,2862.0,Valencia,Espanha,Carlos
+2023-07-31,60,Cadeira,Móveis,7,336.0,2352.0,São Paulo,Brasil,Ana
+2023-07-15,30,Notebook,Computadores,4,3920.0,15680.0,Porto,Portugal,André
+2023-09-17,70,Licença Windows,Software,10,1044.0,10440.0,São Paulo,Brasil,João
+2023-09-06,92,HD Sata,Armazenamento,5,522.0,2610.0,Belo Horizonte,Brasil,Carlos
+2023-06-08,20,Monitor,Monitores,5,880.0,4400.0,Madrid,Espanha,Carlos
+2023-11-08,30,Notebook,Computadores,2,4200.0,8400.0,Coimbra,Portugal,Miguel
+2023-04-18,24,Cabo Rede,Periféricos,6,26.5,159.0,São Paulo,Brasil,João
+2023-11-23,80,Licença Office 365,Software,5,420.0,2100.0,Madrid,Espanha,David
+2023-09-26,96,Placa de Vídeo,Periféricos,1,2552.0,2552.0,Rio de Janeiro,Brasil,João
+2023-05-23,50,Mesa,Móveis,4,486.0,1944.0,Valencia,Espanha,María
+2024-01-06,23,Cabo HDMI,Periféricos,5,40.0,200.0,Lisboa,Portugal,Sofia
+2023-12-09,50,Mesa,Móveis,5,549.0,2745.0,Barcelona,Espanha,María
+2023-05-18,80,Licença Office 365,Software,5,378.0,1890.0,Belo Horizonte,Brasil,Ana
+2023-12-06,60,Cadeira,Móveis,2,366.0,732.0,Rio de Janeiro,Brasil,João
+2024-02-15,60,Cadeira,Móveis,2,306.0,612.0,Barcelona,Espanha,María
+2023-12-30,90,HD SSD,Armazenamento,10,732.0,7320.0,São Paulo,Brasil,Ana
+2023-07-18,11,Teclado,Periféricos,6,168.0,1008.0,Lisboa,Portugal,Sofia
+2023-08-11,24,Cabo Rede,Periféricos,6,28.5,171.0,Los Angeles,Estados Unidos,John
+2024-01-30,50,Mesa,Móveis,8,450.0,3600.0,Belo Horizonte,Brasil,Carlos
+2023-05-24,80,Licença Office 365,Software,1,378.0,378.0,Lisboa,Portugal,André
+2024-01-30,40,Nobreak,Periféricos,8,500.0,4000.0,Belo Horizonte,Brasil,Ana
+2023-12-05,50,Mesa,Móveis,9,549.0,4941.0,New York,Estados Unidos,Bob
+2023-03-24,95,Memória,Armazenamento,10,332.8,3328.0,Barcelona,Espanha,Carlos
+2023-12-22,96,Placa de Vídeo,Periféricos,3,2684.0,8052.0,Belo Horizonte,Brasil,João
+2023-03-18,95,Memória,Armazenamento,8,332.8,2662.4,Coimbra,Portugal,Sofia
+2023-07-01,92,HD Sata,Armazenamento,1,504.0,504.0,Valencia,Espanha,Carlos
+2023-07-07,92,HD Sata,Armazenamento,2,504.0,1008.0,Rio de Janeiro,Brasil,Carlos
+2023-07-31,70,Licença Windows,Software,3,1008.0,3024.0,Valencia,Espanha,María
+2023-07-28,35,Computador,Computadores,3,2576.0,7728.0,Coimbra,Portugal,André
+2024-01-08,96,Placa de Vídeo,Periféricos,6,2200.0,13200.0,São Paulo,Brasil,Carlos
+2023-12-10,10,Mouse,Periféricos,4,122.0,488.0,Belo Horizonte,Brasil,João
+2023-03-08,60,Cadeira,Móveis,2,312.0,624.0,Belo Horizonte,Brasil,Carlos
+2023-07-22,30,Notebook,Computadores,6,3920.0,23520.0,São Paulo,Brasil,Ana
+2023-03-21,24,Cabo Rede,Periféricos,4,26.0,104.0,Barcelona,Espanha,David
+2023-08-17,50,Mesa,Móveis,7,513.0,3591.0,Los Angeles,Estados Unidos,Alice
+2023-11-07,23,Cabo HDMI,Periféricos,7,48.0,336.0,Chicago,Estados Unidos,John
+2023-06-30,20,Monitor,Monitores,8,880.0,7040.0,Porto,Portugal,André
+2023-03-04,92,HD Sata,Armazenamento,8,468.0,3744.0,Barcelona,Espanha,David
+2023-04-02,50,Mesa,Móveis,5,477.0,2385.0,Coimbra,Portugal,André
+2023-03-18,60,Cadeira,Móveis,3,312.0,936.0,Valencia,Espanha,María
+2024-01-01,70,Licença Windows,Software,1,900.0,900.0,Rio de Janeiro,Brasil,Ana
+2023-08-23,11,Teclado,Periféricos,3,171.0,513.0,Rio de Janeiro,Brasil,Ana
+2024-02-12,92,HD Sata,Armazenamento,8,459.0,3672.0,Porto,Portugal,Sofia
+2023-11-19,20,Monitor,Monitores,6,960.0,5760.0,Los Angeles,Estados Unidos,John
+2023-05-31,35,Computador,Computadores,1,2484.0,2484.0,Belo Horizonte,Brasil,Carlos
+2023-11-19,70,Licença Windows,Software,5,1080.0,5400.0,Valencia,Espanha,María
+2023-12-16,20,Monitor,Monitores,9,976.0,8784.0,Porto,Portugal,André
+2023-05-29,24,Cabo Rede,Periféricos,3,27.0,81.0,Chicago,Estados Unidos,Alice
+2023-12-14,22,Cabo Energia,Periféricos,8,36.6,292.8,Coimbra,Portugal,Miguel
+2024-01-05,23,Cabo HDMI,Periféricos,7,40.0,280.0,Coimbra,Portugal,André
+2023-11-21,96,Placa de Vídeo,Periféricos,8,2640.0,21120.0,New York,Estados Unidos,Bob
+2023-06-25,22,Cabo Energia,Periféricos,8,33.0,264.0,Belo Horizonte,Brasil,João
+2023-05-29,30,Notebook,Computadores,7,3780.0,26460.0,Los Angeles,Estados Unidos,Alice
+2023-06-05,22,Cabo Energia,Periféricos,10,33.0,330.0,Porto,Portugal,Sofia
+2023-04-28,22,Cabo Energia,Periféricos,8,31.8,254.4,Barcelona,Espanha,Carlos
+2023-03-11,95,Memória,Armazenamento,9,332.8,2995.2,Coimbra,Portugal,Sofia
+2023-07-03,30,Notebook,Computadores,10,3920.0,39200.0,São Paulo,Brasil,Ana
+2023-10-19,24,Cabo Rede,Periféricos,4,29.5,118.0,Barcelona,Espanha,María
+2023-05-27,70,Licença Windows,Software,5,972.0,4860.0,São Paulo,Brasil,Carlos
+2024-02-15,80,Licença Office 365,Software,6,357.0,2142.0,Chicago,Estados Unidos,Bob
+2023-04-24,96,Placa de Vídeo,Periféricos,7,2332.0,16324.0,Los Angeles,Estados Unidos,John
+2023-11-22,24,Cabo Rede,Periféricos,7,30.0,210.0,Chicago,Estados Unidos,Bob
+2023-12-04,23,Cabo HDMI,Periféricos,10,48.8,488.0,São Paulo,Brasil,João
+2023-09-18,92,HD Sata,Armazenamento,4,522.0,2088.0,Barcelona,Espanha,David
+2023-06-29,23,Cabo HDMI,Periféricos,3,44.0,132.0,Rio de Janeiro,Brasil,Carlos
+2023-05-30,30,Notebook,Computadores,9,3780.0,34020.0,New York,Estados Unidos,Bob
+2023-12-25,10,Mouse,Periféricos,4,122.0,488.0,Coimbra,Portugal,Sofia
+2023-02-16,10,Mouse,Periféricos,1,102.0,102.0,New York,Estados Unidos,Alice
+2023-09-29,96,Placa de Vídeo,Periféricos,5,2552.0,12760.0,Barcelona,Espanha,Carlos
+2023-02-24,23,Cabo HDMI,Periféricos,8,40.8,326.4,Chicago,Estados Unidos,Bob
+2023-04-25,50,Mesa,Móveis,7,477.0,3339.0,Porto,Portugal,André
+2023-03-17,40,Nobreak,Periféricos,7,520.0,3640.0,Madrid,Espanha,Carlos
+2023-07-23,80,Licença Office 365,Software,1,392.0,392.0,Madrid,Espanha,María
+2023-06-03,23,Cabo HDMI,Periféricos,8,44.0,352.0,Madrid,Espanha,Carlos
+2023-05-07,22,Cabo Energia,Periféricos,8,32.4,259.2,Lisboa,Portugal,Miguel
+2023-09-05,90,HD SSD,Armazenamento,4,696.0,2784.0,New York,Estados Unidos,Alice
+2023-05-02,40,Nobreak,Periféricos,10,540.0,5400.0,Barcelona,Espanha,David
+2023-12-08,96,Placa de Vídeo,Periféricos,4,2684.0,10736.0,Coimbra,Portugal,Sofia
+2024-01-12,11,Teclado,Periféricos,6,150.0,900.0,Rio de Janeiro,Brasil,Ana
+2024-01-08,95,Memória,Armazenamento,1,320.0,320.0,Lisboa,Portugal,Miguel
+2023-12-24,80,Licença Office 365,Software,7,427.0,2989.0,Lisboa,Portugal,André
+2023-03-20,70,Licença Windows,Software,9,936.0,8424.0,Madrid,Espanha,María
+2023-08-19,20,Monitor,Monitores,10,912.0,9120.0,Coimbra,Portugal,Sofia
+2023-10-19,30,Notebook,Computadores,4,4130.0,16520.0,New York,Estados Unidos,John
+2023-10-27,50,Mesa,Móveis,10,531.0,5310.0,Rio de Janeiro,Brasil,Ana
+2023-10-14,22,Cabo Energia,Periféricos,3,35.4,106.2,Madrid,Espanha,David
+2023-08-31,60,Cadeira,Móveis,7,342.0,2394.0,Porto,Portugal,Miguel
+2023-09-29,35,Computador,Computadores,2,2668.0,5336.0,São Paulo,Brasil,Ana
+2023-07-18,22,Cabo Energia,Periféricos,6,33.6,201.6,Los Angeles,Estados Unidos,Bob
+2023-02-20,60,Cadeira,Móveis,5,306.0,1530.0,Barcelona,Espanha,María
+2023-11-02,20,Monitor,Monitores,10,960.0,9600.0,Coimbra,Portugal,Sofia
+2023-08-11,50,Mesa,Móveis,2,513.0,1026.0,Lisboa,Portugal,Sofia
+2023-09-10,35,Computador,Computadores,2,2668.0,5336.0,Lisboa,Portugal,André
+2023-07-02,60,Cadeira,Móveis,2,336.0,672.0,Madrid,Espanha,David
+2023-09-24,20,Monitor,Monitores,2,928.0,1856.0,Chicago,Estados Unidos,John
+2023-04-01,92,HD Sata,Armazenamento,1,477.0,477.0,São Paulo,Brasil,João
+2023-06-21,23,Cabo HDMI,Periféricos,3,44.0,132.0,Lisboa,Portugal,Miguel
+2023-06-18,22,Cabo Energia,Periféricos,5,33.0,165.0,Rio de Janeiro,Brasil,Carlos
+2023-06-23,30,Notebook,Computadores,5,3850.0,19250.0,Coimbra,Portugal,Sofia
+2023-09-19,30,Notebook,Computadores,2,4060.0,8120.0,Los Angeles,Estados Unidos,Bob
+2023-10-23,23,Cabo HDMI,Periféricos,2,47.2,94.4,Lisboa,Portugal,Sofia
+2023-07-03,20,Monitor,Monitores,7,896.0,6272.0,São Paulo,Brasil,João
+2023-12-08,96,Placa de Vídeo,Periféricos,3,2684.0,8052.0,Barcelona,Espanha,David
+2023-02-26,50,Mesa,Móveis,1,459.0,459.0,Rio de Janeiro,Brasil,Carlos
+2023-02-17,80,Licença Office 365,Software,9,357.0,3213.0,São Paulo,Brasil,Ana
+2023-11-18,80,Licença Office 365,Software,10,420.0,4200.0,Madrid,Espanha,Carlos
+2023-10-03,35,Computador,Computadores,1,2714.0,2714.0,São Paulo,Brasil,Carlos
+2023-06-10,24,Cabo Rede,Periféricos,2,27.5,55.0,Belo Horizonte,Brasil,Carlos
+2023-11-26,95,Memória,Armazenamento,2,384.0,768.0,Chicago,Estados Unidos,Alice
+2023-12-22,50,Mesa,Móveis,6,549.0,3294.0,Valencia,Espanha,María
+2023-07-15,40,Nobreak,Periféricos,4,560.0,2240.0,Lisboa,Portugal,Miguel
+2023-11-25,40,Nobreak,Periféricos,6,600.0,3600.0,Belo Horizonte,Brasil,Carlos
+2023-09-26,96,Placa de Vídeo,Periféricos,9,2552.0,22968.0,Porto,Portugal,Sofia
+2023-06-13,70,Licença Windows,Software,2,990.0,1980.0,São Paulo,Brasil,Ana
+2023-12-23,35,Computador,Computadores,3,2806.0,8418.0,Coimbra,Portugal,Sofia
+2023-12-24,90,HD SSD,Armazenamento,6,732.0,4392.0,Coimbra,Portugal,Sofia
+2023-08-07,35,Computador,Computadores,7,2622.0,18354.0,Chicago,Estados Unidos,Alice
+2023-12-31,40,Nobreak,Periféricos,2,610.0,1220.0,Lisboa,Portugal,Sofia
+2023-06-26,90,HD SSD,Armazenamento,6,660.0,3960.0,Porto,Portugal,Miguel
+2023-04-11,60,Cadeira,Móveis,1,318.0,318.0,Valencia,Espanha,Carlos
+2023-06-10,24,Cabo Rede,Periféricos,10,27.5,275.0,Valencia,Espanha,Carlos
+2023-12-18,70,Licença Windows,Software,2,1098.0,2196.0,Belo Horizonte,Brasil,João
+2023-11-13,60,Cadeira,Móveis,9,360.0,3240.0,New York,Estados Unidos,Alice
+2023-04-26,30,Notebook,Computadores,7,3710.0,25970.0,Barcelona,Espanha,David
+2023-12-03,90,HD SSD,Armazenamento,2,732.0,1464.0,Barcelona,Espanha,David
+2023-08-08,96,Placa de Vídeo,Periféricos,6,2508.0,15048.0,São Paulo,Brasil,João
+2023-10-07,11,Teclado,Periféricos,5,177.0,885.0,Lisboa,Portugal,André
+2023-10-04,90,HD SSD,Armazenamento,3,708.0,2124.0,Belo Horizonte,Brasil,Carlos
+2023-06-17,23,Cabo HDMI,Periféricos,9,44.0,396.0,São Paulo,Brasil,Ana
+2023-05-19,20,Monitor,Monitores,9,864.0,7776.0,New York,Estados Unidos,Alice
+2023-04-23,95,Memória,Armazenamento,10,339.2,3392.0,Lisboa,Portugal,André
+2023-03-03,60,Cadeira,Móveis,3,312.0,936.0,Belo Horizonte,Brasil,Ana
+2023-08-27,50,Mesa,Móveis,2,513.0,1026.0,New York,Estados Unidos,John
+2023-10-07,70,Licença Windows,Software,4,1062.0,4248.0,Coimbra,Portugal,André
+2023-06-01,90,HD SSD,Armazenamento,10,660.0,6600.0,Belo Horizonte,Brasil,Ana
+2023-12-02,11,Teclado,Periféricos,8,183.0,1464.0,Madrid,Espanha,María
+2023-12-13,11,Teclado,Periféricos,10,183.0,1830.0,Madrid,Espanha,María
+2023-09-23,96,Placa de Vídeo,Periféricos,1,2552.0,2552.0,Rio de Janeiro,Brasil,Ana
+2023-07-10,23,Cabo HDMI,Periféricos,8,44.8,358.4,Valencia,Espanha,María
+2024-01-04,23,Cabo HDMI,Periféricos,2,40.0,80.0,Lisboa,Portugal,André
+2023-05-26,22,Cabo Energia,Periféricos,5,32.4,162.0,New York,Estados Unidos,Bob
+2023-04-21,30,Notebook,Computadores,4,3710.0,14840.0,Madrid,Espanha,Carlos
+2023-09-03,96,Placa de Vídeo,Periféricos,7,2552.0,17864.0,Los Angeles,Estados Unidos,Alice
+2023-03-24,60,Cadeira,Móveis,8,312.0,2496.0,Madrid,Espanha,Carlos
+2023-07-28,40,Nobreak,Periféricos,1,560.0,560.0,Rio de Janeiro,Brasil,Carlos
+2023-09-22,96,Placa de Vídeo,Periféricos,5,2552.0,12760.0,New York,Estados Unidos,Alice
+2023-08-09,20,Monitor,Monitores,9,912.0,8208.0,Rio de Janeiro,Brasil,João
+2024-01-27,92,HD Sata,Armazenamento,10,450.0,4500.0,Rio de Janeiro,Brasil,Carlos
+2023-03-25,20,Monitor,Monitores,4,832.0,3328.0,Rio de Janeiro,Brasil,Carlos
+2023-04-24,96,Placa de Vídeo,Periféricos,7,2332.0,16324.0,Rio de Janeiro,Brasil,João
+2024-01-07,35,Computador,Computadores,7,2300.0,16100.0,São Paulo,Brasil,João
+2023-04-25,11,Teclado,Periféricos,4,159.0,636.0,Valencia,Espanha,María
+2023-06-11,60,Cadeira,Móveis,10,330.0,3300.0,Lisboa,Portugal,André
+2023-12-13,80,Licença Office 365,Software,1,427.0,427.0,Belo Horizonte,Brasil,Ana
+2023-07-18,92,HD Sata,Armazenamento,3,504.0,1512.0,Barcelona,Espanha,David
+2024-02-08,60,Cadeira,Móveis,2,306.0,612.0,Lisboa,Portugal,Miguel
+2023-06-30,92,HD Sata,Armazenamento,9,495.0,4455.0,Madrid,Espanha,María
+2023-12-27,92,HD Sata,Armazenamento,2,549.0,1098.0,Porto,Portugal,Sofia
+2024-01-14,35,Computador,Computadores,6,2300.0,13800.0,Chicago,Estados Unidos,Alice
+2023-05-22,10,Mouse,Periféricos,8,108.0,864.0,Belo Horizonte,Brasil,Ana
+2023-10-10,90,HD SSD,Armazenamento,9,708.0,6372.0,Madrid,Espanha,David
+2023-03-01,22,Cabo Energia,Periféricos,6,31.2,187.2,Madrid,Espanha,David
+2023-08-08,96,Placa de Vídeo,Periféricos,7,2508.0,17556.0,Los Angeles,Estados Unidos,Bob
+2023-11-09,23,Cabo HDMI,Periféricos,1,48.0,48.0,São Paulo,Brasil,Ana
+2023-07-21,70,Licença Windows,Software,9,1008.0,9072.0,Porto,Portugal,Sofia
+2023-11-26,20,Monitor,Monitores,8,960.0,7680.0,Coimbra,Portugal,André
+2023-04-13,40,Nobreak,Periféricos,1,530.0,530.0,Rio de Janeiro,Brasil,João
+2023-12-07,60,Cadeira,Móveis,9,366.0,3294.0,Los Angeles,Estados Unidos,Bob
+2023-10-04,80,Licença Office 365,Software,10,413.0,4130.0,Porto,Portugal,André
+2023-09-21,40,Nobreak,Periféricos,7,580.0,4060.0,Valencia,Espanha,María
+2023-06-27,80,Licença Office 365,Software,5,385.0,1925.0,Los Angeles,Estados Unidos,John
+2024-01-01,22,Cabo Energia,Periféricos,6,30.0,180.0,New York,Estados Unidos,John
+2023-10-13,40,Nobreak,Periféricos,4,590.0,2360.0,Barcelona,Espanha,David
+2023-09-13,20,Monitor,Monitores,9,928.0,8352.0,Belo Horizonte,Brasil,João
+2023-07-07,40,Nobreak,Periféricos,4,560.0,2240.0,Belo Horizonte,Brasil,João
+2023-04-28,60,Cadeira,Móveis,3,318.0,954.0,São Paulo,Brasil,Ana
+2023-11-12,40,Nobreak,Periféricos,1,600.0,600.0,Coimbra,Portugal,Miguel
+2023-08-05,40,Nobreak,Periféricos,4,570.0,2280.0,São Paulo,Brasil,Ana
+2023-03-29,20,Monitor,Monitores,2,832.0,1664.0,Belo Horizonte,Brasil,João
+2023-07-01,70,Licença Windows,Software,9,1008.0,9072.0,Valencia,Espanha,David
+2023-12-28,10,Mouse,Periféricos,7,122.0,854.0,New York,Estados Unidos,Bob
+2023-06-05,30,Notebook,Computadores,5,3850.0,19250.0,New York,Estados Unidos,Bob
+2023-09-27,35,Computador,Computadores,3,2668.0,8004.0,Coimbra,Portugal,Sofia
+2023-07-15,11,Teclado,Periféricos,6,168.0,1008.0,Madrid,Espanha,David
+2023-08-17,80,Licença Office 365,Software,10,399.0,3990.0,Valencia,Espanha,David
+2024-02-11,50,Mesa,Móveis,7,459.0,3213.0,Rio de Janeiro,Brasil,Carlos
+2023-05-25,95,Memória,Armazenamento,5,345.6,1728.0,Barcelona,Espanha,Carlos
+2023-05-26,80,Licença Office 365,Software,10,378.0,3780.0,Chicago,Estados Unidos,Alice
+2023-07-31,96,Placa de Vídeo,Periféricos,6,2464.0,14784.0,Porto,Portugal,Miguel
+2023-05-14,24,Cabo Rede,Periféricos,4,27.0,108.0,Rio de Janeiro,Brasil,Carlos
+2023-04-15,90,HD SSD,Armazenamento,6,636.0,3816.0,Chicago,Estados Unidos,John
+2023-09-08,11,Teclado,Periféricos,5,174.0,870.0,Porto,Portugal,André
+2023-06-10,95,Memória,Armazenamento,10,352.0,3520.0,Porto,Portugal,Miguel
+2024-01-16,95,Memória,Armazenamento,9,320.0,2880.0,Valencia,Espanha,David
+2023-05-22,22,Cabo Energia,Periféricos,10,32.4,324.0,Chicago,Estados Unidos,John
+2024-01-03,22,Cabo Energia,Periféricos,2,30.0,60.0,Lisboa,Portugal,Miguel
+2023-06-30,96,Placa de Vídeo,Periféricos,6,2420.0,14520.0,Los Angeles,Estados Unidos,Alice
+2023-06-16,50,Mesa,Móveis,8,495.0,3960.0,Porto,Portugal,André
+2023-02-19,35,Computador,Computadores,3,2346.0,7038.0,Rio de Janeiro,Brasil,Carlos
+2024-01-30,23,Cabo HDMI,Periféricos,5,40.0,200.0,Rio de Janeiro,Brasil,João
+2023-10-22,92,HD Sata,Armazenamento,3,531.0,1593.0,New York,Estados Unidos,John
+2023-07-20,11,Teclado,Periféricos,9,168.0,1512.0,Rio de Janeiro,Brasil,Carlos
+2023-04-17,30,Notebook,Computadores,1,3710.0,3710.0,Barcelona,Espanha,Carlos
+2024-01-02,95,Memória,Armazenamento,1,320.0,320.0,Los Angeles,Estados Unidos,John
+2023-12-28,22,Cabo Energia,Periféricos,6,36.6,219.6,Lisboa,Portugal,André
+2023-11-06,70,Licença Windows,Software,1,1080.0,1080.0,Belo Horizonte,Brasil,Ana
+2023-05-09,60,Cadeira,Móveis,7,324.0,2268.0,Los Angeles,Estados Unidos,Alice
+2023-11-17,95,Memória,Armazenamento,4,384.0,1536.0,Rio de Janeiro,Brasil,Carlos
+2023-10-28,50,Mesa,Móveis,8,531.0,4248.0,São Paulo,Brasil,Carlos
+2023-08-26,95,Memória,Armazenamento,7,364.8,2553.6,Rio de Janeiro,Brasil,Ana
+2024-01-30,20,Monitor,Monitores,6,800.0,4800.0,Barcelona,Espanha,Carlos
+2023-06-16,22,Cabo Energia,Periféricos,8,33.0,264.0,Lisboa,Portugal,Sofia
+2023-06-29,40,Nobreak,Periféricos,9,550.0,4950.0,Porto,Portugal,André
+2023-06-05,40,Nobreak,Periféricos,1,550.0,550.0,New York,Estados Unidos,John
+2023-09-27,24,Cabo Rede,Periféricos,8,29.0,232.0,Chicago,Estados Unidos,John
+2024-01-31,40,Nobreak,Periféricos,6,500.0,3000.0,Madrid,Espanha,David
+2024-02-03,20,Monitor,Monitores,2,816.0,1632.0,Los Angeles,Estados Unidos,Alice
+2023-05-30,95,Memória,Armazenamento,5,345.6,1728.0,São Paulo,Brasil,João
+2024-02-08,90,HD SSD,Armazenamento,4,612.0,2448.0,New York,Estados Unidos,John
+2023-07-14,30,Notebook,Computadores,2,3920.0,7840.0,Madrid,Espanha,David
+2023-12-01,10,Mouse,Periféricos,4,122.0,488.0,Coimbra,Portugal,Miguel
+2023-04-03,23,Cabo HDMI,Periféricos,1,42.4,42.4,Lisboa,Portugal,Sofia
+2023-07-07,90,HD SSD,Armazenamento,2,672.0,1344.0,Lisboa,Portugal,Miguel
+2023-11-18,40,Nobreak,Periféricos,1,600.0,600.0,Barcelona,Espanha,Carlos
+2023-08-19,20,Monitor,Monitores,6,912.0,5472.0,Coimbra,Portugal,Sofia
+2023-07-12,70,Licença Windows,Software,6,1008.0,6048.0,Madrid,Espanha,María
+2024-01-20,20,Monitor,Monitores,6,800.0,4800.0,Madrid,Espanha,María
+2023-05-25,11,Teclado,Periféricos,10,162.0,1620.0,Rio de Janeiro,Brasil,João
+2023-02-20,70,Licença Windows,Software,6,918.0,5508.0,Belo Horizonte,Brasil,João
+2023-07-24,35,Computador,Computadores,9,2576.0,23184.0,Belo Horizonte,Brasil,João
+2023-12-13,92,HD Sata,Armazenamento,8,549.0,4392.0,Valencia,Espanha,María
+2024-02-01,70,Licença Windows,Software,4,918.0,3672.0,Valencia,Espanha,María
+2023-11-03,20,Monitor,Monitores,5,960.0,4800.0,New York,Estados Unidos,John
+2024-02-15,24,Cabo Rede,Periféricos,5,25.5,127.5,Coimbra,Portugal,Miguel
+2024-02-02,35,Computador,Computadores,1,2346.0,2346.0,Madrid,Espanha,María
+2023-02-17,20,Monitor,Monitores,6,816.0,4896.0,Barcelona,Espanha,David
+2023-10-15,40,Nobreak,Periféricos,4,590.0,2360.0,New York,Estados Unidos,Alice
+2024-01-08,95,Memória,Armazenamento,1,320.0,320.0,Chicago,Estados Unidos,John
+2023-07-25,95,Memória,Armazenamento,6,358.4,2150.4,Valencia,Espanha,María
+2023-04-11,40,Nobreak,Periféricos,10,530.0,5300.0,Chicago,Estados Unidos,John
+2023-06-28,95,Memória,Armazenamento,4,352.0,1408.0,Valencia,Espanha,David
+2023-06-22,95,Memória,Armazenamento,6,352.0,2112.0,Belo Horizonte,Brasil,João
+2023-05-14,20,Monitor,Monitores,4,864.0,3456.0,New York,Estados Unidos,Alice
+2024-01-28,92,HD Sata,Armazenamento,3,450.0,1350.0,Barcelona,Espanha,Carlos
+2023-06-15,20,Monitor,Monitores,8,880.0,7040.0,Madrid,Espanha,María
+2023-05-25,92,HD Sata,Armazenamento,10,486.0,4860.0,Barcelona,Espanha,Carlos
+2023-03-18,23,Cabo HDMI,Periféricos,2,41.6,83.2,New York,Estados Unidos,John
+2023-11-26,20,Monitor,Monitores,6,960.0,5760.0,Belo Horizonte,Brasil,Ana
+2024-01-14,96,Placa de Vídeo,Periféricos,7,2200.0,15400.0,Chicago,Estados Unidos,Alice
+2023-12-28,22,Cabo Energia,Periféricos,7,36.6,256.2,Coimbra,Portugal,André
+2023-08-07,95,Memória,Armazenamento,6,364.8,2188.8,São Paulo,Brasil,João
+2023-05-31,35,Computador,Computadores,5,2484.0,12420.0,Coimbra,Portugal,André
+2023-05-13,40,Nobreak,Periféricos,1,540.0,540.0,Madrid,Espanha,María
+2023-03-06,40,Nobreak,Periféricos,4,520.0,2080.0,Chicago,Estados Unidos,Bob
+2024-01-20,90,HD SSD,Armazenamento,9,600.0,5400.0,São Paulo,Brasil,Ana
+2023-04-25,35,Computador,Computadores,1,2438.0,2438.0,Los Angeles,Estados Unidos,John
+2023-04-03,92,HD Sata,Armazenamento,8,477.0,3816.0,Lisboa,Portugal,Miguel
+2023-12-15,35,Computador,Computadores,6,2806.0,16836.0,Lisboa,Portugal,André
+2023-06-14,10,Mouse,Periféricos,10,110.0,1100.0,Porto,Portugal,Sofia
+2024-02-05,30,Notebook,Computadores,9,3570.0,32130.0,Coimbra,Portugal,Miguel
+2023-05-02,23,Cabo HDMI,Periféricos,4,43.2,172.8,Barcelona,Espanha,David
+2023-08-22,22,Cabo Energia,Periféricos,8,34.2,273.6,Coimbra,Portugal,Sofia
+2023-08-17,60,Cadeira,Móveis,8,342.0,2736.0,Porto,Portugal,Sofia
+2023-03-14,22,Cabo Energia,Periféricos,2,31.2,62.4,Lisboa,Portugal,Sofia
+2023-02-25,30,Notebook,Computadores,4,3570.0,14280.0,Coimbra,Portugal,Miguel
+2023-11-21,10,Mouse,Periféricos,4,120.0,480.0,Barcelona,Espanha,María
+2023-05-03,70,Licença Windows,Software,1,972.0,972.0,Rio de Janeiro,Brasil,Ana
+2023-07-04,20,Monitor,Monitores,6,896.0,5376.0,Madrid,Espanha,María
+2023-03-09,40,Nobreak,Periféricos,3,520.0,1560.0,Los Angeles,Estados Unidos,John
+2023-03-13,11,Teclado,Periféricos,5,156.0,780.0,Porto,Portugal,Miguel
+2023-06-04,20,Monitor,Monitores,3,880.0,2640.0,Belo Horizonte,Brasil,João
+2023-06-12,24,Cabo Rede,Periféricos,7,27.5,192.5,Porto,Portugal,Sofia
+2023-02-25,70,Licença Windows,Software,1,918.0,918.0,Chicago,Estados Unidos,Alice
+2023-10-29,23,Cabo HDMI,Periféricos,8,47.2,377.6,Rio de Janeiro,Brasil,Ana
+2024-02-11,96,Placa de Vídeo,Periféricos,4,2244.0,8976.0,Belo Horizonte,Brasil,João
+2023-04-26,95,Memória,Armazenamento,3,339.2,1017.6,Lisboa,Portugal,André
+2023-02-19,20,Monitor,Monitores,4,816.0,3264.0,Coimbra,Portugal,Sofia
+2023-05-24,90,HD SSD,Armazenamento,3,648.0,1944.0,Belo Horizonte,Brasil,Carlos
+2023-08-15,50,Mesa,Móveis,1,513.0,513.0,Chicago,Estados Unidos,Bob
+2023-03-27,50,Mesa,Móveis,6,468.0,2808.0,Barcelona,Espanha,David
+2023-02-20,60,Cadeira,Móveis,6,306.0,1836.0,São Paulo,Brasil,Ana
+2023-04-08,22,Cabo Energia,Periféricos,6,31.8,190.8,Rio de Janeiro,Brasil,João
+2023-10-25,23,Cabo HDMI,Periféricos,6,47.2,283.2,Porto,Portugal,André
+2023-12-18,60,Cadeira,Móveis,1,366.0,366.0,Rio de Janeiro,Brasil,João
+2023-11-25,24,Cabo Rede,Periféricos,10,30.0,300.0,Coimbra,Portugal,Miguel
+2023-11-28,30,Notebook,Computadores,2,4200.0,8400.0,Barcelona,Espanha,David
+2023-12-09,80,Licença Office 365,Software,5,427.0,2135.0,Barcelona,Espanha,David
+2023-10-13,30,Notebook,Computadores,4,4130.0,16520.0,Chicago,Estados Unidos,John
+2023-04-04,70,Licença Windows,Software,6,954.0,5724.0,São Paulo,Brasil,Ana
+2023-12-08,92,HD Sata,Armazenamento,5,549.0,2745.0,Lisboa,Portugal,Miguel
+2023-04-18,92,HD Sata,Armazenamento,2,477.0,954.0,Valencia,Espanha,David
+2023-04-05,92,HD Sata,Armazenamento,8,477.0,3816.0,Los Angeles,Estados Unidos,Alice
+2023-10-14,40,Nobreak,Periféricos,4,590.0,2360.0,Belo Horizonte,Brasil,Carlos
+2024-02-13,23,Cabo HDMI,Periféricos,1,40.8,40.8,Valencia,Espanha,Carlos
+2023-05-29,95,Memória,Armazenamento,6,345.6,2073.6,Barcelona,Espanha,David
+2023-02-18,92,HD Sata,Armazenamento,8,459.0,3672.0,Los Angeles,Estados Unidos,Alice
+2023-07-04,11,Teclado,Periféricos,2,168.0,336.0,New York,Estados Unidos,Bob
+2023-11-14,23,Cabo HDMI,Periféricos,7,48.0,336.0,Porto,Portugal,André
+2023-05-19,50,Mesa,Móveis,9,486.0,4374.0,Los Angeles,Estados Unidos,Bob
+2023-03-26,96,Placa de Vídeo,Periféricos,5,2288.0,11440.0,Belo Horizonte,Brasil,Ana
+2023-12-24,95,Memória,Armazenamento,3,390.4,1171.2,São Paulo,Brasil,João
+2023-07-18,70,Licença Windows,Software,10,1008.0,10080.0,Los Angeles,Estados Unidos,Alice
+2023-03-24,50,Mesa,Móveis,7,468.0,3276.0,Porto,Portugal,André
+2023-09-06,92,HD Sata,Armazenamento,6,522.0,3132.0,Rio de Janeiro,Brasil,Ana
+2024-01-14,96,Placa de Vídeo,Periféricos,7,2200.0,15400.0,Belo Horizonte,Brasil,Ana
+2023-05-02,96,Placa de Vídeo,Periféricos,7,2376.0,16632.0,Madrid,Espanha,María
+2023-08-30,30,Notebook,Computadores,8,3990.0,31920.0,Los Angeles,Estados Unidos,Bob
+2023-09-16,22,Cabo Energia,Periféricos,8,34.8,278.4,Valencia,Espanha,Carlos
+2024-01-21,95,Memória,Armazenamento,3,320.0,960.0,Los Angeles,Estados Unidos,John
+2023-10-26,11,Teclado,Periféricos,10,177.0,1770.0,Coimbra,Portugal,Sofia
+2023-02-28,23,Cabo HDMI,Periféricos,8,40.8,326.4,Lisboa,Portugal,Miguel
+2024-01-28,22,Cabo Energia,Periféricos,1,30.0,30.0,Belo Horizonte,Brasil,Ana
+2023-03-06,10,Mouse,Periféricos,8,104.0,832.0,Coimbra,Portugal,Sofia
+2023-12-04,10,Mouse,Periféricos,5,122.0,610.0,Porto,Portugal,André
+2024-01-01,30,Notebook,Computadores,10,3500.0,35000.0,Coimbra,Portugal,André
+2023-09-24,35,Computador,Computadores,1,2668.0,2668.0,Barcelona,Espanha,David
+2023-12-16,50,Mesa,Móveis,8,549.0,4392.0,Los Angeles,Estados Unidos,Bob
+2023-12-27,11,Teclado,Periféricos,4,183.0,732.0,Los Angeles,Estados Unidos,John
+2024-01-28,96,Placa de Vídeo,Periféricos,6,2200.0,13200.0,Barcelona,Espanha,María
+2023-09-27,35,Computador,Computadores,3,2668.0,8004.0,Coimbra,Portugal,Sofia
+2023-04-07,60,Cadeira,Móveis,10,318.0,3180.0,Coimbra,Portugal,André
+2023-07-10,70,Licença Windows,Software,3,1008.0,3024.0,Lisboa,Portugal,Miguel
+2023-08-14,95,Memória,Armazenamento,10,364.8,3648.0,São Paulo,Brasil,Ana
+2023-09-24,11,Teclado,Periféricos,7,174.0,1218.0,Madrid,Espanha,David
+2024-01-21,30,Notebook,Computadores,6,3500.0,21000.0,Chicago,Estados Unidos,Alice
+2023-05-23,23,Cabo HDMI,Periféricos,7,43.2,302.4,Valencia,Espanha,David
+2023-08-11,35,Computador,Computadores,3,2622.0,7866.0,Barcelona,Espanha,María
+2023-06-07,20,Monitor,Monitores,5,880.0,4400.0,New York,Estados Unidos,John
+2024-02-05,11,Teclado,Periféricos,8,153.0,1224.0,Barcelona,Espanha,María
+2023-09-12,60,Cadeira,Móveis,5,348.0,1740.0,Los Angeles,Estados Unidos,Bob
+2023-04-09,24,Cabo Rede,Periféricos,8,26.5,212.0,New York,Estados Unidos,John
+2023-06-10,92,HD Sata,Armazenamento,1,495.0,495.0,São Paulo,Brasil,Carlos
+2024-01-13,23,Cabo HDMI,Periféricos,3,40.0,120.0,Madrid,Espanha,María
+2023-04-22,10,Mouse,Periféricos,4,106.0,424.0,Lisboa,Portugal,Sofia
+2023-07-20,70,Licença Windows,Software,6,1008.0,6048.0,Lisboa,Portugal,Miguel
+2023-09-15,60,Cadeira,Móveis,6,348.0,2088.0,Rio de Janeiro,Brasil,Carlos
+2023-06-25,60,Cadeira,Móveis,10,330.0,3300.0,Madrid,Espanha,María
+2023-07-05,30,Notebook,Computadores,3,3920.0,11760.0,Coimbra,Portugal,Sofia
+2023-03-31,11,Teclado,Periféricos,5,156.0,780.0,Belo Horizonte,Brasil,Ana
+2024-02-07,90,HD SSD,Armazenamento,7,612.0,4284.0,Belo Horizonte,Brasil,João
+2023-08-17,70,Licença Windows,Software,1,1026.0,1026.0,Chicago,Estados Unidos,Bob
+2023-11-24,30,Notebook,Computadores,2,4200.0,8400.0,New York,Estados Unidos,John
+2023-04-26,11,Teclado,Periféricos,8,159.0,1272.0,Chicago,Estados Unidos,Alice
+2023-10-06,11,Teclado,Periféricos,4,177.0,708.0,New York,Estados Unidos,John
+2023-12-25,80,Licença Office 365,Software,9,427.0,3843.0,Rio de Janeiro,Brasil,João
+2023-05-06,80,Licença Office 365,Software,4,378.0,1512.0,Coimbra,Portugal,Miguel
+2023-08-09,40,Nobreak,Periféricos,7,570.0,3990.0,Chicago,Estados Unidos,Bob
+2023-04-01,22,Cabo Energia,Periféricos,10,31.8,318.0,Valencia,Espanha,Carlos
+2023-08-04,22,Cabo Energia,Periféricos,4,34.2,136.8,Lisboa,Portugal,Miguel
+2024-01-12,35,Computador,Computadores,10,2300.0,23000.0,New York,Estados Unidos,Bob
+2023-09-01,92,HD Sata,Armazenamento,10,522.0,5220.0,Rio de Janeiro,Brasil,Carlos
+2024-01-23,22,Cabo Energia,Periféricos,10,30.0,300.0,Coimbra,Portugal,Miguel
+2023-12-07,40,Nobreak,Periféricos,6,610.0,3660.0,New York,Estados Unidos,Bob
+2024-01-30,30,Notebook,Computadores,10,3500.0,35000.0,Porto,Portugal,Miguel
+2023-09-26,35,Computador,Computadores,9,2668.0,24012.0,Belo Horizonte,Brasil,Ana
+2023-08-22,20,Monitor,Monitores,9,912.0,8208.0,Coimbra,Portugal,André
+2024-02-09,96,Placa de Vídeo,Periféricos,5,2244.0,11220.0,Madrid,Espanha,Carlos
+2024-01-18,23,Cabo HDMI,Periféricos,7,40.0,280.0,Chicago,Estados Unidos,Alice
+2023-06-05,95,Memória,Armazenamento,4,352.0,1408.0,Chicago,Estados Unidos,John
+2023-05-17,20,Monitor,Monitores,4,864.0,3456.0,Valencia,Espanha,Carlos
+2023-05-31,35,Computador,Computadores,1,2484.0,2484.0,Porto,Portugal,Sofia
+2023-10-21,40,Nobreak,Periféricos,9,590.0,5310.0,Belo Horizonte,Brasil,Ana
+2023-05-21,10,Mouse,Periféricos,7,108.0,756.0,New York,Estados Unidos,John
+2023-12-03,10,Mouse,Periféricos,1,122.0,122.0,Coimbra,Portugal,André
+2023-07-06,96,Placa de Vídeo,Periféricos,4,2464.0,9856.0,Belo Horizonte,Brasil,Carlos
+2023-03-19,96,Placa de Vídeo,Periféricos,8,2288.0,18304.0,São Paulo,Brasil,Carlos
+2023-04-21,10,Mouse,Periféricos,10,106.0,1060.0,Belo Horizonte,Brasil,Ana
+2024-01-02,95,Memória,Armazenamento,3,320.0,960.0,Los Angeles,Estados Unidos,John
+2023-12-29,24,Cabo Rede,Periféricos,8,30.5,244.0,Madrid,Espanha,David
+2023-03-02,20,Monitor,Monitores,2,832.0,1664.0,Lisboa,Portugal,Miguel
+2023-03-27,70,Licença Windows,Software,3,936.0,2808.0,Los Angeles,Estados Unidos,John
+2023-04-13,30,Notebook,Computadores,8,3710.0,29680.0,Coimbra,Portugal,Miguel
+2023-10-24,23,Cabo HDMI,Periféricos,3,47.2,141.6,New York,Estados Unidos,John
+2023-08-06,22,Cabo Energia,Periféricos,7,34.2,239.4,Belo Horizonte,Brasil,João
+2024-01-30,22,Cabo Energia,Periféricos,4,30.0,120.0,Valencia,Espanha,María
+2023-11-29,24,Cabo Rede,Periféricos,8,30.0,240.0,Barcelona,Espanha,David
+2023-10-11,70,Licença Windows,Software,6,1062.0,6372.0,Belo Horizonte,Brasil,João
+2023-10-31,60,Cadeira,Móveis,10,354.0,3540.0,Rio de Janeiro,Brasil,Carlos
+2023-08-28,92,HD Sata,Armazenamento,6,513.0,3078.0,Porto,Portugal,André
+2023-09-25,92,HD Sata,Armazenamento,4,522.0,2088.0,Coimbra,Portugal,André
+2023-07-07,35,Computador,Computadores,4,2576.0,10304.0,Madrid,Espanha,David
+2023-06-02,40,Nobreak,Periféricos,9,550.0,4950.0,New York,Estados Unidos,John
+2023-04-09,50,Mesa,Móveis,7,477.0,3339.0,Chicago,Estados Unidos,John
+2023-12-26,40,Nobreak,Periféricos,5,610.0,3050.0,Barcelona,Espanha,María
+2023-08-22,96,Placa de Vídeo,Periféricos,6,2508.0,15048.0,Barcelona,Espanha,Carlos
+2023-10-08,70,Licença Windows,Software,7,1062.0,7434.0,Madrid,Espanha,David
+2023-02-25,95,Memória,Armazenamento,5,326.4,1632.0,Porto,Portugal,Sofia
+2023-07-20,95,Memória,Armazenamento,9,358.4,3225.6,New York,Estados Unidos,John
+2023-05-20,96,Placa de Vídeo,Periféricos,10,2376.0,23760.0,Lisboa,Portugal,Miguel
+2023-11-01,35,Computador,Computadores,2,2760.0,5520.0,Coimbra,Portugal,Sofia
+2023-08-15,80,Licença Office 365,Software,7,399.0,2793.0,Porto,Portugal,André
+2023-04-09,30,Notebook,Computadores,8,3710.0,29680.0,Belo Horizonte,Brasil,Carlos
+2023-12-15,24,Cabo Rede,Periféricos,4,30.5,122.0,Porto,Portugal,Sofia
+2023-06-18,95,Memória,Armazenamento,9,352.0,3168.0,Coimbra,Portugal,Sofia
+2023-11-21,92,HD Sata,Armazenamento,1,540.0,540.0,Porto,Portugal,Sofia
+2023-12-23,22,Cabo Energia,Periféricos,5,36.6,183.0,Rio de Janeiro,Brasil,Ana
+2023-05-27,95,Memória,Armazenamento,4,345.6,1382.4,Rio de Janeiro,Brasil,Carlos
+2023-05-20,92,HD Sata,Armazenamento,6,486.0,2916.0,Valencia,Espanha,Carlos
+2023-06-21,40,Nobreak,Periféricos,6,550.0,3300.0,Porto,Portugal,André
+2023-08-17,23,Cabo HDMI,Periféricos,10,45.6,456.0,Chicago,Estados Unidos,Bob
+2023-11-02,35,Computador,Computadores,3,2760.0,8280.0,Porto,Portugal,Miguel
+2023-06-03,40,Nobreak,Periféricos,5,550.0,2750.0,São Paulo,Brasil,Ana
+2023-10-30,20,Monitor,Monitores,5,944.0,4720.0,Valencia,Espanha,María
+2023-09-26,30,Notebook,Computadores,6,4060.0,24360.0,Chicago,Estados Unidos,Alice
+2023-09-15,20,Monitor,Monitores,3,928.0,2784.0,Belo Horizonte,Brasil,Ana
+2023-04-22,30,Notebook,Computadores,7,3710.0,25970.0,Rio de Janeiro,Brasil,João
+2023-05-14,24,Cabo Rede,Periféricos,1,27.0,27.0,New York,Estados Unidos,John
+2023-09-24,95,Memória,Armazenamento,6,371.2,2227.2,Belo Horizonte,Brasil,Carlos
+2023-06-20,35,Computador,Computadores,4,2530.0,10120.0,Belo Horizonte,Brasil,Ana
+2023-07-08,20,Monitor,Monitores,5,896.0,4480.0,Los Angeles,Estados Unidos,Alice
+2023-09-18,30,Notebook,Computadores,9,4060.0,36540.0,Barcelona,Espanha,Carlos
+2023-04-30,95,Memória,Armazenamento,9,339.2,3052.8,New York,Estados Unidos,Alice
+2023-09-21,95,Memória,Armazenamento,9,371.2,3340.8,Coimbra,Portugal,André
+2023-03-30,11,Teclado,Periféricos,10,156.0,1560.0,Lisboa,Portugal,Sofia
+2024-02-07,50,Mesa,Móveis,4,459.0,1836.0,Rio de Janeiro,Brasil,Carlos
+2023-08-15,92,HD Sata,Armazenamento,9,513.0,4617.0,Los Angeles,Estados Unidos,Alice
+2023-03-21,11,Teclado,Periféricos,6,156.0,936.0,Los Angeles,Estados Unidos,Alice
+2024-02-14,60,Cadeira,Móveis,10,306.0,3060.0,Porto,Portugal,Sofia
+2023-06-23,60,Cadeira,Móveis,8,330.0,2640.0,Los Angeles,Estados Unidos,Bob
+2023-04-30,90,HD SSD,Armazenamento,9,636.0,5724.0,Valencia,Espanha,David
+2024-02-12,70,Licença Windows,Software,1,918.0,918.0,Barcelona,Espanha,Carlos
+2023-07-10,10,Mouse,Periféricos,6,112.0,672.0,Chicago,Estados Unidos,Bob
+2023-03-30,11,Teclado,Periféricos,6,156.0,936.0,Coimbra,Portugal,Sofia
+2023-09-24,50,Mesa,Móveis,10,522.0,5220.0,Coimbra,Portugal,André
+2023-10-23,90,HD SSD,Armazenamento,2,708.0,1416.0,New York,Estados Unidos,Alice
+2023-03-09,70,Licença Windows,Software,1,936.0,936.0,Barcelona,Espanha,María
+2023-05-17,60,Cadeira,Móveis,5,324.0,1620.0,Lisboa,Portugal,Sofia
+2023-10-26,35,Computador,Computadores,3,2714.0,8142.0,Madrid,Espanha,David
+2023-05-23,95,Memória,Armazenamento,9,345.6,3110.4,Belo Horizonte,Brasil,Carlos
+2023-08-02,20,Monitor,Monitores,9,912.0,8208.0,Lisboa,Portugal,Sofia
+2023-12-10,80,Licença Office 365,Software,4,427.0,1708.0,Porto,Portugal,Miguel
+2023-06-06,80,Licença Office 365,Software,10,385.0,3850.0,Valencia,Espanha,David
+2023-04-10,90,HD SSD,Armazenamento,10,636.0,6360.0,Madrid,Espanha,Carlos
+2023-07-15,22,Cabo Energia,Periféricos,9,33.6,302.4,Chicago,Estados Unidos,John
+2024-01-12,96,Placa de Vídeo,Periféricos,5,2200.0,11000.0,Porto,Portugal,Miguel
+2023-10-31,70,Licença Windows,Software,5,1062.0,5310.0,Chicago,Estados Unidos,Alice
+2023-06-03,96,Placa de Vídeo,Periféricos,7,2420.0,16940.0,Madrid,Espanha,Carlos
+2023-07-07,10,Mouse,Periféricos,3,112.0,336.0,São Paulo,Brasil,João
+2023-11-30,35,Computador,Computadores,4,2760.0,11040.0,Rio de Janeiro,Brasil,Ana
+2023-12-31,40,Nobreak,Periféricos,5,610.0,3050.0,Valencia,Espanha,María
+2023-04-04,80,Licença Office 365,Software,3,371.0,1113.0,New York,Estados Unidos,John
+2023-04-16,24,Cabo Rede,Periféricos,10,26.5,265.0,New York,Estados Unidos,Alice
+2023-10-04,80,Licença Office 365,Software,3,413.0,1239.0,Belo Horizonte,Brasil,Ana
+2023-05-15,96,Placa de Vídeo,Periféricos,5,2376.0,11880.0,Chicago,Estados Unidos,Alice
+2023-04-16,90,HD SSD,Armazenamento,8,636.0,5088.0,Porto,Portugal,André
+2023-03-17,11,Teclado,Periféricos,5,156.0,780.0,Valencia,Espanha,María
+2024-01-28,70,Licença Windows,Software,9,900.0,8100.0,Belo Horizonte,Brasil,João
+2024-02-12,90,HD SSD,Armazenamento,5,612.0,3060.0,Porto,Portugal,Sofia
+2023-07-26,23,Cabo HDMI,Periféricos,9,44.8,403.2,Rio de Janeiro,Brasil,João
+2023-11-09,11,Teclado,Periféricos,5,180.0,900.0,Belo Horizonte,Brasil,João
+2023-11-12,90,HD SSD,Armazenamento,2,720.0,1440.0,Coimbra,Portugal,Miguel
+2023-09-17,60,Cadeira,Móveis,1,348.0,348.0,Madrid,Espanha,María
+2024-01-11,96,Placa de Vídeo,Periféricos,3,2200.0,6600.0,Barcelona,Espanha,Carlos
+2023-05-16,20,Monitor,Monitores,6,864.0,5184.0,São Paulo,Brasil,João
+2023-03-21,95,Memória,Armazenamento,6,332.8,1996.8,Lisboa,Portugal,Sofia
+2023-04-11,10,Mouse,Periféricos,7,106.0,742.0,Lisboa,Portugal,Sofia
+2023-08-15,30,Notebook,Computadores,5,3990.0,19950.0,Rio de Janeiro,Brasil,Ana
+2023-08-14,90,HD SSD,Armazenamento,7,684.0,4788.0,Porto,Portugal,Miguel
+2023-09-30,11,Teclado,Periféricos,1,174.0,174.0,New York,Estados Unidos,Bob
+2023-05-30,40,Nobreak,Periféricos,3,540.0,1620.0,Belo Horizonte,Brasil,Carlos
+2024-01-15,24,Cabo Rede,Periféricos,1,25.0,25.0,Lisboa,Portugal,André
+2023-04-28,90,HD SSD,Armazenamento,7,636.0,4452.0,New York,Estados Unidos,John
+2023-03-15,30,Notebook,Computadores,5,3640.0,18200.0,Madrid,Espanha,Carlos
+2024-01-31,90,HD SSD,Armazenamento,1,600.0,600.0,New York,Estados Unidos,Alice
+2024-01-12,90,HD SSD,Armazenamento,2,600.0,1200.0,Porto,Portugal,Miguel
+2024-01-09,35,Computador,Computadores,10,2300.0,23000.0,São Paulo,Brasil,Carlos
+2023-07-15,35,Computador,Computadores,4,2576.0,10304.0,Rio de Janeiro,Brasil,João
+2023-11-15,35,Computador,Computadores,1,2760.0,2760.0,Porto,Portugal,André
+2023-06-02,60,Cadeira,Móveis,10,330.0,3300.0,Chicago,Estados Unidos,Alice
+2024-01-21,70,Licença Windows,Software,4,900.0,3600.0,São Paulo,Brasil,Ana
+2024-01-22,60,Cadeira,Móveis,3,300.0,900.0,Belo Horizonte,Brasil,Ana
+2024-02-10,96,Placa de Vídeo,Periféricos,3,2244.0,6732.0,Valencia,Espanha,María
+2023-04-30,35,Computador,Computadores,3,2438.0,7314.0,Rio de Janeiro,Brasil,Ana
+2023-07-14,22,Cabo Energia,Periféricos,1,33.6,33.6,Los Angeles,Estados Unidos,Alice
+2023-12-27,96,Placa de Vídeo,Periféricos,2,2684.0,5368.0,Barcelona,Espanha,David
+2023-06-22,40,Nobreak,Periféricos,10,550.0,5500.0,Valencia,Espanha,Carlos
+2023-07-19,96,Placa de Vídeo,Periféricos,10,2464.0,24640.0,Belo Horizonte,Brasil,Ana
+2023-05-18,92,HD Sata,Armazenamento,10,486.0,4860.0,New York,Estados Unidos,Alice
+2023-03-26,22,Cabo Energia,Periféricos,5,31.2,156.0,Chicago,Estados Unidos,Bob
+2023-11-13,23,Cabo HDMI,Periféricos,9,48.0,432.0,Barcelona,Espanha,María
+2023-10-06,24,Cabo Rede,Periféricos,1,29.5,29.5,Porto,Portugal,Miguel
+2024-01-30,90,HD SSD,Armazenamento,8,600.0,4800.0,Barcelona,Espanha,Carlos
+2023-11-28,50,Mesa,Móveis,5,540.0,2700.0,Los Angeles,Estados Unidos,John
+2023-06-25,24,Cabo Rede,Periféricos,2,27.5,55.0,Chicago,Estados Unidos,Bob
+2023-11-13,11,Teclado,Periféricos,10,180.0,1800.0,Lisboa,Portugal,André
+2023-05-14,30,Notebook,Computadores,10,3780.0,37800.0,São Paulo,Brasil,Carlos
+2023-10-02,35,Computador,Computadores,7,2714.0,18998.0,Belo Horizonte,Brasil,Ana
+2023-11-15,24,Cabo Rede,Periféricos,5,30.0,150.0,Coimbra,Portugal,Sofia
+2023-12-30,40,Nobreak,Periféricos,1,610.0,610.0,São Paulo,Brasil,Carlos
+2024-02-06,70,Licença Windows,Software,1,918.0,918.0,São Paulo,Brasil,Ana
+2023-04-09,70,Licença Windows,Software,10,954.0,9540.0,Chicago,Estados Unidos,John
+2024-01-30,95,Memória,Armazenamento,1,320.0,320.0,Belo Horizonte,Brasil,João
+2023-04-02,22,Cabo Energia,Periféricos,10,31.8,318.0,Valencia,Espanha,David
+2023-12-19,96,Placa de Vídeo,Periféricos,6,2684.0,16104.0,São Paulo,Brasil,Ana
+2023-06-18,22,Cabo Energia,Periféricos,3,33.0,99.0,Belo Horizonte,Brasil,João
+2023-09-26,92,HD Sata,Armazenamento,4,522.0,2088.0,Rio de Janeiro,Brasil,Ana
+2023-07-02,11,Teclado,Periféricos,4,168.0,672.0,Madrid,Espanha,David
+2023-11-14,90,HD SSD,Armazenamento,4,720.0,2880.0,Barcelona,Espanha,María
+2023-10-01,24,Cabo Rede,Periféricos,2,29.5,59.0,Los Angeles,Estados Unidos,Bob
+2023-07-05,11,Teclado,Periféricos,6,168.0,1008.0,São Paulo,Brasil,Ana
+2023-08-13,11,Teclado,Periféricos,3,171.0,513.0,New York,Estados Unidos,Alice
+2023-09-29,20,Monitor,Monitores,3,928.0,2784.0,Los Angeles,Estados Unidos,Bob
+2023-04-27,96,Placa de Vídeo,Periféricos,2,2332.0,4664.0,Chicago,Estados Unidos,John
+2023-03-20,70,Licença Windows,Software,5,936.0,4680.0,Rio de Janeiro,Brasil,Ana
+2023-08-01,20,Monitor,Monitores,4,912.0,3648.0,New York,Estados Unidos,Alice
+2023-05-02,40,Nobreak,Periféricos,7,540.0,3780.0,Los Angeles,Estados Unidos,Bob
+2023-12-18,96,Placa de Vídeo,Periféricos,1,2684.0,2684.0,Porto,Portugal,Sofia
+2023-04-24,30,Notebook,Computadores,9,3710.0,33390.0,Barcelona,Espanha,Carlos
+2023-03-26,80,Licença Office 365,Software,6,364.0,2184.0,Barcelona,Espanha,María
+2023-06-18,40,Nobreak,Periféricos,9,550.0,4950.0,Chicago,Estados Unidos,Bob
+2023-03-22,96,Placa de Vídeo,Periféricos,1,2288.0,2288.0,Barcelona,Espanha,David
+2023-10-10,60,Cadeira,Móveis,5,354.0,1770.0,Porto,Portugal,André
+2024-02-15,60,Cadeira,Móveis,6,306.0,1836.0,São Paulo,Brasil,João
+2023-12-31,22,Cabo Energia,Periféricos,8,36.6,292.8,Valencia,Espanha,Carlos
+2023-11-22,50,Mesa,Móveis,4,540.0,2160.0,Los Angeles,Estados Unidos,Bob
+2023-10-08,80,Licença Office 365,Software,6,413.0,2478.0,Barcelona,Espanha,David
+2024-02-03,70,Licença Windows,Software,1,918.0,918.0,Valencia,Espanha,María
+2024-01-18,60,Cadeira,Móveis,2,300.0,600.0,Rio de Janeiro,Brasil,Ana
+2023-09-22,30,Notebook,Computadores,1,4060.0,4060.0,Rio de Janeiro,Brasil,Carlos
+2023-06-27,50,Mesa,Móveis,10,495.0,4950.0,New York,Estados Unidos,Bob
+2023-07-31,20,Monitor,Monitores,8,896.0,7168.0,Madrid,Espanha,María
+2023-05-10,60,Cadeira,Móveis,4,324.0,1296.0,Lisboa,Portugal,André
+2023-10-30,70,Licença Windows,Software,5,1062.0,5310.0,Barcelona,Espanha,David
+2023-05-12,30,Notebook,Computadores,8,3780.0,30240.0,Chicago,Estados Unidos,Bob
+2024-01-25,80,Licença Office 365,Software,7,350.0,2450.0,Madrid,Espanha,David
+2024-01-04,11,Teclado,Periféricos,3,150.0,450.0,Valencia,Espanha,David
+2024-01-21,80,Licença Office 365,Software,7,350.0,2450.0,Rio de Janeiro,Brasil,Carlos
+2024-01-19,23,Cabo HDMI,Periféricos,6,40.0,240.0,Chicago,Estados Unidos,Bob
+2023-08-02,96,Placa de Vídeo,Periféricos,6,2508.0,15048.0,Los Angeles,Estados Unidos,John
+2024-01-13,80,Licença Office 365,Software,2,350.0,700.0,Belo Horizonte,Brasil,Carlos
+2023-08-08,10,Mouse,Periféricos,6,114.0,684.0,Coimbra,Portugal,André
+2023-10-28,40,Nobreak,Periféricos,4,590.0,2360.0,Rio de Janeiro,Brasil,João
+2023-07-10,22,Cabo Energia,Periféricos,4,33.6,134.4,São Paulo,Brasil,João
+2023-04-11,70,Licença Windows,Software,4,954.0,3816.0,Valencia,Espanha,María
+2023-09-29,22,Cabo Energia,Periféricos,1,34.8,34.8,Lisboa,Portugal,Sofia
+2023-02-23,80,Licença Office 365,Software,5,357.0,1785.0,Belo Horizonte,Brasil,Carlos
+2023-10-26,92,HD Sata,Armazenamento,10,531.0,5310.0,São Paulo,Brasil,Ana
+2023-09-02,24,Cabo Rede,Periféricos,6,29.0,174.0,Valencia,Espanha,María
+2024-01-18,96,Placa de Vídeo,Periféricos,10,2200.0,22000.0,Los Angeles,Estados Unidos,John
+2023-11-13,90,HD SSD,Armazenamento,4,720.0,2880.0,Porto,Portugal,Sofia
+2023-09-11,10,Mouse,Periféricos,2,116.0,232.0,Rio de Janeiro,Brasil,João
+2023-08-02,95,Memória,Armazenamento,9,364.8,3283.2,Barcelona,Espanha,María
+2023-06-30,95,Memória,Armazenamento,5,352.0,1760.0,Porto,Portugal,Miguel
+2023-06-27,92,HD Sata,Armazenamento,7,495.0,3465.0,Coimbra,Portugal,Sofia
+2023-09-16,50,Mesa,Móveis,4,522.0,2088.0,Coimbra,Portugal,Miguel
+2023-12-27,95,Memória,Armazenamento,7,390.4,2732.8,Valencia,Espanha,David
+2023-08-17,10,Mouse,Periféricos,7,114.0,798.0,Barcelona,Espanha,María
+2023-11-25,92,HD Sata,Armazenamento,5,540.0,2700.0,Porto,Portugal,Sofia
+2023-10-27,92,HD Sata,Armazenamento,5,531.0,2655.0,Los Angeles,Estados Unidos,Bob
+2023-04-10,40,Nobreak,Periféricos,1,530.0,530.0,Chicago,Estados Unidos,Alice
+2023-07-03,24,Cabo Rede,Periféricos,2,28.0,56.0,Porto,Portugal,Miguel
+2023-12-30,30,Notebook,Computadores,4,4270.0,17080.0,Belo Horizonte,Brasil,Ana
+2023-03-18,90,HD SSD,Armazenamento,9,624.0,5616.0,Rio de Janeiro,Brasil,Carlos
+2024-02-09,96,Placa de Vídeo,Periféricos,5,2244.0,11220.0,Los Angeles,Estados Unidos,John
+2023-07-03,24,Cabo Rede,Periféricos,2,28.0,56.0,Porto,Portugal,André
+2023-04-22,22,Cabo Energia,Periféricos,8,31.8,254.4,Belo Horizonte,Brasil,Carlos
+2023-08-09,50,Mesa,Móveis,5,513.0,2565.0,Rio de Janeiro,Brasil,Ana
+2023-07-21,20,Monitor,Monitores,1,896.0,896.0,São Paulo,Brasil,Ana
+2023-06-27,35,Computador,Computadores,8,2530.0,20240.0,Valencia,Espanha,David
+2023-05-03,11,Teclado,Periféricos,8,162.0,1296.0,Chicago,Estados Unidos,Alice
+2024-01-25,70,Licença Windows,Software,10,900.0,9000.0,São Paulo,Brasil,João
+2023-07-23,60,Cadeira,Móveis,6,336.0,2016.0,Madrid,Espanha,David
+2023-09-25,92,HD Sata,Armazenamento,1,522.0,522.0,Barcelona,Espanha,María
+2023-10-20,60,Cadeira,Móveis,7,354.0,2478.0,Porto,Portugal,André
+2023-10-28,96,Placa de Vídeo,Periféricos,6,2596.0,15576.0,Lisboa,Portugal,Miguel
+2023-06-11,60,Cadeira,Móveis,6,330.0,1980.0,New York,Estados Unidos,John
+2023-05-10,35,Computador,Computadores,6,2484.0,14904.0,Lisboa,Portugal,Miguel
+2023-03-14,90,HD SSD,Armazenamento,4,624.0,2496.0,Chicago,Estados Unidos,John
+2023-07-15,95,Memória,Armazenamento,1,358.4,358.4,Los Angeles,Estados Unidos,John
+2023-04-09,30,Notebook,Computadores,7,3710.0,25970.0,Valencia,Espanha,David
+2023-11-12,96,Placa de Vídeo,Periféricos,1,2640.0,2640.0,Madrid,Espanha,Carlos
+2023-10-25,22,Cabo Energia,Periféricos,7,35.4,247.8,Chicago,Estados Unidos,John
+2023-09-19,60,Cadeira,Móveis,4,348.0,1392.0,Chicago,Estados Unidos,Alice
+2023-12-23,95,Memória,Armazenamento,7,390.4,2732.8,New York,Estados Unidos,John
+2023-09-09,23,Cabo HDMI,Periféricos,7,46.4,324.8,Belo Horizonte,Brasil,Ana
+2023-07-13,96,Placa de Vídeo,Periféricos,10,2464.0,24640.0,Barcelona,Espanha,María
+2023-05-27,10,Mouse,Periféricos,1,108.0,108.0,Chicago,Estados Unidos,Bob
+2023-02-16,35,Computador,Computadores,9,2346.0,21114.0,Chicago,Estados Unidos,John
+2023-10-04,92,HD Sata,Armazenamento,1,531.0,531.0,Lisboa,Portugal,Miguel
+2023-02-15,90,HD SSD,Armazenamento,5,612.0,3060.0,São Paulo,Brasil,João
+2023-08-05,95,Memória,Armazenamento,10,364.8,3648.0,Madrid,Espanha,Carlos
+2023-05-05,30,Notebook,Computadores,3,3780.0,11340.0,Los Angeles,Estados Unidos,Alice
+2024-01-21,70,Licença Windows,Software,10,900.0,9000.0,Belo Horizonte,Brasil,Ana
+2023-05-01,35,Computador,Computadores,3,2484.0,7452.0,Porto,Portugal,Miguel
+2023-08-12,95,Memória,Armazenamento,7,364.8,2553.6,Rio de Janeiro,Brasil,Ana
+2023-12-20,24,Cabo Rede,Periféricos,1,30.5,30.5,Lisboa,Portugal,Miguel
+2023-03-07,80,Licença Office 365,Software,4,364.0,1456.0,São Paulo,Brasil,Ana
+2023-11-30,50,Mesa,Móveis,6,540.0,3240.0,New York,Estados Unidos,Bob
+2024-01-09,50,Mesa,Móveis,1,450.0,450.0,Madrid,Espanha,María
+2023-07-20,30,Notebook,Computadores,10,3920.0,39200.0,Barcelona,Espanha,María
+2023-06-12,11,Teclado,Periféricos,5,165.0,825.0,Chicago,Estados Unidos,Bob
+2023-03-28,92,HD Sata,Armazenamento,1,468.0,468.0,Porto,Portugal,Miguel
+2023-12-21,70,Licença Windows,Software,8,1098.0,8784.0,Barcelona,Espanha,Carlos
+2023-03-23,24,Cabo Rede,Periféricos,1,26.0,26.0,Porto,Portugal,André
+2023-07-29,40,Nobreak,Periféricos,3,560.0,1680.0,São Paulo,Brasil,João
+2023-06-09,70,Licença Windows,Software,2,990.0,1980.0,Coimbra,Portugal,André
+2023-03-03,23,Cabo HDMI,Periféricos,3,41.6,124.8,Barcelona,Espanha,David
+2023-04-22,10,Mouse,Periféricos,3,106.0,318.0,New York,Estados Unidos,John
+2024-01-26,20,Monitor,Monitores,3,800.0,2400.0,Los Angeles,Estados Unidos,John
+2023-07-30,35,Computador,Computadores,9,2576.0,23184.0,Valencia,Espanha,Carlos
+2024-02-15,80,Licença Office 365,Software,1,357.0,357.0,Porto,Portugal,Sofia
+2024-02-07,40,Nobreak,Periféricos,9,510.0,4590.0,Madrid,Espanha,Carlos
+2024-02-06,50,Mesa,Móveis,10,459.0,4590.0,Madrid,Espanha,Carlos
+2023-05-02,92,HD Sata,Armazenamento,6,486.0,2916.0,Valencia,Espanha,Carlos
+2023-07-23,11,Teclado,Periféricos,2,168.0,336.0,Porto,Portugal,Miguel
+2023-07-19,10,Mouse,Periféricos,4,112.0,448.0,Los Angeles,Estados Unidos,Alice
+2023-08-15,30,Notebook,Computadores,3,3990.0,11970.0,Los Angeles,Estados Unidos,Alice
+2023-11-14,90,HD SSD,Armazenamento,4,720.0,2880.0,Madrid,Espanha,María
+2023-02-17,23,Cabo HDMI,Periféricos,5,40.8,204.0,Lisboa,Portugal,Miguel
+2023-07-21,24,Cabo Rede,Periféricos,7,28.0,196.0,Barcelona,Espanha,María
+2023-06-16,96,Placa de Vídeo,Periféricos,5,2420.0,12100.0,Coimbra,Portugal,Miguel
+2023-08-12,24,Cabo Rede,Periféricos,2,28.5,57.0,Lisboa,Portugal,Sofia
+2023-12-07,40,Nobreak,Periféricos,9,610.0,5490.0,Chicago,Estados Unidos,Alice
+2023-06-25,95,Memória,Armazenamento,1,352.0,352.0,Barcelona,Espanha,David
+2023-04-20,30,Notebook,Computadores,3,3710.0,11130.0,Barcelona,Espanha,María
+2023-08-04,24,Cabo Rede,Periféricos,1,28.5,28.5,Lisboa,Portugal,André
+2023-12-20,60,Cadeira,Móveis,2,366.0,732.0,Lisboa,Portugal,Miguel
+2023-06-19,23,Cabo HDMI,Periféricos,2,44.0,88.0,Coimbra,Portugal,Miguel
+2023-04-02,80,Licença Office 365,Software,3,371.0,1113.0,New York,Estados Unidos,John
+2023-07-09,40,Nobreak,Periféricos,9,560.0,5040.0,Madrid,Espanha,María
+2023-09-18,10,Mouse,Periféricos,2,116.0,232.0,Lisboa,Portugal,Sofia
+2023-07-19,30,Notebook,Computadores,8,3920.0,31360.0,Coimbra,Portugal,Sofia
+2023-10-26,23,Cabo HDMI,Periféricos,4,47.2,188.8,Porto,Portugal,Miguel
+2023-11-09,50,Mesa,Móveis,5,540.0,2700.0,Madrid,Espanha,Carlos
+2023-03-19,60,Cadeira,Móveis,10,312.0,3120.0,Madrid,Espanha,Carlos
+2023-05-25,70,Licença Windows,Software,1,972.0,972.0,Madrid,Espanha,Carlos
+2023-05-08,35,Computador,Computadores,4,2484.0,9936.0,Coimbra,Portugal,Sofia
+2024-02-11,24,Cabo Rede,Periféricos,6,25.5,153.0,Rio de Janeiro,Brasil,João
+2023-03-01,30,Notebook,Computadores,4,3640.0,14560.0,Barcelona,Espanha,María
+2024-02-14,96,Placa de Vídeo,Periféricos,6,2244.0,13464.0,São Paulo,Brasil,Carlos
+2023-10-09,30,Notebook,Computadores,6,4130.0,24780.0,São Paulo,Brasil,Carlos
+2023-07-27,35,Computador,Computadores,2,2576.0,5152.0,Lisboa,Portugal,Sofia
+2023-04-01,40,Nobreak,Periféricos,7,530.0,3710.0,New York,Estados Unidos,Bob
+2023-04-03,80,Licença Office 365,Software,2,371.0,742.0,Valencia,Espanha,David
+2023-11-16,90,HD SSD,Armazenamento,7,720.0,5040.0,New York,Estados Unidos,Bob
+2024-01-22,30,Notebook,Computadores,4,3500.0,14000.0,Chicago,Estados Unidos,Bob
+2024-01-24,35,Computador,Computadores,7,2300.0,16100.0,São Paulo,Brasil,João
+2023-06-26,96,Placa de Vídeo,Periféricos,2,2420.0,4840.0,Rio de Janeiro,Brasil,Carlos
+2023-04-05,22,Cabo Energia,Periféricos,6,31.8,190.8,Belo Horizonte,Brasil,João
+2023-06-19,22,Cabo Energia,Periféricos,1,33.0,33.0,Coimbra,Portugal,André
+2023-03-29,23,Cabo HDMI,Periféricos,5,41.6,208.0,Los Angeles,Estados Unidos,Alice
+2023-05-15,90,HD SSD,Armazenamento,3,648.0,1944.0,Barcelona,Espanha,María
+2023-12-25,96,Placa de Vídeo,Periféricos,6,2684.0,16104.0,Madrid,Espanha,María
+2023-02-16,10,Mouse,Periféricos,6,102.0,612.0,Los Angeles,Estados Unidos,John
+2023-09-28,30,Notebook,Computadores,9,4060.0,36540.0,Valencia,Espanha,Carlos
+2023-10-14,60,Cadeira,Móveis,9,354.0,3186.0,Madrid,Espanha,María
+2023-12-08,11,Teclado,Periféricos,10,183.0,1830.0,Porto,Portugal,Sofia
+2024-01-19,10,Mouse,Periféricos,7,100.0,700.0,Barcelona,Espanha,María
+2023-04-15,30,Notebook,Computadores,4,3710.0,14840.0,São Paulo,Brasil,Ana
+2023-04-13,60,Cadeira,Móveis,10,318.0,3180.0,Chicago,Estados Unidos,John
+2023-03-31,95,Memória,Armazenamento,2,332.8,665.6,Belo Horizonte,Brasil,Carlos
+2023-08-03,10,Mouse,Periféricos,10,114.0,1140.0,Chicago,Estados Unidos,Alice
+2023-07-16,70,Licença Windows,Software,2,1008.0,2016.0,New York,Estados Unidos,Alice
+2023-09-27,80,Licença Office 365,Software,4,406.0,1624.0,São Paulo,Brasil,João
+2023-08-07,60,Cadeira,Móveis,3,342.0,1026.0,New York,Estados Unidos,Alice
+2023-11-03,20,Monitor,Monitores,10,960.0,9600.0,Los Angeles,Estados Unidos,John
+2023-07-18,22,Cabo Energia,Periféricos,10,33.6,336.0,Coimbra,Portugal,Miguel
+2023-06-20,50,Mesa,Móveis,9,495.0,4455.0,Chicago,Estados Unidos,John
+2023-10-04,50,Mesa,Móveis,4,531.0,2124.0,Barcelona,Espanha,David
+2024-01-25,96,Placa de Vídeo,Periféricos,9,2200.0,19800.0,Madrid,Espanha,David
+2023-12-09,70,Licença Windows,Software,1,1098.0,1098.0,New York,Estados Unidos,Alice
+2023-08-14,96,Placa de Vídeo,Periféricos,3,2508.0,7524.0,Madrid,Espanha,Carlos
+2023-08-13,22,Cabo Energia,Periféricos,6,34.2,205.2,Chicago,Estados Unidos,Alice
+2023-06-03,60,Cadeira,Móveis,4,330.0,1320.0,Barcelona,Espanha,Carlos
+2023-04-23,40,Nobreak,Periféricos,10,530.0,5300.0,Rio de Janeiro,Brasil,Ana
+2023-05-22,23,Cabo HDMI,Periféricos,5,43.2,216.0,Lisboa,Portugal,André
+2023-12-07,70,Licença Windows,Software,1,1098.0,1098.0,Valencia,Espanha,Carlos
+2023-02-17,50,Mesa,Móveis,4,459.0,1836.0,Rio de Janeiro,Brasil,Ana
+2023-04-17,35,Computador,Computadores,5,2438.0,12190.0,Coimbra,Portugal,André
+2023-03-26,96,Placa de Vídeo,Periféricos,9,2288.0,20592.0,Porto,Portugal,Sofia
+2024-02-02,70,Licença Windows,Software,2,918.0,1836.0,Los Angeles,Estados Unidos,John
+2024-01-04,11,Teclado,Periféricos,10,150.0,1500.0,Madrid,Espanha,Carlos
+2023-08-08,23,Cabo HDMI,Periféricos,9,45.6,410.4,Porto,Portugal,André
+2023-07-31,60,Cadeira,Móveis,7,336.0,2352.0,Valencia,Espanha,Carlos
+2024-01-07,92,HD Sata,Armazenamento,4,450.0,1800.0,Lisboa,Portugal,Sofia
+2023-04-06,24,Cabo Rede,Periféricos,1,26.5,26.5,Belo Horizonte,Brasil,Carlos
+2023-11-04,24,Cabo Rede,Periféricos,3,30.0,90.0,Barcelona,Espanha,María
+2023-09-30,30,Notebook,Computadores,7,4060.0,28420.0,Chicago,Estados Unidos,John
+2023-11-02,90,HD SSD,Armazenamento,5,720.0,3600.0,Barcelona,Espanha,David
+2024-01-22,60,Cadeira,Móveis,3,300.0,900.0,Porto,Portugal,André
+2023-12-07,96,Placa de Vídeo,Periféricos,9,2684.0,24156.0,Madrid,Espanha,Carlos
+2024-01-17,30,Notebook,Computadores,6,3500.0,21000.0,Coimbra,Portugal,André
+2023-06-29,50,Mesa,Móveis,1,495.0,495.0,Madrid,Espanha,David
+2023-11-19,11,Teclado,Periféricos,4,180.0,720.0,Valencia,Espanha,María
+2023-07-08,50,Mesa,Móveis,10,504.0,5040.0,Chicago,Estados Unidos,Bob
+2023-03-01,96,Placa de Vídeo,Periféricos,1,2288.0,2288.0,New York,Estados Unidos,Bob
+2023-07-21,11,Teclado,Periféricos,1,168.0,168.0,Valencia,Espanha,David
+2023-12-19,20,Monitor,Monitores,1,976.0,976.0,Barcelona,Espanha,María
+2023-11-11,23,Cabo HDMI,Periféricos,9,48.0,432.0,Rio de Janeiro,Brasil,Ana
+2024-01-22,90,HD SSD,Armazenamento,5,600.0,3000.0,Madrid,Espanha,Carlos
+2023-10-17,22,Cabo Energia,Periféricos,5,35.4,177.0,Madrid,Espanha,David
+2023-08-09,11,Teclado,Periféricos,7,171.0,1197.0,Chicago,Estados Unidos,Bob
+2023-05-02,30,Notebook,Computadores,1,3780.0,3780.0,Barcelona,Espanha,David
+2023-09-12,30,Notebook,Computadores,7,4060.0,28420.0,Valencia,Espanha,Carlos
+2023-05-25,95,Memória,Armazenamento,10,345.6,3456.0,Lisboa,Portugal,Sofia
+2023-11-25,60,Cadeira,Móveis,10,360.0,3600.0,Belo Horizonte,Brasil,João
+2023-02-16,50,Mesa,Móveis,6,459.0,2754.0,Rio de Janeiro,Brasil,João
+2023-10-16,90,HD SSD,Armazenamento,10,708.0,7080.0,Los Angeles,Estados Unidos,Bob
+2023-10-17,80,Licença Office 365,Software,2,413.0,826.0,New York,Estados Unidos,John
+2024-01-09,96,Placa de Vídeo,Periféricos,10,2200.0,22000.0,Chicago,Estados Unidos,Alice
+2023-08-15,70,Licença Windows,Software,4,1026.0,4104.0,Chicago,Estados Unidos,Alice
+2023-07-28,24,Cabo Rede,Periféricos,9,28.0,252.0,New York,Estados Unidos,John
+2023-09-05,30,Notebook,Computadores,5,4060.0,20300.0,Chicago,Estados Unidos,Bob
+2023-06-14,22,Cabo Energia,Periféricos,6,33.0,198.0,New York,Estados Unidos,John
+2023-10-24,40,Nobreak,Periféricos,5,590.0,2950.0,Lisboa,Portugal,Sofia
+2023-08-05,95,Memória,Armazenamento,4,364.8,1459.2,New York,Estados Unidos,Alice
+2023-05-21,95,Memória,Armazenamento,10,345.6,3456.0,Porto,Portugal,Miguel
+2023-04-08,24,Cabo Rede,Periféricos,6,26.5,159.0,Porto,Portugal,Sofia
+2023-05-29,95,Memória,Armazenamento,9,345.6,3110.4,Rio de Janeiro,Brasil,Carlos
+2023-03-25,96,Placa de Vídeo,Periféricos,3,2288.0,6864.0,Chicago,Estados Unidos,John
+2023-09-11,35,Computador,Computadores,4,2668.0,10672.0,Barcelona,Espanha,María
+2024-02-10,60,Cadeira,Móveis,8,306.0,2448.0,New York,Estados Unidos,John
+2023-07-24,80,Licença Office 365,Software,6,392.0,2352.0,Chicago,Estados Unidos,Bob
+2023-07-06,22,Cabo Energia,Periféricos,7,33.6,235.2,New York,Estados Unidos,John
+2023-05-21,23,Cabo HDMI,Periféricos,8,43.2,345.6,Porto,Portugal,Sofia
+2023-07-23,90,HD SSD,Armazenamento,9,672.0,6048.0,São Paulo,Brasil,Carlos
+2023-07-03,60,Cadeira,Móveis,4,336.0,1344.0,Madrid,Espanha,María
+2023-12-31,70,Licença Windows,Software,8,1098.0,8784.0,Chicago,Estados Unidos,John
+2023-10-12,70,Licença Windows,Software,9,1062.0,9558.0,Barcelona,Espanha,María
+2023-02-23,50,Mesa,Móveis,9,459.0,4131.0,Madrid,Espanha,Carlos
+2024-02-14,11,Teclado,Periféricos,2,153.0,306.0,Madrid,Espanha,María
+2023-03-16,90,HD SSD,Armazenamento,10,624.0,6240.0,Valencia,Espanha,David
+2023-12-15,11,Teclado,Periféricos,2,183.0,366.0,Porto,Portugal,André
+2023-09-17,70,Licença Windows,Software,4,1044.0,4176.0,Chicago,Estados Unidos,John
+2023-12-01,20,Monitor,Monitores,1,976.0,976.0,Chicago,Estados Unidos,Alice
+2024-01-21,11,Teclado,Periféricos,6,150.0,900.0,Porto,Portugal,Miguel
+2024-01-03,40,Nobreak,Periféricos,4,500.0,2000.0,Rio de Janeiro,Brasil,Ana
+2023-07-22,70,Licença Windows,Software,10,1008.0,10080.0,Barcelona,Espanha,Carlos
+2023-12-28,30,Notebook,Computadores,9,4270.0,38430.0,São Paulo,Brasil,Ana
+2023-12-25,22,Cabo Energia,Periféricos,3,36.6,109.8,Belo Horizonte,Brasil,Carlos
+2023-05-22,92,HD Sata,Armazenamento,1,486.0,486.0,Chicago,Estados Unidos,Alice
+2023-05-24,96,Placa de Vídeo,Periféricos,1,2376.0,2376.0,São Paulo,Brasil,João
+2023-05-18,95,Memória,Armazenamento,2,345.6,691.2,Lisboa,Portugal,Miguel
+2023-08-29,30,Notebook,Computadores,9,3990.0,35910.0,Rio de Janeiro,Brasil,Ana
+2023-08-05,24,Cabo Rede,Periféricos,9,28.5,256.5,Lisboa,Portugal,André
+2023-04-20,20,Monitor,Monitores,8,848.0,6784.0,Chicago,Estados Unidos,John
+2023-07-09,23,Cabo HDMI,Periféricos,4,44.8,179.2,Lisboa,Portugal,André
+2023-12-21,90,HD SSD,Armazenamento,4,732.0,2928.0,Los Angeles,Estados Unidos,Bob
+2024-02-05,22,Cabo Energia,Periféricos,10,30.6,306.0,Los Angeles,Estados Unidos,Alice
+2023-10-27,80,Licença Office 365,Software,2,413.0,826.0,Coimbra,Portugal,André
+2023-04-17,92,HD Sata,Armazenamento,5,477.0,2385.0,Coimbra,Portugal,Sofia
+2023-04-15,96,Placa de Vídeo,Periféricos,5,2332.0,11660.0,Lisboa,Portugal,Sofia
+2023-12-01,70,Licença Windows,Software,3,1098.0,3294.0,Barcelona,Espanha,Carlos
+2023-11-20,10,Mouse,Periféricos,2,120.0,240.0,Chicago,Estados Unidos,John
+2024-01-28,24,Cabo Rede,Periféricos,1,25.0,25.0,Lisboa,Portugal,Miguel
+2023-07-20,23,Cabo HDMI,Periféricos,1,44.8,44.8,São Paulo,Brasil,Ana
+2023-08-05,70,Licença Windows,Software,5,1026.0,5130.0,Belo Horizonte,Brasil,Carlos
+2024-02-13,30,Notebook,Computadores,8,3570.0,28560.0,Los Angeles,Estados Unidos,Bob
+2023-12-25,60,Cadeira,Móveis,10,366.0,3660.0,Madrid,Espanha,David
+2024-01-07,96,Placa de Vídeo,Periféricos,4,2200.0,8800.0,New York,Estados Unidos,Alice
+2023-10-06,24,Cabo Rede,Periféricos,1,29.5,29.5,Barcelona,Espanha,David
+2023-06-25,40,Nobreak,Periféricos,2,550.0,1100.0,Porto,Portugal,Sofia
+2023-02-28,92,HD Sata,Armazenamento,9,459.0,4131.0,Lisboa,Portugal,Miguel
+2023-12-25,23,Cabo HDMI,Periféricos,10,48.8,488.0,Madrid,Espanha,David
+2023-05-11,35,Computador,Computadores,3,2484.0,7452.0,Madrid,Espanha,David
+2023-08-08,50,Mesa,Móveis,10,513.0,5130.0,Belo Horizonte,Brasil,João
+2023-05-17,20,Monitor,Monitores,8,864.0,6912.0,Valencia,Espanha,David
+2023-07-02,40,Nobreak,Periféricos,3,560.0,1680.0,Porto,Portugal,Miguel
+2024-02-07,95,Memória,Armazenamento,5,326.4,1632.0,Barcelona,Espanha,María
+2023-04-14,90,HD SSD,Armazenamento,6,636.0,3816.0,Madrid,Espanha,David
+2023-05-23,22,Cabo Energia,Periféricos,5,32.4,162.0,Madrid,Espanha,Carlos
+2023-10-25,35,Computador,Computadores,7,2714.0,18998.0,Porto,Portugal,André
+2023-07-01,80,Licença Office 365,Software,4,392.0,1568.0,Coimbra,Portugal,André
+2023-04-19,24,Cabo Rede,Periféricos,5,26.5,132.5,Madrid,Espanha,Carlos
+2023-10-22,95,Memória,Armazenamento,7,377.6,2643.2,New York,Estados Unidos,Alice
+2024-01-02,30,Notebook,Computadores,10,3500.0,35000.0,Chicago,Estados Unidos,Alice
+2023-05-16,50,Mesa,Móveis,2,486.0,972.0,Chicago,Estados Unidos,Bob
+2023-10-22,60,Cadeira,Móveis,1,354.0,354.0,São Paulo,Brasil,Carlos
+2023-09-07,30,Notebook,Computadores,7,4060.0,28420.0,Belo Horizonte,Brasil,Ana
+2024-02-04,11,Teclado,Periféricos,9,153.0,1377.0,Coimbra,Portugal,Sofia
+2023-09-30,24,Cabo Rede,Periféricos,10,29.0,290.0,New York,Estados Unidos,John
+2023-09-20,40,Nobreak,Periféricos,7,580.0,4060.0,Porto,Portugal,André
+2023-06-19,92,HD Sata,Armazenamento,3,495.0,1485.0,Coimbra,Portugal,Miguel
+2023-12-08,11,Teclado,Periféricos,4,183.0,732.0,Barcelona,Espanha,David
+2024-01-09,20,Monitor,Monitores,3,800.0,2400.0,New York,Estados Unidos,Alice
+2023-09-22,96,Placa de Vídeo,Periféricos,6,2552.0,15312.0,Chicago,Estados Unidos,John
+2023-05-08,24,Cabo Rede,Periféricos,8,27.0,216.0,Rio de Janeiro,Brasil,Ana
+2023-11-12,24,Cabo Rede,Periféricos,1,30.0,30.0,Rio de Janeiro,Brasil,João
+2023-07-22,92,HD Sata,Armazenamento,5,504.0,2520.0,Los Angeles,Estados Unidos,Alice
+2023-06-03,92,HD Sata,Armazenamento,3,495.0,1485.0,New York,Estados Unidos,Alice
+2023-07-07,10,Mouse,Periféricos,2,112.0,224.0,Porto,Portugal,Miguel
+2023-05-11,40,Nobreak,Periféricos,8,540.0,4320.0,Belo Horizonte,Brasil,João
+2023-12-15,10,Mouse,Periféricos,6,122.0,732.0,Belo Horizonte,Brasil,Carlos
+2023-08-23,50,Mesa,Móveis,7,513.0,3591.0,New York,Estados Unidos,Alice
+2023-03-16,20,Monitor,Monitores,2,832.0,1664.0,Los Angeles,Estados Unidos,Alice
+2023-09-24,11,Teclado,Periféricos,7,174.0,1218.0,Rio de Janeiro,Brasil,Carlos
+2023-11-14,95,Memória,Armazenamento,1,384.0,384.0,Barcelona,Espanha,David
+2024-01-20,70,Licença Windows,Software,4,900.0,3600.0,Barcelona,Espanha,María
+2023-06-19,40,Nobreak,Periféricos,2,550.0,1100.0,New York,Estados Unidos,Bob
+2023-11-18,92,HD Sata,Armazenamento,2,540.0,1080.0,Coimbra,Portugal,André
+2024-01-08,95,Memória,Armazenamento,4,320.0,1280.0,Coimbra,Portugal,Miguel
+2023-11-23,22,Cabo Energia,Periféricos,9,36.0,324.0,Belo Horizonte,Brasil,Ana
+2024-01-23,50,Mesa,Móveis,8,450.0,3600.0,Coimbra,Portugal,André
+2024-01-06,90,HD SSD,Armazenamento,4,600.0,2400.0,São Paulo,Brasil,João
+2023-10-16,20,Monitor,Monitores,6,944.0,5664.0,Barcelona,Espanha,David
+2023-02-19,95,Memória,Armazenamento,7,326.4,2284.8,Barcelona,Espanha,David
+2024-02-15,60,Cadeira,Móveis,9,306.0,2754.0,New York,Estados Unidos,Bob
+2023-12-26,23,Cabo HDMI,Periféricos,9,48.8,439.2,São Paulo,Brasil,Carlos
+2023-03-23,11,Teclado,Periféricos,9,156.0,1404.0,Lisboa,Portugal,Sofia
+2023-10-22,22,Cabo Energia,Periféricos,10,35.4,354.0,Belo Horizonte,Brasil,João
+2023-05-03,30,Notebook,Computadores,10,3780.0,37800.0,Rio de Janeiro,Brasil,Ana
+2023-11-04,35,Computador,Computadores,4,2760.0,11040.0,Rio de Janeiro,Brasil,Ana
+2023-11-22,70,Licença Windows,Software,8,1080.0,8640.0,Valencia,Espanha,María
+2023-10-02,80,Licença Office 365,Software,5,413.0,2065.0,Coimbra,Portugal,André
+2023-04-26,80,Licença Office 365,Software,6,371.0,2226.0,Madrid,Espanha,María
+2023-12-05,90,HD SSD,Armazenamento,7,732.0,5124.0,Madrid,Espanha,Carlos
+2023-02-19,35,Computador,Computadores,2,2346.0,4692.0,Chicago,Estados Unidos,Alice
+2023-05-03,30,Notebook,Computadores,1,3780.0,3780.0,Valencia,Espanha,María
+2023-09-04,20,Monitor,Monitores,7,928.0,6496.0,Porto,Portugal,André
+2024-01-10,90,HD SSD,Armazenamento,2,600.0,1200.0,Los Angeles,Estados Unidos,Alice
+2023-09-15,20,Monitor,Monitores,7,928.0,6496.0,Chicago,Estados Unidos,Alice
+2023-05-24,40,Nobreak,Periféricos,3,540.0,1620.0,Barcelona,Espanha,Carlos
+2023-08-17,50,Mesa,Móveis,5,513.0,2565.0,New York,Estados Unidos,Bob
+2023-03-17,24,Cabo Rede,Periféricos,6,26.0,156.0,New York,Estados Unidos,Bob
+2023-03-26,11,Teclado,Periféricos,5,156.0,780.0,São Paulo,Brasil,João
+2023-06-04,50,Mesa,Móveis,7,495.0,3465.0,Madrid,Espanha,Carlos
+2023-05-27,70,Licença Windows,Software,4,972.0,3888.0,Coimbra,Portugal,Sofia
+2023-11-07,50,Mesa,Móveis,2,540.0,1080.0,New York,Estados Unidos,Bob
+2023-09-16,23,Cabo HDMI,Periféricos,10,46.4,464.0,Chicago,Estados Unidos,John
+2023-12-09,90,HD SSD,Armazenamento,3,732.0,2196.0,Rio de Janeiro,Brasil,João
+2023-07-27,96,Placa de Vídeo,Periféricos,9,2464.0,22176.0,Chicago,Estados Unidos,Bob
+2023-03-29,22,Cabo Energia,Periféricos,1,31.2,31.2,Coimbra,Portugal,Sofia
+2023-03-15,70,Licença Windows,Software,3,936.0,2808.0,Lisboa,Portugal,André
+2023-10-01,90,HD SSD,Armazenamento,1,708.0,708.0,New York,Estados Unidos,Alice
+2023-11-23,92,HD Sata,Armazenamento,4,540.0,2160.0,Coimbra,Portugal,André
+2024-02-15,10,Mouse,Periféricos,7,102.0,714.0,Chicago,Estados Unidos,Bob
+2023-06-17,60,Cadeira,Móveis,6,330.0,1980.0,Lisboa,Portugal,Miguel
+2023-05-07,95,Memória,Armazenamento,3,345.6,1036.8,Belo Horizonte,Brasil,João
+2024-01-09,50,Mesa,Móveis,5,450.0,2250.0,Porto,Portugal,Sofia
+2023-02-16,30,Notebook,Computadores,6,3570.0,21420.0,Porto,Portugal,Miguel
+2023-05-03,24,Cabo Rede,Periféricos,8,27.0,216.0,Valencia,Espanha,Carlos
+2023-09-03,92,HD Sata,Armazenamento,9,522.0,4698.0,São Paulo,Brasil,João
+2024-01-26,30,Notebook,Computadores,7,3500.0,24500.0,Lisboa,Portugal,Miguel
+2023-09-13,35,Computador,Computadores,2,2668.0,5336.0,Lisboa,Portugal,André
+2024-02-06,92,HD Sata,Armazenamento,3,459.0,1377.0,Porto,Portugal,Miguel
+2024-02-15,80,Licença Office 365,Software,4,357.0,1428.0,Rio de Janeiro,Brasil,João
+2023-09-26,11,Teclado,Periféricos,8,174.0,1392.0,Madrid,Espanha,David
+2023-10-06,40,Nobreak,Periféricos,9,590.0,5310.0,Belo Horizonte,Brasil,Carlos
+2023-12-28,20,Monitor,Monitores,3,976.0,2928.0,Los Angeles,Estados Unidos,John
+2023-11-13,10,Mouse,Periféricos,7,120.0,840.0,Valencia,Espanha,David
+2023-03-09,70,Licença Windows,Software,5,936.0,4680.0,São Paulo,Brasil,Carlos
+2024-01-02,20,Monitor,Monitores,6,800.0,4800.0,Barcelona,Espanha,María
+2023-04-29,22,Cabo Energia,Periféricos,6,31.8,190.8,Coimbra,Portugal,Miguel
+2023-09-15,20,Monitor,Monitores,5,928.0,4640.0,Porto,Portugal,Sofia
+2023-09-26,30,Notebook,Computadores,4,4060.0,16240.0,São Paulo,Brasil,João
+2023-05-02,90,HD SSD,Armazenamento,9,648.0,5832.0,Valencia,Espanha,David
+2023-08-27,50,Mesa,Móveis,1,513.0,513.0,Madrid,Espanha,David
+2023-02-28,95,Memória,Armazenamento,8,326.4,2611.2,São Paulo,Brasil,João
+2023-12-26,70,Licença Windows,Software,9,1098.0,9882.0,São Paulo,Brasil,Carlos
+2024-01-30,90,HD SSD,Armazenamento,3,600.0,1800.0,Lisboa,Portugal,Miguel
+2023-03-11,20,Monitor,Monitores,8,832.0,6656.0,Lisboa,Portugal,Sofia
+2023-03-17,10,Mouse,Periféricos,10,104.0,1040.0,Madrid,Espanha,María
+2023-04-20,20,Monitor,Monitores,10,848.0,8480.0,São Paulo,Brasil,Ana
+2023-12-09,35,Computador,Computadores,9,2806.0,25254.0,Los Angeles,Estados Unidos,Bob
+2023-07-03,60,Cadeira,Móveis,3,336.0,1008.0,Porto,Portugal,Miguel
+2023-03-02,30,Notebook,Computadores,2,3640.0,7280.0,Porto,Portugal,Sofia
+2023-11-19,90,HD SSD,Armazenamento,3,720.0,2160.0,Belo Horizonte,Brasil,João
+2023-09-30,50,Mesa,Móveis,7,522.0,3654.0,Barcelona,Espanha,Carlos
+2023-06-18,96,Placa de Vídeo,Periféricos,2,2420.0,4840.0,Belo Horizonte,Brasil,Ana
+2024-01-28,92,HD Sata,Armazenamento,2,450.0,900.0,Madrid,Espanha,David
+2023-05-04,30,Notebook,Computadores,3,3780.0,11340.0,Rio de Janeiro,Brasil,João
+2023-04-07,30,Notebook,Computadores,4,3710.0,14840.0,Los Angeles,Estados Unidos,Alice
+2023-03-29,11,Teclado,Periféricos,7,156.0,1092.0,Los Angeles,Estados Unidos,Bob
+2023-02-23,80,Licença Office 365,Software,1,357.0,357.0,Lisboa,Portugal,André
+2023-10-14,70,Licença Windows,Software,6,1062.0,6372.0,Porto,Portugal,André
+2023-10-22,22,Cabo Energia,Periféricos,1,35.4,35.4,São Paulo,Brasil,João
+2023-10-24,24,Cabo Rede,Periféricos,9,29.5,265.5,Belo Horizonte,Brasil,João
+2023-08-13,40,Nobreak,Periféricos,7,570.0,3990.0,Chicago,Estados Unidos,John
+2023-08-26,92,HD Sata,Armazenamento,5,513.0,2565.0,Coimbra,Portugal,André
+2023-11-14,23,Cabo HDMI,Periféricos,2,48.0,96.0,Rio de Janeiro,Brasil,Ana
+2023-12-17,24,Cabo Rede,Periféricos,9,30.5,274.5,Los Angeles,Estados Unidos,Bob
+2023-08-31,70,Licença Windows,Software,10,1026.0,10260.0,Porto,Portugal,Sofia
+2023-04-08,70,Licença Windows,Software,1,954.0,954.0,Valencia,Espanha,David
+2023-08-21,24,Cabo Rede,Periféricos,8,28.5,228.0,Lisboa,Portugal,Miguel
+2023-04-04,35,Computador,Computadores,5,2438.0,12190.0,Lisboa,Portugal,André
+2023-06-14,60,Cadeira,Móveis,2,330.0,660.0,Los Angeles,Estados Unidos,Bob
+2023-10-24,80,Licença Office 365,Software,9,413.0,3717.0,New York,Estados Unidos,Alice
+2023-02-19,22,Cabo Energia,Periféricos,7,30.6,214.2,Belo Horizonte,Brasil,Carlos
+2023-02-27,23,Cabo HDMI,Periféricos,9,40.8,367.2,Rio de Janeiro,Brasil,João
+2024-01-01,70,Licença Windows,Software,5,900.0,4500.0,Rio de Janeiro,Brasil,João
+2023-11-29,92,HD Sata,Armazenamento,6,540.0,3240.0,São Paulo,Brasil,Carlos
+2023-12-22,60,Cadeira,Móveis,3,366.0,1098.0,Chicago,Estados Unidos,Bob
+2023-09-23,60,Cadeira,Móveis,5,348.0,1740.0,São Paulo,Brasil,João
+2024-02-04,11,Teclado,Periféricos,10,153.0,1530.0,Lisboa,Portugal,Sofia
+2023-02-16,35,Computador,Computadores,9,2346.0,21114.0,Rio de Janeiro,Brasil,João
+2023-08-16,35,Computador,Computadores,9,2622.0,23598.0,Rio de Janeiro,Brasil,Ana
+2023-12-13,35,Computador,Computadores,3,2806.0,8418.0,New York,Estados Unidos,Alice
+2024-02-05,30,Notebook,Computadores,7,3570.0,24990.0,Valencia,Espanha,Carlos
+2023-07-18,50,Mesa,Móveis,3,504.0,1512.0,Porto,Portugal,Sofia
+2023-05-11,92,HD Sata,Armazenamento,7,486.0,3402.0,São Paulo,Brasil,Carlos
+2023-03-05,96,Placa de Vídeo,Periféricos,8,2288.0,18304.0,Valencia,Espanha,María
+2023-08-18,96,Placa de Vídeo,Periféricos,7,2508.0,17556.0,São Paulo,Brasil,João
+2023-09-15,60,Cadeira,Móveis,10,348.0,3480.0,Valencia,Espanha,Carlos
+2023-11-30,96,Placa de Vídeo,Periféricos,7,2640.0,18480.0,São Paulo,Brasil,João
+2023-12-26,20,Monitor,Monitores,4,976.0,3904.0,Chicago,Estados Unidos,John
+2023-07-26,11,Teclado,Periféricos,9,168.0,1512.0,Rio de Janeiro,Brasil,João
+2023-06-17,22,Cabo Energia,Periféricos,6,33.0,198.0,São Paulo,Brasil,João
+2023-07-14,35,Computador,Computadores,3,2576.0,7728.0,Rio de Janeiro,Brasil,Ana
+2023-09-23,22,Cabo Energia,Periféricos,10,34.8,348.0,Porto,Portugal,Sofia
+2023-02-19,92,HD Sata,Armazenamento,1,459.0,459.0,Madrid,Espanha,Carlos
+2023-08-30,95,Memória,Armazenamento,10,364.8,3648.0,Los Angeles,Estados Unidos,John
+2023-12-22,95,Memória,Armazenamento,8,390.4,3123.2,Chicago,Estados Unidos,John
+2023-11-15,10,Mouse,Periféricos,1,120.0,120.0,Belo Horizonte,Brasil,Carlos
+2023-09-13,95,Memória,Armazenamento,2,371.2,742.4,Los Angeles,Estados Unidos,John
+2023-06-07,70,Licença Windows,Software,8,990.0,7920.0,Rio de Janeiro,Brasil,João
+2023-05-06,23,Cabo HDMI,Periféricos,8,43.2,345.6,Madrid,Espanha,María
+2023-03-31,20,Monitor,Monitores,3,832.0,2496.0,Barcelona,Espanha,David
+2023-09-17,80,Licença Office 365,Software,8,406.0,3248.0,Rio de Janeiro,Brasil,João
+2023-11-11,90,HD SSD,Armazenamento,2,720.0,1440.0,New York,Estados Unidos,John
+2023-10-10,50,Mesa,Móveis,10,531.0,5310.0,Barcelona,Espanha,David
+2023-02-26,95,Memória,Armazenamento,10,326.4,3264.0,Barcelona,Espanha,David
+2023-11-03,35,Computador,Computadores,1,2760.0,2760.0,Valencia,Espanha,David
+2023-09-02,92,HD Sata,Armazenamento,2,522.0,1044.0,Valencia,Espanha,María
+2023-10-15,92,HD Sata,Armazenamento,3,531.0,1593.0,New York,Estados Unidos,Alice
+2023-02-26,35,Computador,Computadores,5,2346.0,11730.0,Madrid,Espanha,María
+2023-05-28,10,Mouse,Periféricos,9,108.0,972.0,New York,Estados Unidos,John
+2023-02-19,24,Cabo Rede,Periféricos,3,25.5,76.5,Coimbra,Portugal,André
+2023-05-13,92,HD Sata,Armazenamento,3,486.0,1458.0,Belo Horizonte,Brasil,Ana
+2023-11-07,60,Cadeira,Móveis,6,360.0,2160.0,Porto,Portugal,André
+2023-02-19,11,Teclado,Periféricos,6,153.0,918.0,New York,Estados Unidos,Bob
+2024-01-26,95,Memória,Armazenamento,2,320.0,640.0,São Paulo,Brasil,Ana
+2023-07-26,20,Monitor,Monitores,1,896.0,896.0,Madrid,Espanha,María
+2023-05-13,30,Notebook,Computadores,1,3780.0,3780.0,Porto,Portugal,Miguel
+2023-06-14,95,Memória,Armazenamento,5,352.0,1760.0,Rio de Janeiro,Brasil,Carlos
+2023-12-24,20,Monitor,Monitores,5,976.0,4880.0,Porto,Portugal,Miguel
+2024-01-14,11,Teclado,Periféricos,4,150.0,600.0,Barcelona,Espanha,David
+2023-08-18,70,Licença Windows,Software,2,1026.0,2052.0,New York,Estados Unidos,Bob
+2023-09-24,24,Cabo Rede,Periféricos,9,29.0,261.0,Los Angeles,Estados Unidos,Bob
+2023-11-15,11,Teclado,Periféricos,10,180.0,1800.0,Lisboa,Portugal,Miguel
+2023-11-11,95,Memória,Armazenamento,10,384.0,3840.0,New York,Estados Unidos,Alice
+2023-03-15,30,Notebook,Computadores,2,3640.0,7280.0,Lisboa,Portugal,Sofia
+2023-03-14,80,Licença Office 365,Software,5,364.0,1820.0,Porto,Portugal,Sofia
+2023-11-13,40,Nobreak,Periféricos,3,600.0,1800.0,Porto,Portugal,Sofia
+2023-11-02,11,Teclado,Periféricos,3,180.0,540.0,Porto,Portugal,Sofia
+2023-03-28,90,HD SSD,Armazenamento,9,624.0,5616.0,Los Angeles,Estados Unidos,John
+2023-12-08,60,Cadeira,Móveis,6,366.0,2196.0,New York,Estados Unidos,John
+2023-04-04,23,Cabo HDMI,Periféricos,10,42.4,424.0,Coimbra,Portugal,Sofia
+2023-05-11,90,HD SSD,Armazenamento,10,648.0,6480.0,Los Angeles,Estados Unidos,Alice
+2023-11-18,60,Cadeira,Móveis,9,360.0,3240.0,São Paulo,Brasil,Ana
+2023-07-19,70,Licença Windows,Software,5,1008.0,5040.0,Porto,Portugal,Sofia
+2023-09-15,80,Licença Office 365,Software,4,406.0,1624.0,Porto,Portugal,André
+2023-07-17,20,Monitor,Monitores,4,896.0,3584.0,Rio de Janeiro,Brasil,Carlos
+2023-06-26,30,Notebook,Computadores,9,3850.0,34650.0,New York,Estados Unidos,John
+2023-07-19,10,Mouse,Periféricos,1,112.0,112.0,Chicago,Estados Unidos,Alice
+2023-10-07,80,Licença Office 365,Software,5,413.0,2065.0,Belo Horizonte,Brasil,João
+2023-06-18,23,Cabo HDMI,Periféricos,1,44.0,44.0,Los Angeles,Estados Unidos,Alice
+2023-08-15,22,Cabo Energia,Periféricos,4,34.2,136.8,Los Angeles,Estados Unidos,Bob
+2023-08-22,22,Cabo Energia,Periféricos,7,34.2,239.4,São Paulo,Brasil,João
+2024-01-12,40,Nobreak,Periféricos,6,500.0,3000.0,Rio de Janeiro,Brasil,João
+2024-02-08,24,Cabo Rede,Periféricos,8,25.5,204.0,Porto,Portugal,André
+2023-11-03,30,Notebook,Computadores,1,4200.0,4200.0,Barcelona,Espanha,David
+2023-11-11,20,Monitor,Monitores,5,960.0,4800.0,Rio de Janeiro,Brasil,Ana
+2024-02-05,23,Cabo HDMI,Periféricos,8,40.8,326.4,Lisboa,Portugal,André
+2024-01-28,23,Cabo HDMI,Periféricos,9,40.0,360.0,Madrid,Espanha,María
+2023-09-29,90,HD SSD,Armazenamento,3,696.0,2088.0,Valencia,Espanha,María
+2023-07-10,10,Mouse,Periféricos,8,112.0,896.0,São Paulo,Brasil,Carlos
+2023-12-26,40,Nobreak,Periféricos,9,610.0,5490.0,New York,Estados Unidos,John
+2023-03-01,40,Nobreak,Periféricos,4,520.0,2080.0,Porto,Portugal,Sofia
+2024-02-15,23,Cabo HDMI,Periféricos,7,40.8,285.6,Los Angeles,Estados Unidos,Bob
+2023-11-16,20,Monitor,Monitores,6,960.0,5760.0,Lisboa,Portugal,Miguel
+2023-11-26,70,Licença Windows,Software,3,1080.0,3240.0,Belo Horizonte,Brasil,João
+2024-02-09,80,Licença Office 365,Software,4,357.0,1428.0,Los Angeles,Estados Unidos,Alice
+2024-02-09,24,Cabo Rede,Periféricos,8,25.5,204.0,Belo Horizonte,Brasil,João
+2024-01-05,90,HD SSD,Armazenamento,3,600.0,1800.0,Madrid,Espanha,Carlos
+2023-02-24,92,HD Sata,Armazenamento,9,459.0,4131.0,Belo Horizonte,Brasil,Ana
+2023-05-03,10,Mouse,Periféricos,5,108.0,540.0,Los Angeles,Estados Unidos,John
+2023-03-21,11,Teclado,Periféricos,8,156.0,1248.0,Coimbra,Portugal,André
+2024-01-17,23,Cabo HDMI,Periféricos,8,40.0,320.0,Rio de Janeiro,Brasil,João
+2023-04-21,60,Cadeira,Móveis,4,318.0,1272.0,Madrid,Espanha,Carlos
+2023-08-12,70,Licença Windows,Software,8,1026.0,8208.0,Rio de Janeiro,Brasil,Carlos
+2023-09-25,24,Cabo Rede,Periféricos,8,29.0,232.0,Chicago,Estados Unidos,John
+2023-07-04,95,Memória,Armazenamento,8,358.4,2867.2,São Paulo,Brasil,João
+2023-12-16,35,Computador,Computadores,5,2806.0,14030.0,Coimbra,Portugal,Miguel
+2024-02-09,50,Mesa,Móveis,3,459.0,1377.0,São Paulo,Brasil,Carlos
+2023-05-05,23,Cabo HDMI,Periféricos,10,43.2,432.0,Belo Horizonte,Brasil,Carlos
+2023-05-06,80,Licença Office 365,Software,9,378.0,3402.0,Barcelona,Espanha,David
+2023-04-13,23,Cabo HDMI,Periféricos,6,42.4,254.4,Madrid,Espanha,María
+2024-02-06,22,Cabo Energia,Periféricos,8,30.6,244.8,Rio de Janeiro,Brasil,Carlos
+2024-01-05,70,Licença Windows,Software,10,900.0,9000.0,Lisboa,Portugal,André
+2023-03-20,40,Nobreak,Periféricos,7,520.0,3640.0,São Paulo,Brasil,Carlos
+2023-06-22,90,HD SSD,Armazenamento,3,660.0,1980.0,Lisboa,Portugal,André
+2023-10-15,22,Cabo Energia,Periféricos,10,35.4,354.0,São Paulo,Brasil,Ana
+2023-08-27,23,Cabo HDMI,Periféricos,7,45.6,319.2,Madrid,Espanha,Carlos
+2023-07-12,22,Cabo Energia,Periféricos,5,33.6,168.0,Rio de Janeiro,Brasil,Ana
+2023-11-09,35,Computador,Computadores,4,2760.0,11040.0,New York,Estados Unidos,John
+2024-01-04,10,Mouse,Periféricos,1,100.0,100.0,Lisboa,Portugal,André
+2023-07-06,80,Licença Office 365,Software,7,392.0,2744.0,Coimbra,Portugal,Miguel
+2023-10-19,20,Monitor,Monitores,4,944.0,3776.0,Lisboa,Portugal,Sofia
+2023-03-18,35,Computador,Computadores,6,2392.0,14352.0,Valencia,Espanha,María
+2023-08-29,40,Nobreak,Periféricos,7,570.0,3990.0,Barcelona,Espanha,David
+2023-08-22,23,Cabo HDMI,Periféricos,7,45.6,319.2,Porto,Portugal,Sofia
+2023-04-24,11,Teclado,Periféricos,8,159.0,1272.0,Belo Horizonte,Brasil,Ana
+2023-12-21,95,Memória,Armazenamento,3,390.4,1171.2,Coimbra,Portugal,André
+2023-11-04,50,Mesa,Móveis,6,540.0,3240.0,Lisboa,Portugal,Miguel
+2023-04-05,35,Computador,Computadores,2,2438.0,4876.0,Belo Horizonte,Brasil,João
+2023-08-22,96,Placa de Vídeo,Periféricos,8,2508.0,20064.0,Los Angeles,Estados Unidos,John
+2023-06-28,70,Licença Windows,Software,4,990.0,3960.0,Los Angeles,Estados Unidos,John
+2023-10-25,70,Licença Windows,Software,1,1062.0,1062.0,Chicago,Estados Unidos,Bob
+2023-10-02,10,Mouse,Periféricos,1,118.0,118.0,Valencia,Espanha,Carlos
+2023-07-24,50,Mesa,Móveis,9,504.0,4536.0,Coimbra,Portugal,Sofia
+2024-02-14,95,Memória,Armazenamento,4,326.4,1305.6,New York,Estados Unidos,John
+2023-02-15,95,Memória,Armazenamento,3,326.4,979.2,New York,Estados Unidos,John
+2023-11-09,23,Cabo HDMI,Periféricos,10,48.0,480.0,Rio de Janeiro,Brasil,João
+2024-01-18,90,HD SSD,Armazenamento,3,600.0,1800.0,Barcelona,Espanha,María
+2023-11-28,24,Cabo Rede,Periféricos,8,30.0,240.0,São Paulo,Brasil,Carlos
+2023-04-28,35,Computador,Computadores,9,2438.0,21942.0,New York,Estados Unidos,John
+2023-11-07,90,HD SSD,Armazenamento,9,720.0,6480.0,Belo Horizonte,Brasil,Ana
+2023-02-23,35,Computador,Computadores,9,2346.0,21114.0,Lisboa,Portugal,André
+2024-01-29,40,Nobreak,Periféricos,6,500.0,3000.0,Madrid,Espanha,María
+2023-06-15,22,Cabo Energia,Periféricos,8,33.0,264.0,Los Angeles,Estados Unidos,Alice
+2023-09-05,24,Cabo Rede,Periféricos,5,29.0,145.0,Rio de Janeiro,Brasil,Ana
+2023-12-07,50,Mesa,Móveis,6,549.0,3294.0,New York,Estados Unidos,Alice
+2023-02-15,22,Cabo Energia,Periféricos,10,30.6,306.0,Chicago,Estados Unidos,Alice
+2023-03-10,23,Cabo HDMI,Periféricos,10,41.6,416.0,New York,Estados Unidos,Alice
+2023-06-23,20,Monitor,Monitores,5,880.0,4400.0,Porto,Portugal,Sofia
+2023-03-28,23,Cabo HDMI,Periféricos,1,41.6,41.6,Barcelona,Espanha,María
+2023-12-28,90,HD SSD,Armazenamento,9,732.0,6588.0,Valencia,Espanha,David
+2023-11-15,80,Licença Office 365,Software,1,420.0,420.0,Coimbra,Portugal,Sofia
+2023-03-02,23,Cabo HDMI,Periféricos,6,41.6,249.6,Coimbra,Portugal,Miguel
+2023-04-21,23,Cabo HDMI,Periféricos,7,42.4,296.8,Los Angeles,Estados Unidos,Alice
+2023-09-04,50,Mesa,Móveis,2,522.0,1044.0,Porto,Portugal,Miguel
+2023-10-03,95,Memória,Armazenamento,5,377.6,1888.0,Madrid,Espanha,María
+2023-12-26,10,Mouse,Periféricos,1,122.0,122.0,São Paulo,Brasil,Ana
+2024-02-01,35,Computador,Computadores,3,2346.0,7038.0,Porto,Portugal,Sofia
+2023-10-10,35,Computador,Computadores,10,2714.0,27140.0,Madrid,Espanha,David
+2023-10-08,50,Mesa,Móveis,4,531.0,2124.0,Belo Horizonte,Brasil,João
+2023-08-07,40,Nobreak,Periféricos,9,570.0,5130.0,Porto,Portugal,Miguel
+2023-06-13,40,Nobreak,Periféricos,4,550.0,2200.0,Barcelona,Espanha,María
+2023-07-28,23,Cabo HDMI,Periféricos,9,44.8,403.2,Chicago,Estados Unidos,John
+2023-06-21,70,Licença Windows,Software,8,990.0,7920.0,Chicago,Estados Unidos,Bob
+2023-11-30,50,Mesa,Móveis,1,540.0,540.0,New York,Estados Unidos,John
+2023-10-20,35,Computador,Computadores,9,2714.0,24426.0,Coimbra,Portugal,André
+2023-09-03,70,Licença Windows,Software,9,1044.0,9396.0,New York,Estados Unidos,John
+2023-08-15,22,Cabo Energia,Periféricos,1,34.2,34.2,Madrid,Espanha,Carlos
+2023-09-11,22,Cabo Energia,Periféricos,10,34.8,348.0,Belo Horizonte,Brasil,Carlos
+2023-06-23,95,Memória,Armazenamento,8,352.0,2816.0,New York,Estados Unidos,Bob
+2023-08-28,24,Cabo Rede,Periféricos,5,28.5,142.5,Lisboa,Portugal,Sofia
+2024-02-02,24,Cabo Rede,Periféricos,10,25.5,255.0,Barcelona,Espanha,Carlos
+2023-10-26,50,Mesa,Móveis,2,531.0,1062.0,Coimbra,Portugal,Sofia
+2023-12-05,23,Cabo HDMI,Periféricos,7,48.8,341.6,Rio de Janeiro,Brasil,Carlos
+2023-12-27,95,Memória,Armazenamento,2,390.4,780.8,Barcelona,Espanha,David
+2023-12-25,10,Mouse,Periféricos,7,122.0,854.0,New York,Estados Unidos,Alice
+2023-11-12,10,Mouse,Periféricos,7,120.0,840.0,Barcelona,Espanha,Carlos
+2023-05-07,80,Licença Office 365,Software,9,378.0,3402.0,Lisboa,Portugal,André
+2024-01-14,96,Placa de Vídeo,Periféricos,9,2200.0,19800.0,Lisboa,Portugal,André
+2023-07-12,80,Licença Office 365,Software,5,392.0,1960.0,Los Angeles,Estados Unidos,Alice
+2023-10-03,70,Licença Windows,Software,8,1062.0,8496.0,Porto,Portugal,Miguel
+2023-03-22,96,Placa de Vídeo,Periféricos,3,2288.0,6864.0,Valencia,Espanha,David
+2023-04-19,30,Notebook,Computadores,5,3710.0,18550.0,Madrid,Espanha,Carlos
+2023-11-29,95,Memória,Armazenamento,9,384.0,3456.0,Rio de Janeiro,Brasil,Carlos
+2023-09-26,10,Mouse,Periféricos,8,116.0,928.0,New York,Estados Unidos,Bob
+2023-09-23,60,Cadeira,Móveis,10,348.0,3480.0,Lisboa,Portugal,Sofia
+2023-07-23,23,Cabo HDMI,Periféricos,3,44.8,134.4,Madrid,Espanha,María
+2023-03-30,92,HD Sata,Armazenamento,4,468.0,1872.0,Madrid,Espanha,María
+2023-03-20,24,Cabo Rede,Periféricos,7,26.0,182.0,New York,Estados Unidos,Alice
+2024-01-14,92,HD Sata,Armazenamento,6,450.0,2700.0,Barcelona,Espanha,María
+2023-12-04,95,Memória,Armazenamento,9,390.4,3513.6,Coimbra,Portugal,Miguel
+2023-05-15,35,Computador,Computadores,9,2484.0,22356.0,São Paulo,Brasil,João
+2023-07-16,50,Mesa,Móveis,4,504.0,2016.0,Coimbra,Portugal,Miguel
+2023-12-02,50,Mesa,Móveis,6,549.0,3294.0,Porto,Portugal,André
+2023-11-24,10,Mouse,Periféricos,5,120.0,600.0,Barcelona,Espanha,María
+2023-02-23,22,Cabo Energia,Periféricos,6,30.6,183.6,Rio de Janeiro,Brasil,Carlos
+2023-08-16,11,Teclado,Periféricos,8,171.0,1368.0,New York,Estados Unidos,John
+2023-05-17,23,Cabo HDMI,Periféricos,9,43.2,388.8,Valencia,Espanha,Carlos
+2023-06-14,24,Cabo Rede,Periféricos,3,27.5,82.5,Valencia,Espanha,María
+2023-02-19,40,Nobreak,Periféricos,4,510.0,2040.0,Chicago,Estados Unidos,Alice
+2024-01-05,96,Placa de Vídeo,Periféricos,4,2200.0,8800.0,Belo Horizonte,Brasil,João
+2023-06-08,10,Mouse,Periféricos,10,110.0,1100.0,Los Angeles,Estados Unidos,John
+2023-09-19,60,Cadeira,Móveis,8,348.0,2784.0,Rio de Janeiro,Brasil,Carlos
+2023-10-26,22,Cabo Energia,Periféricos,2,35.4,70.8,Rio de Janeiro,Brasil,João
+2023-05-29,40,Nobreak,Periféricos,1,540.0,540.0,Valencia,Espanha,Carlos
+2023-08-18,80,Licença Office 365,Software,6,399.0,2394.0,New York,Estados Unidos,John
+2023-06-22,95,Memória,Armazenamento,3,352.0,1056.0,Chicago,Estados Unidos,Bob
+2024-02-08,95,Memória,Armazenamento,8,326.4,2611.2,Chicago,Estados Unidos,Bob
+2023-11-30,22,Cabo Energia,Periféricos,2,36.0,72.0,Chicago,Estados Unidos,Alice
+2023-11-04,10,Mouse,Periféricos,2,120.0,240.0,Barcelona,Espanha,Carlos
+2023-04-27,23,Cabo HDMI,Periféricos,6,42.4,254.4,Porto,Portugal,André
+2023-07-08,92,HD Sata,Armazenamento,4,504.0,2016.0,Belo Horizonte,Brasil,Ana
+2024-01-05,50,Mesa,Móveis,4,450.0,1800.0,São Paulo,Brasil,João
+2023-05-22,70,Licença Windows,Software,7,972.0,6804.0,Madrid,Espanha,Carlos
+2023-04-24,10,Mouse,Periféricos,5,106.0,530.0,São Paulo,Brasil,João
+2023-03-23,10,Mouse,Periféricos,8,104.0,832.0,Madrid,Espanha,Carlos
+2024-01-19,96,Placa de Vídeo,Periféricos,7,2200.0,15400.0,Madrid,Espanha,Carlos
+2023-07-26,92,HD Sata,Armazenamento,7,504.0,3528.0,Chicago,Estados Unidos,Alice
+2023-05-17,10,Mouse,Periféricos,10,108.0,1080.0,Coimbra,Portugal,André
+2023-05-06,35,Computador,Computadores,3,2484.0,7452.0,Porto,Portugal,Miguel
+2023-05-12,90,HD SSD,Armazenamento,8,648.0,5184.0,Coimbra,Portugal,André
+2023-03-20,92,HD Sata,Armazenamento,8,468.0,3744.0,Madrid,Espanha,Carlos
+2023-11-05,23,Cabo HDMI,Periféricos,3,48.0,144.0,São Paulo,Brasil,Carlos
+2023-07-19,30,Notebook,Computadores,7,3920.0,27440.0,Valencia,Espanha,Carlos
+2023-07-11,20,Monitor,Monitores,2,896.0,1792.0,Porto,Portugal,Sofia
+2023-09-09,60,Cadeira,Móveis,9,348.0,3132.0,New York,Estados Unidos,Bob
+2024-02-15,30,Notebook,Computadores,2,3570.0,7140.0,Chicago,Estados Unidos,Alice
+2023-08-11,23,Cabo HDMI,Periféricos,10,45.6,456.0,Barcelona,Espanha,David
+2023-04-04,20,Monitor,Monitores,3,848.0,2544.0,Rio de Janeiro,Brasil,Ana
+2023-07-25,70,Licença Windows,Software,6,1008.0,6048.0,Los Angeles,Estados Unidos,Bob
+2023-06-03,30,Notebook,Computadores,1,3850.0,3850.0,New York,Estados Unidos,John
+2023-03-25,60,Cadeira,Móveis,8,312.0,2496.0,New York,Estados Unidos,Alice
+2023-03-19,50,Mesa,Móveis,8,468.0,3744.0,Belo Horizonte,Brasil,Ana
+2023-06-24,22,Cabo Energia,Periféricos,2,33.0,66.0,Rio de Janeiro,Brasil,Carlos
+2023-12-03,96,Placa de Vídeo,Periféricos,5,2684.0,13420.0,Barcelona,Espanha,Carlos
+2023-08-20,40,Nobreak,Periféricos,9,570.0,5130.0,Belo Horizonte,Brasil,Carlos
+2023-09-08,92,HD Sata,Armazenamento,2,522.0,1044.0,Chicago,Estados Unidos,Bob
+2023-05-24,24,Cabo Rede,Periféricos,6,27.0,162.0,São Paulo,Brasil,João
+2023-09-27,20,Monitor,Monitores,4,928.0,3712.0,Los Angeles,Estados Unidos,Alice
+2023-08-09,80,Licença Office 365,Software,9,399.0,3591.0,Lisboa,Portugal,Sofia
+2023-11-17,50,Mesa,Móveis,3,540.0,1620.0,New York,Estados Unidos,Bob
+2023-02-18,96,Placa de Vídeo,Periféricos,1,2244.0,2244.0,Coimbra,Portugal,André
+2024-02-04,11,Teclado,Periféricos,10,153.0,1530.0,New York,Estados Unidos,Bob
+2023-10-11,80,Licença Office 365,Software,4,413.0,1652.0,Valencia,Espanha,María
+2023-05-06,10,Mouse,Periféricos,10,108.0,1080.0,Porto,Portugal,Sofia
+2024-01-06,10,Mouse,Periféricos,5,100.0,500.0,Chicago,Estados Unidos,Alice
+2023-03-21,50,Mesa,Móveis,10,468.0,4680.0,Porto,Portugal,André
+2023-03-27,80,Licença Office 365,Software,2,364.0,728.0,Rio de Janeiro,Brasil,Ana
+2023-08-26,50,Mesa,Móveis,4,513.0,2052.0,Belo Horizonte,Brasil,João
+2023-06-28,92,HD Sata,Armazenamento,7,495.0,3465.0,Porto,Portugal,Miguel
+2023-09-22,11,Teclado,Periféricos,10,174.0,1740.0,Lisboa,Portugal,Miguel
+2023-07-04,40,Nobreak,Periféricos,1,560.0,560.0,Coimbra,Portugal,Sofia
+2023-04-24,95,Memória,Armazenamento,10,339.2,3392.0,Porto,Portugal,Miguel
+2024-02-01,23,Cabo HDMI,Periféricos,8,40.8,326.4,Madrid,Espanha,David
+2023-07-08,10,Mouse,Periféricos,2,112.0,224.0,Barcelona,Espanha,Carlos
+2023-11-25,11,Teclado,Periféricos,7,180.0,1260.0,New York,Estados Unidos,Alice
+2023-08-07,20,Monitor,Monitores,10,912.0,9120.0,Chicago,Estados Unidos,John
+2023-03-15,40,Nobreak,Periféricos,10,520.0,5200.0,Madrid,Espanha,Carlos
+2023-11-02,70,Licença Windows,Software,4,1080.0,4320.0,Los Angeles,Estados Unidos,Alice
+2024-02-09,24,Cabo Rede,Periféricos,3,25.5,76.5,Coimbra,Portugal,Miguel
+2023-09-05,70,Licença Windows,Software,10,1044.0,10440.0,São Paulo,Brasil,Carlos
+2023-05-06,95,Memória,Armazenamento,4,345.6,1382.4,Chicago,Estados Unidos,John
+2023-08-24,60,Cadeira,Móveis,10,342.0,3420.0,Chicago,Estados Unidos,Alice
+2023-05-02,23,Cabo HDMI,Periféricos,3,43.2,129.6,São Paulo,Brasil,João
+2023-03-02,70,Licença Windows,Software,6,936.0,5616.0,Madrid,Espanha,David
+2023-12-05,24,Cabo Rede,Periféricos,9,30.5,274.5,Valencia,Espanha,David
+2023-02-23,35,Computador,Computadores,2,2346.0,4692.0,Madrid,Espanha,David
+2023-09-24,40,Nobreak,Periféricos,10,580.0,5800.0,Coimbra,Portugal,Miguel
+2023-10-27,30,Notebook,Computadores,1,4130.0,4130.0,Barcelona,Espanha,Carlos
+2023-02-24,11,Teclado,Periféricos,3,153.0,459.0,Rio de Janeiro,Brasil,Carlos
+2023-12-11,20,Monitor,Monitores,3,976.0,2928.0,Valencia,Espanha,María
+2023-03-25,10,Mouse,Periféricos,8,104.0,832.0,Rio de Janeiro,Brasil,João
+2023-10-16,23,Cabo HDMI,Periféricos,6,47.2,283.2,Coimbra,Portugal,Miguel
+2023-06-21,35,Computador,Computadores,5,2530.0,12650.0,São Paulo,Brasil,Carlos
+2023-07-18,23,Cabo HDMI,Periféricos,2,44.8,89.6,Lisboa,Portugal,André
+2023-11-08,92,HD Sata,Armazenamento,5,540.0,2700.0,Barcelona,Espanha,David
+2024-01-09,50,Mesa,Móveis,6,450.0,2700.0,Rio de Janeiro,Brasil,Carlos
+2023-10-31,40,Nobreak,Periféricos,5,590.0,2950.0,Coimbra,Portugal,Miguel
+2023-03-10,95,Memória,Armazenamento,3,332.8,998.4,Los Angeles,Estados Unidos,John
+2024-01-14,22,Cabo Energia,Periféricos,6,30.0,180.0,Los Angeles,Estados Unidos,John
+2023-03-26,50,Mesa,Móveis,4,468.0,1872.0,Coimbra,Portugal,André
+2023-03-23,11,Teclado,Periféricos,7,156.0,1092.0,New York,Estados Unidos,Bob
+2024-01-18,11,Teclado,Periféricos,6,150.0,900.0,Valencia,Espanha,Carlos
+2023-02-16,40,Nobreak,Periféricos,4,510.0,2040.0,Rio de Janeiro,Brasil,Ana
+2023-08-23,23,Cabo HDMI,Periféricos,4,45.6,182.4,São Paulo,Brasil,Ana
+2023-02-21,22,Cabo Energia,Periféricos,3,30.6,91.8,Coimbra,Portugal,André
+2023-05-20,95,Memória,Armazenamento,1,345.6,345.6,Coimbra,Portugal,André
+2024-02-07,95,Memória,Armazenamento,3,326.4,979.2,Valencia,Espanha,David
+2023-03-10,60,Cadeira,Móveis,2,312.0,624.0,Lisboa,Portugal,André
+2024-01-16,20,Monitor,Monitores,7,800.0,5600.0,Valencia,Espanha,María
+2023-12-14,50,Mesa,Móveis,7,549.0,3843.0,Coimbra,Portugal,André
+2023-09-03,96,Placa de Vídeo,Periféricos,7,2552.0,17864.0,Rio de Janeiro,Brasil,Carlos
+2023-08-23,60,Cadeira,Móveis,9,342.0,3078.0,Belo Horizonte,Brasil,Ana
+2023-08-06,50,Mesa,Móveis,5,513.0,2565.0,Los Angeles,Estados Unidos,Bob
+2023-06-04,24,Cabo Rede,Periféricos,4,27.5,110.0,Belo Horizonte,Brasil,Carlos
+2023-03-03,96,Placa de Vídeo,Periféricos,7,2288.0,16016.0,Lisboa,Portugal,Miguel
+2023-02-20,95,Memória,Armazenamento,1,326.4,326.4,Chicago,Estados Unidos,Bob
+2023-08-19,95,Memória,Armazenamento,3,364.8,1094.4,Madrid,Espanha,David
+2023-11-13,40,Nobreak,Periféricos,3,600.0,1800.0,Barcelona,Espanha,María
+2023-06-13,60,Cadeira,Móveis,9,330.0,2970.0,Valencia,Espanha,María
+2023-12-14,10,Mouse,Periféricos,2,122.0,244.0,Los Angeles,Estados Unidos,Bob
+2023-09-10,20,Monitor,Monitores,7,928.0,6496.0,Madrid,Espanha,María
+2023-05-29,80,Licença Office 365,Software,10,378.0,3780.0,Coimbra,Portugal,André
+2023-08-27,22,Cabo Energia,Periféricos,6,34.2,205.2,Coimbra,Portugal,André
+2023-11-18,50,Mesa,Móveis,3,540.0,1620.0,New York,Estados Unidos,John
+2023-10-19,95,Memória,Armazenamento,2,377.6,755.2,Rio de Janeiro,Brasil,Ana
+2024-01-09,23,Cabo HDMI,Periféricos,4,40.0,160.0,Belo Horizonte,Brasil,Carlos
+2023-09-12,92,HD Sata,Armazenamento,7,522.0,3654.0,Chicago,Estados Unidos,Bob
+2023-03-13,80,Licença Office 365,Software,9,364.0,3276.0,Chicago,Estados Unidos,Alice
+2023-12-11,23,Cabo HDMI,Periféricos,2,48.8,97.6,Barcelona,Espanha,María
+2023-05-30,20,Monitor,Monitores,5,864.0,4320.0,New York,Estados Unidos,Bob
+2023-04-22,95,Memória,Armazenamento,5,339.2,1696.0,New York,Estados Unidos,John
+2024-01-30,80,Licença Office 365,Software,2,350.0,700.0,New York,Estados Unidos,Alice
+2023-06-17,96,Placa de Vídeo,Periféricos,4,2420.0,9680.0,São Paulo,Brasil,João
+2023-07-23,50,Mesa,Móveis,10,504.0,5040.0,Los Angeles,Estados Unidos,John
+2024-02-12,95,Memória,Armazenamento,7,326.4,2284.8,Barcelona,Espanha,Carlos
+2023-06-02,60,Cadeira,Móveis,7,330.0,2310.0,Belo Horizonte,Brasil,Ana
+2023-11-26,92,HD Sata,Armazenamento,3,540.0,1620.0,São Paulo,Brasil,Carlos
+2023-03-19,40,Nobreak,Periféricos,10,520.0,5200.0,Barcelona,Espanha,Carlos
+2023-11-24,60,Cadeira,Móveis,5,360.0,1800.0,Madrid,Espanha,Carlos
+2023-08-22,24,Cabo Rede,Periféricos,1,28.5,28.5,Belo Horizonte,Brasil,João
+2024-01-14,23,Cabo HDMI,Periféricos,1,40.0,40.0,São Paulo,Brasil,Carlos
+2023-04-24,92,HD Sata,Armazenamento,3,477.0,1431.0,Coimbra,Portugal,André
+2023-09-25,96,Placa de Vídeo,Periféricos,1,2552.0,2552.0,Chicago,Estados Unidos,Alice
+2023-06-15,80,Licença Office 365,Software,7,385.0,2695.0,Barcelona,Espanha,María
+2023-11-28,11,Teclado,Periféricos,5,180.0,900.0,Chicago,Estados Unidos,Alice
+2023-09-13,20,Monitor,Monitores,1,928.0,928.0,Barcelona,Espanha,Carlos
+2023-05-28,10,Mouse,Periféricos,1,108.0,108.0,Coimbra,Portugal,Sofia
+2024-01-14,70,Licença Windows,Software,10,900.0,9000.0,Lisboa,Portugal,Sofia
+2023-06-19,50,Mesa,Móveis,10,495.0,4950.0,Porto,Portugal,Miguel
+2023-07-04,90,HD SSD,Armazenamento,10,672.0,6720.0,Coimbra,Portugal,Miguel
+2023-06-19,40,Nobreak,Periféricos,7,550.0,3850.0,Barcelona,Espanha,David
+2023-05-31,96,Placa de Vídeo,Periféricos,1,2376.0,2376.0,São Paulo,Brasil,Carlos
+2023-06-30,95,Memória,Armazenamento,10,352.0,3520.0,Madrid,Espanha,David
+2023-07-24,22,Cabo Energia,Periféricos,4,33.6,134.4,New York,Estados Unidos,John
+2023-02-27,10,Mouse,Periféricos,10,102.0,1020.0,Barcelona,Espanha,Carlos
+2024-01-27,95,Memória,Armazenamento,4,320.0,1280.0,Barcelona,Espanha,Carlos
+2023-03-04,30,Notebook,Computadores,10,3640.0,36400.0,Porto,Portugal,André
+2023-09-12,22,Cabo Energia,Periféricos,9,34.8,313.2,Belo Horizonte,Brasil,Ana
+2023-05-27,90,HD SSD,Armazenamento,2,648.0,1296.0,New York,Estados Unidos,Bob
+2023-12-12,10,Mouse,Periféricos,4,122.0,488.0,Belo Horizonte,Brasil,João
+2023-10-30,35,Computador,Computadores,5,2714.0,13570.0,Los Angeles,Estados Unidos,Bob
+2024-01-27,70,Licença Windows,Software,1,900.0,900.0,Los Angeles,Estados Unidos,John
+2023-04-02,70,Licença Windows,Software,4,954.0,3816.0,Chicago,Estados Unidos,Alice
+2024-01-28,24,Cabo Rede,Periféricos,2,25.0,50.0,Valencia,Espanha,Carlos
+2023-02-25,95,Memória,Armazenamento,5,326.4,1632.0,Los Angeles,Estados Unidos,Alice
+2023-05-26,30,Notebook,Computadores,10,3780.0,37800.0,Porto,Portugal,André
+2023-03-16,50,Mesa,Móveis,5,468.0,2340.0,Barcelona,Espanha,María
+2023-09-29,90,HD SSD,Armazenamento,3,696.0,2088.0,Valencia,Espanha,María
+2023-08-02,10,Mouse,Periféricos,1,114.0,114.0,New York,Estados Unidos,Bob
+2023-11-15,11,Teclado,Periféricos,10,180.0,1800.0,Lisboa,Portugal,Miguel
+2023-07-03,20,Monitor,Monitores,7,896.0,6272.0,São Paulo,Brasil,João
+2023-12-22,60,Cadeira,Móveis,4,366.0,1464.0,Madrid,Espanha,Carlos
+2023-04-04,24,Cabo Rede,Periféricos,4,26.5,106.0,Rio de Janeiro,Brasil,Ana
+2023-05-26,30,Notebook,Computadores,10,3780.0,37800.0,Porto,Portugal,André
+2023-12-09,80,Licença Office 365,Software,5,427.0,2135.0,Barcelona,Espanha,David
+2023-04-11,95,Memória,Armazenamento,7,339.2,2374.4,Coimbra,Portugal,André
+2023-10-15,92,HD Sata,Armazenamento,3,531.0,1593.0,New York,Estados Unidos,Alice
+2024-01-30,95,Memória,Armazenamento,1,320.0,320.0,Belo Horizonte,Brasil,João
+2023-11-11,20,Monitor,Monitores,5,960.0,4800.0,Rio de Janeiro,Brasil,Ana
+2024-01-18,22,Cabo Energia,Periféricos,3,30.0,90.0,Valencia,Espanha,Carlos
+2023-08-17,22,Cabo Energia,Periféricos,4,34.2,136.8,Porto,Portugal,Sofia
+2023-12-03,10,Mouse,Periféricos,1,122.0,122.0,Coimbra,Portugal,André
+2023-04-08,24,Cabo Rede,Periféricos,6,26.5,159.0,Porto,Portugal,Sofia
+2023-04-25,50,Mesa,Móveis,7,477.0,3339.0,Porto,Portugal,André
+2023-09-02,22,Cabo Energia,Periféricos,9,34.8,313.2,Rio de Janeiro,Brasil,João
+2024-01-01,70,Licença Windows,Software,3,900.0,2700.0,Belo Horizonte,Brasil,Carlos
+2024-01-19,10,Mouse,Periféricos,7,100.0,700.0,Barcelona,Espanha,María
+2023-06-22,95,Memória,Armazenamento,6,352.0,2112.0,Belo Horizonte,Brasil,João
+2023-12-15,10,Mouse,Periféricos,6,122.0,732.0,Belo Horizonte,Brasil,Carlos
+2023-10-04,35,Computador,Computadores,7,2714.0,18998.0,Rio de Janeiro,Brasil,Ana
+2023-05-09,11,Teclado,Periféricos,3,162.0,486.0,Rio de Janeiro,Brasil,Ana
+2023-11-27,70,Licença Windows,Software,5,1080.0,5400.0,Madrid,Espanha,David
+2024-02-10,60,Cadeira,Móveis,8,306.0,2448.0,New York,Estados Unidos,John
+2023-07-07,35,Computador,Computadores,4,2576.0,10304.0,Madrid,Espanha,David
+2024-01-19,96,Placa de Vídeo,Periféricos,7,2200.0,15400.0,Madrid,Espanha,Carlos
+2023-11-24,80,Licença Office 365,Software,4,420.0,1680.0,Coimbra,Portugal,Sofia
+2023-03-03,92,HD Sata,Armazenamento,2,468.0,936.0,Barcelona,Espanha,Carlos
+2023-06-18,23,Cabo HDMI,Periféricos,4,44.0,176.0,Coimbra,Portugal,Sofia
+2023-03-24,95,Memória,Armazenamento,10,332.8,3328.0,Barcelona,Espanha,Carlos
+2023-07-11,23,Cabo HDMI,Periféricos,9,44.8,403.2,Coimbra,Portugal,Sofia
+2023-09-15,20,Monitor,Monitores,3,928.0,2784.0,Belo Horizonte,Brasil,Ana
+2023-02-23,35,Computador,Computadores,6,2346.0,14076.0,Coimbra,Portugal,Miguel
+2023-07-05,70,Licença Windows,Software,1,1008.0,1008.0,Los Angeles,Estados Unidos,Alice
+2023-12-15,11,Teclado,Periféricos,2,183.0,366.0,Porto,Portugal,André
+2023-11-09,95,Memória,Armazenamento,1,384.0,384.0,Barcelona,Espanha,David
+2023-03-16,50,Mesa,Móveis,5,468.0,2340.0,Barcelona,Espanha,María
+2023-07-22,70,Licença Windows,Software,10,1008.0,10080.0,Barcelona,Espanha,Carlos
+2023-06-15,35,Computador,Computadores,1,2530.0,2530.0,Porto,Portugal,André
+2023-07-24,35,Computador,Computadores,9,2576.0,23184.0,Belo Horizonte,Brasil,João
+2023-06-22,95,Memória,Armazenamento,6,352.0,2112.0,Belo Horizonte,Brasil,João
+2023-08-16,70,Licença Windows,Software,2,1026.0,2052.0,New York,Estados Unidos,John
+2023-02-25,95,Memória,Armazenamento,5,326.4,1632.0,Porto,Portugal,Sofia
+2023-09-26,92,HD Sata,Armazenamento,4,522.0,2088.0,Rio de Janeiro,Brasil,Ana
+2023-06-05,22,Cabo Energia,Periféricos,10,33.0,330.0,Porto,Portugal,Sofia
+2023-03-24,90,HD SSD,Armazenamento,8,624.0,4992.0,Madrid,Espanha,David
+2023-08-17,40,Nobreak,Periféricos,4,570.0,2280.0,Lisboa,Portugal,Miguel
